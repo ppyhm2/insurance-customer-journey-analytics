@@ -1,0 +1,518 @@
+quote_id,proposal_id,insurer_name,status,monthly_premium,monthly_commission,quoted_at,is_purchased
+530801a3-b046-4feb-aaa9-b70c6810a30b,7162c6ea-e343-4826-9687-08b1a83a30a8,Apex Insurance Group,Declined,,,2024-02-04T21:20:54,FALSE
+e0aac0c1-bb50-4b3a-8c43-4d2417e1260c,7162c6ea-e343-4826-9687-08b1a83a30a8,Meridian Underwriting,Declined,,,2024-02-04T21:20:58,FALSE
+00f1b6f6-3439-4a47-872c-04e91eaf981b,3d9df5b4-ff55-4e4f-b61f-cfc9e2be8251,Meridian Underwriting,Quoted,143.01,14.3,2024-02-01T09:16:36,FALSE
+4875dde1-5f27-4f37-8ab8-d9e5e92124ae,03a84b0f-0308-41ca-97d8-577a529703c3,Apex Insurance Group,Declined,,,2024-12-25T04:13:52,FALSE
+2a9def49-d18b-4c58-96fa-df301575989c,03a84b0f-0308-41ca-97d8-577a529703c3,Meridian Underwriting,Quoted,96.95,9.7,2024-12-25T04:13:49,FALSE
+6d1bf51f-5408-4717-9835-49f116c805e3,28a47cd1-5988-43e8-91f5-b2a105270305,Apex Insurance Group,Quoted,30.24,3.02,2024-11-16T10:48:21,TRUE
+131a0446-193d-4b79-b30e-2f34c08a928d,28a47cd1-5988-43e8-91f5-b2a105270305,Meridian Underwriting,Declined,,,2024-11-16T10:48:45,FALSE
+f3993bfb-e496-481b-be25-815acb6a405e,cae8f6e7-4e59-4c14-9432-bcad983f0512,Meridian Underwriting,Quoted,38.72,3.87,2024-05-24T20:35:52,FALSE
+ebd7cfe9-2567-4881-b006-616ed86fa282,cae8f6e7-4e59-4c14-9432-bcad983f0512,Apex Insurance Group,Quoted,49.21,4.92,2024-05-24T20:35:30,FALSE
+78fbc0fa-34c2-49dd-bbad-bc33471f5251,71a12950-83d0-4197-b486-6bc92f5888dc,Meridian Underwriting,Quoted,150.08,15.01,2024-11-02T02:36:59,FALSE
+161efa11-aa17-4118-b589-f4c0d1d10ac5,71a12950-83d0-4197-b486-6bc92f5888dc,Apex Insurance Group,Quoted,47.28,4.73,2024-11-02T02:35:50,FALSE
+93ca5fc6-2c6b-4743-b715-274007f6769d,c6148573-88f6-431e-b821-f9d30be85a14,Apex Insurance Group,Quoted,181.81,18.18,2024-11-23T21:53:40,FALSE
+fa9dc2a3-33ae-454d-855a-5cf90ed36311,b6dfebfd-95c3-4dc9-9e7d-202db6442336,Meridian Underwriting,Declined,,,2024-09-06T16:16:28,FALSE
+68015bf6-2d38-493f-84e8-778887c1c985,3d14ba7c-387f-42ff-a173-5876eaf51a48,Apex Insurance Group,Quoted,21.68,2.17,2024-12-11T18:11:21,FALSE
+0b221087-583e-4b9d-809a-09ee099f4fd5,46cc0e11-5347-4b47-916a-84439f8204d7,Meridian Underwriting,Declined,,,2024-01-05T09:14:46,FALSE
+ebfcc64b-2c14-4f2c-80ba-e03f378360d5,46cc0e11-5347-4b47-916a-84439f8204d7,Apex Insurance Group,Quoted,33.01,3.3,2024-01-05T09:14:53,FALSE
+327e1196-842b-4269-a4f5-42123dc45fad,3978886f-4ead-4f35-9b00-3aea916ebae9,Apex Insurance Group,Quoted,20.18,2.02,2024-05-09T22:06:09,FALSE
+b1f2565f-3869-41b7-b664-6c77e0b4b677,3978886f-4ead-4f35-9b00-3aea916ebae9,Meridian Underwriting,Quoted,166.64,16.66,2024-05-09T22:06:03,FALSE
+68b3a814-89f3-4694-8e2f-fc5db950cf5f,5ee52d02-cb63-49aa-a764-66563f88d95e,Meridian Underwriting,Quoted,146.1,14.61,2024-10-04T22:00:41,TRUE
+db73596b-560a-4682-a234-ed3634908eb6,663a4f46-3298-489f-bf8f-7d5a5c3a4136,Apex Insurance Group,Declined,,,2024-01-02T16:16:22,FALSE
+19b6d3fd-3d77-4762-85bd-eed10327b9bf,663a4f46-3298-489f-bf8f-7d5a5c3a4136,Meridian Underwriting,Quoted,187.48,18.75,2024-01-02T16:16:38,TRUE
+23dc0ffd-d621-4d0f-a751-a6efff003659,83747199-6c61-4ef6-8efd-21dd47eb0bd5,Apex Insurance Group,Quoted,37.87,3.79,2024-01-02T06:02:03,FALSE
+a78bb11e-042e-4dc4-94c4-849d0d5642b9,83747199-6c61-4ef6-8efd-21dd47eb0bd5,Meridian Underwriting,Quoted,137.78,13.78,2024-01-02T06:01:18,FALSE
+2b3daaef-e905-4ea9-8e91-24301c7ae5f0,079a42eb-5ce9-4727-9902-2d58a0ea93ec,Apex Insurance Group,Quoted,65.78,6.58,2024-03-17T22:34:57,TRUE
+7333cd65-d538-4921-b41c-9345e2064941,badab898-fdda-4bb3-9423-6d8df590cd03,Apex Insurance Group,Quoted,190.42,19.04,2024-11-23T18:51:10,FALSE
+fee7282f-33fd-4ad7-9546-15a90c0e1bed,8d46313e-9976-4751-be69-6059c3912aec,Apex Insurance Group,Quoted,58.38,5.84,2024-05-04T15:01:04,FALSE
+ed33d787-1daa-443d-a796-a956f8180db4,8d46313e-9976-4751-be69-6059c3912aec,Meridian Underwriting,Quoted,116.57,11.66,2024-05-04T15:01:23,FALSE
+92b4b907-1a85-457d-b3f3-ab72d81b4c6c,1a96899f-e55c-4f75-9418-771c83f0646b,Apex Insurance Group,Quoted,168.83,16.88,2024-10-27T13:27:37,FALSE
+547a63b0-091c-46be-8199-11df1f52ee2c,1a96899f-e55c-4f75-9418-771c83f0646b,Meridian Underwriting,Declined,,,2024-10-27T13:28:53,FALSE
+b7a9a4fc-c65d-49c3-8cea-5cc74533ca1e,0f902b8b-8fc8-4c50-a1db-27e87ceed3c4,Meridian Underwriting,Quoted,118.78,11.88,2024-10-25T21:23:07,FALSE
+3257a264-c992-4ee0-b5c0-ca9c219273c7,baf7e9be-4c61-4b1a-901d-b1d4d6901d42,Meridian Underwriting,Declined,,,2024-06-04T04:05:45,FALSE
+3f63fbf2-de30-4d36-8a00-795032e0ce5d,7279b832-756c-4e38-8968-723e067b2c9b,Meridian Underwriting,Declined,,,2024-12-20T10:42:21,FALSE
+73a3e655-b0af-464b-8261-47aad429bade,1bcf6ac9-52d2-4d04-b2af-1459f800119f,Apex Insurance Group,Quoted,27.19,2.72,2024-11-24T03:28:39,FALSE
+0347ecfd-f5bf-4509-afad-433deb35f6b7,1bcf6ac9-52d2-4d04-b2af-1459f800119f,Meridian Underwriting,Quoted,86.41,8.64,2024-11-24T03:28:38,FALSE
+b2c9f587-9413-4c10-9d6b-832f4e0cb0e0,4483fbe9-c9c2-49a6-b598-68d65e403b93,Meridian Underwriting,Declined,,,2024-03-18T03:42:10,FALSE
+fe8e21c1-6d97-4aeb-a5fb-2c673723bd78,ec04f7a5-c742-4efa-806a-e02ee187b347,Meridian Underwriting,Declined,,,2024-04-22T08:33:53,FALSE
+86a0ea95-ca6f-4e6c-a61f-fbd0480fad97,ec04f7a5-c742-4efa-806a-e02ee187b347,Apex Insurance Group,Quoted,93.37,9.34,2024-04-22T08:33:54,FALSE
+751f231f-e1c1-4385-903d-f1995cca3d0f,9e7a73f6-5d64-4ae6-8153-dfe403e917e3,Meridian Underwriting,Declined,,,2024-09-06T16:56:31,FALSE
+babdf9ae-ea9c-4a5c-b15a-14d66dcc6dd9,9e7a73f6-5d64-4ae6-8153-dfe403e917e3,Apex Insurance Group,Quoted,52.5,5.25,2024-09-06T16:57:12,FALSE
+9fd2b4a2-4b81-492e-8032-ae36ca09373e,6a0efe8b-affb-4103-85f4-0e41f2af780b,Meridian Underwriting,Quoted,31.61,3.16,2024-06-26T22:22:48,FALSE
+aecf9ee2-2996-4397-b871-1d5bad94b5fb,6a0efe8b-affb-4103-85f4-0e41f2af780b,Apex Insurance Group,Quoted,141.94,14.19,2024-06-26T22:22:14,FALSE
+da7268e5-c752-4d19-84ef-d14eb9d1f587,376fa61c-8562-480d-990e-c20526cd9d80,Apex Insurance Group,Quoted,159.19,15.92,2024-11-30T09:45:53,FALSE
+5f1a7ac1-a5fc-4028-91e7-62cb000e378c,4102e572-f929-463a-aae6-48ba5eee8c62,Apex Insurance Group,Declined,,,2024-11-21T23:27:31,FALSE
+0413ad66-c326-49ee-b798-32703beb1016,d93a70a0-6ae6-4311-be26-828c32081970,Meridian Underwriting,Quoted,69.13,6.91,2024-12-04T17:34:28,FALSE
+27a6ea6e-968f-4093-8066-5598bdf2c71e,d93a70a0-6ae6-4311-be26-828c32081970,Apex Insurance Group,Declined,,,2024-12-04T17:33:30,FALSE
+a27865a2-3f7a-4dd3-af33-acba53726e82,18264e4d-023e-4613-be1b-909ac659a95b,Apex Insurance Group,Quoted,162.19,16.22,2024-06-25T13:32:30,FALSE
+bbf11804-9bac-4f9c-894b-02b81beab305,ea30ed50-418b-4f7a-8362-004591d74e3a,Meridian Underwriting,Quoted,64.38,6.44,2024-10-20T01:31:57,FALSE
+7012fd17-6c6b-445e-a5c4-cd1d6c9cdf8d,ea30ed50-418b-4f7a-8362-004591d74e3a,Apex Insurance Group,Quoted,97.79,9.78,2024-10-20T01:32:55,FALSE
+94f0a308-946d-4a76-97bc-085da484e945,cb8c25d7-a625-464b-a766-b994028c055b,Meridian Underwriting,Quoted,75.46,7.55,2024-01-24T08:50:04,FALSE
+c4777a54-b69f-4856-b3db-fc802e8db9be,cb8c25d7-a625-464b-a766-b994028c055b,Apex Insurance Group,Quoted,132.49,13.25,2024-01-24T08:49:17,FALSE
+cc6bf67c-956d-4ab9-b25d-0df0895b4f55,4e30d39d-1307-4044-bceb-127b5311e068,Meridian Underwriting,Declined,,,2024-05-16T21:05:25,FALSE
+da34ffad-86c3-48e0-9568-a69993c9855f,49d6add3-b257-41d7-932d-2711f13abd61,Apex Insurance Group,Quoted,84.91,8.49,2024-07-27T03:21:07,FALSE
+5276aa18-ac68-414d-b6c6-3641a2b4f357,49d6add3-b257-41d7-932d-2711f13abd61,Meridian Underwriting,Quoted,133.04,13.3,2024-07-27T03:22:18,FALSE
+57c13b19-9b75-4e30-84a7-6eda42f03427,62492303-b7b9-4d59-ab43-f6741df87ebf,Meridian Underwriting,Declined,,,2024-05-04T05:45:16,FALSE
+7008dfac-5aba-4c09-9cf4-0232d6ef5acd,62492303-b7b9-4d59-ab43-f6741df87ebf,Apex Insurance Group,Quoted,123.58,12.36,2024-05-04T05:45:19,TRUE
+f4ea366d-ea7a-4ec0-afe3-d61e1bf8f3e6,abb85bf2-18c4-45e8-aba2-168968ccdb1a,Apex Insurance Group,Declined,,,2024-02-01T16:14:21,FALSE
+34664e8b-b555-4934-9477-0b313cb51d44,abb85bf2-18c4-45e8-aba2-168968ccdb1a,Meridian Underwriting,Quoted,184.87,18.49,2024-02-01T16:14:09,TRUE
+c9d6f635-4074-4201-a2ab-964cbc8fc85c,e96fbe63-1327-42f0-8f78-6573fc611881,Meridian Underwriting,Quoted,112.89,11.29,2024-03-06T04:48:54,TRUE
+617213c3-2f4d-4e73-b8d2-a1571439eb0e,e96fbe63-1327-42f0-8f78-6573fc611881,Apex Insurance Group,Quoted,129.58,12.96,2024-03-06T04:48:17,FALSE
+bb021513-cea9-4c78-8e73-0077572289e4,5620eeb5-3d68-4cae-90da-02857097624f,Apex Insurance Group,Declined,,,2024-04-28T12:41:09,FALSE
+73a6cb50-bc37-4535-b72e-acf1ca63dfaa,5620eeb5-3d68-4cae-90da-02857097624f,Meridian Underwriting,Quoted,154.03,15.4,2024-04-28T12:41:40,TRUE
+83b7dbca-41f2-44b1-8c1c-567c926c2ed0,0d1fcc90-a91b-493d-9b67-283110965553,Apex Insurance Group,Quoted,32.84,3.28,2024-02-13T21:17:49,TRUE
+8c36e8af-5eb6-4432-a8e2-e1c7a9218b36,ca9b8b9f-6ffb-4508-ba4c-d9a8f25b2cdf,Meridian Underwriting,Quoted,116.44,11.64,2024-07-16T21:45:05,TRUE
+3298c97d-b1ff-42e5-95bf-c02fb16853d6,ca9b8b9f-6ffb-4508-ba4c-d9a8f25b2cdf,Apex Insurance Group,Quoted,156.06,15.61,2024-07-16T21:44:28,FALSE
+f0615b4e-1457-4a75-90ce-1b58f572d8bb,ad5f5c5f-b31f-48b3-afea-9ae9386ed540,Meridian Underwriting,Quoted,152.23,15.22,2024-08-03T00:55:46,TRUE
+81a4cb9a-4e1c-44a3-a519-ea6081f6a7f4,ad5f5c5f-b31f-48b3-afea-9ae9386ed540,Apex Insurance Group,Declined,,,2024-08-03T00:56:01,FALSE
+63786b81-71c6-4743-a175-ec8acee8afb1,663d0671-3e25-4a93-abe6-455896a1bc72,Meridian Underwriting,Quoted,152.36,15.24,2024-10-17T19:25:18,TRUE
+0c5d2627-ca39-4bbf-8a19-e5a461540451,663d0671-3e25-4a93-abe6-455896a1bc72,Apex Insurance Group,Quoted,173.02,17.3,2024-10-17T19:23:36,FALSE
+65062df0-5b47-4f17-a0d9-291f92926616,0a8e75d1-2050-48e3-b39d-af0e07313559,Apex Insurance Group,Quoted,117.51,11.75,2024-09-19T21:43:01,FALSE
+136654f8-22a1-4c84-acae-7c7e3db86751,0a8e75d1-2050-48e3-b39d-af0e07313559,Meridian Underwriting,Quoted,110.67,11.07,2024-09-19T21:44:29,TRUE
+15a6cee7-6d24-4bd3-a134-22c1862241e8,10743e3b-58c4-4427-ae62-569c7370eb10,Apex Insurance Group,Quoted,133.41,13.34,2024-10-19T00:56:46,FALSE
+08affb9c-20ee-407e-b36f-281185bc976b,053ee75f-a54c-4d5b-9349-eb0e6719340f,Meridian Underwriting,Declined,,,2024-12-05T16:29:35,FALSE
+c5bcf6ca-2248-442b-bf93-c43d2a76f122,053ee75f-a54c-4d5b-9349-eb0e6719340f,Apex Insurance Group,Quoted,155.15,15.52,2024-12-05T16:28:44,FALSE
+7222bb60-55f2-45d8-9f32-35947b760228,72388033-d23b-460b-b6b2-50afebabce5c,Meridian Underwriting,Declined,,,2024-01-29T00:26:48,FALSE
+13d38050-98dd-4fdb-a05f-8b43711178fa,eae674f1-e794-43c7-a93f-00cd6b5e21e3,Apex Insurance Group,Quoted,24.66,2.47,2024-04-18T01:12:48,FALSE
+47aeabeb-015e-4086-8c8e-d6bdc83e4927,eae674f1-e794-43c7-a93f-00cd6b5e21e3,Meridian Underwriting,Quoted,51.52,5.15,2024-04-18T01:12:51,FALSE
+0201142e-1e25-4af2-8739-18a1b9dcf31b,64cdefd0-8574-4237-ac49-4d4f50509688,Apex Insurance Group,Declined,,,2024-08-14T21:14:37,FALSE
+58077d56-6572-47ab-864d-4522962d35ff,64cdefd0-8574-4237-ac49-4d4f50509688,Meridian Underwriting,Declined,,,2024-08-14T21:13:26,FALSE
+e3317ed7-df02-45bf-98ae-11e7f63c7da5,e99f9aba-e725-48b3-bb17-78a43a2d2aa8,Apex Insurance Group,Quoted,37.54,3.75,2024-05-28T15:54:49,FALSE
+c516f65e-407e-4924-94ec-b4917e4dd627,e99f9aba-e725-48b3-bb17-78a43a2d2aa8,Meridian Underwriting,Quoted,162.9,16.29,2024-05-28T15:54:35,FALSE
+22720137-48cc-4e84-bed0-1cd3c65b7c52,813b504b-95a9-4b76-93d5-cba05105f185,Meridian Underwriting,Quoted,149.17,14.92,2024-03-22T06:46:30,FALSE
+633ffb7e-e45d-425c-a1f0-3a3e078e8981,813b504b-95a9-4b76-93d5-cba05105f185,Apex Insurance Group,Quoted,173.31,17.33,2024-03-22T06:45:36,FALSE
+61f9c25f-1015-41e5-8638-fbbec29efeaf,91be0696-abc0-438c-8275-da13e6a0ec87,Apex Insurance Group,Declined,,,2024-04-08T02:43:37,FALSE
+ef413e0f-9a3b-4dda-b3a2-228a03131bf5,91be0696-abc0-438c-8275-da13e6a0ec87,Meridian Underwriting,Quoted,157.93,15.79,2024-04-08T02:43:01,TRUE
+3ad9cd7c-f11f-4609-964e-9715996e8221,e0525f97-3d1e-4959-a29b-b1817925834f,Apex Insurance Group,Declined,,,2024-06-14T17:41:59,FALSE
+57ee08d9-e609-4756-aaf8-43f91aa4f821,e0525f97-3d1e-4959-a29b-b1817925834f,Meridian Underwriting,Declined,,,2024-06-14T17:42:19,FALSE
+74d3aace-bc47-4ec0-a74b-9bb0175b99c4,0e0092c4-98f1-4289-8ad1-6098e4c59472,Apex Insurance Group,Declined,,,2024-12-25T01:24:39,FALSE
+d00d7246-f232-496c-b9fb-2118eda8df80,0e0092c4-98f1-4289-8ad1-6098e4c59472,Meridian Underwriting,Quoted,42.91,4.29,2024-12-25T01:23:12,TRUE
+0c085307-41a7-477c-ae36-5cbc348da5c7,3e58b0b9-0ccf-49aa-b4ed-10299c0781da,Meridian Underwriting,Quoted,93.94,9.39,2024-01-15T00:59:16,TRUE
+f68b3c96-96db-453e-ab22-b59100d86dea,3e58b0b9-0ccf-49aa-b4ed-10299c0781da,Apex Insurance Group,Quoted,51.24,5.12,2024-01-15T00:59:54,FALSE
+6509f9ec-08ca-4df9-9536-baa209fc66ac,898dd22b-ee3c-4a5d-853f-1ed1dc7751e5,Meridian Underwriting,Declined,,,2024-08-09T02:17:15,FALSE
+628c3288-650b-4d86-ab2d-18f26f34b1b5,898dd22b-ee3c-4a5d-853f-1ed1dc7751e5,Apex Insurance Group,Quoted,25.02,2.5,2024-08-09T02:16:59,FALSE
+6acbd0fb-7c93-4e61-90cf-6df98e18e891,e3939cd3-49a2-4f3b-aae1-3f80f017c86e,Apex Insurance Group,Declined,,,2024-02-12T16:54:55,FALSE
+0b27806e-a3b4-48bf-84db-499767d64738,e3939cd3-49a2-4f3b-aae1-3f80f017c86e,Meridian Underwriting,Quoted,48.14,4.81,2024-02-12T16:53:58,TRUE
+9125cde0-2f18-4946-ad6a-90a7ca354a79,7efb92fb-d960-4eb4-9f7e-cbe27dd50389,Apex Insurance Group,Declined,,,2024-09-04T11:40:47,FALSE
+08a2501c-0035-4fb8-a872-d2d2070d8705,7efb92fb-d960-4eb4-9f7e-cbe27dd50389,Meridian Underwriting,Declined,,,2024-09-04T11:40:48,FALSE
+d585e29a-8948-4b86-b1b1-5c7b2b8dd356,20b6685c-d192-4178-be2f-a4a38c47872b,Meridian Underwriting,Quoted,177.08,17.71,2024-06-18T17:20:59,FALSE
+33915fbc-4460-451d-9f2c-12b0f9ff70e0,20b6685c-d192-4178-be2f-a4a38c47872b,Apex Insurance Group,Quoted,35.37,3.54,2024-06-18T17:21:35,FALSE
+31668d9d-c41c-4504-a537-4922c7142deb,a40b8bcb-7b30-4e98-84b2-dc8bf4a08e10,Apex Insurance Group,Quoted,45.44,4.54,2024-12-09T05:10:51,TRUE
+e7e89e55-8800-4288-8eff-2c2fa7a27df1,0a6f365b-c740-4f1b-b2b0-43a32ca6112a,Apex Insurance Group,Quoted,129.78,12.98,2024-07-12T14:21:41,FALSE
+6587c4c4-a7ec-4996-acad-75785068464a,0a6f365b-c740-4f1b-b2b0-43a32ca6112a,Meridian Underwriting,Quoted,167.72,16.77,2024-07-12T14:22:23,FALSE
+2f92dc7d-eb55-420e-be05-ee52ca3538a4,3ee5abf3-1ffa-48e0-b117-777f12cce2ab,Apex Insurance Group,Declined,,,2024-10-08T22:48:40,FALSE
+e17f4fc0-4bd1-47cd-9456-21d98f61b4ad,3ee5abf3-1ffa-48e0-b117-777f12cce2ab,Meridian Underwriting,Quoted,131.3,13.13,2024-10-08T22:48:41,FALSE
+2510073c-825a-4bcd-8f67-bed85c6c0a30,bf7b7dc3-01ff-4e44-a226-2e433ccbf5f3,Apex Insurance Group,Quoted,193.54,19.35,2024-12-14T19:44:59,TRUE
+27a8252d-8db8-4e04-af8b-ee44d679303b,d7a9dc76-dc83-4af3-a1c9-72867eb1c3fc,Meridian Underwriting,Quoted,82.52,8.25,2024-05-28T17:23:28,FALSE
+fff4771e-baf8-4334-a3e8-54511f183a03,d7a9dc76-dc83-4af3-a1c9-72867eb1c3fc,Apex Insurance Group,Declined,,,2024-05-28T17:23:28,FALSE
+b128c8e6-13b3-4d84-9f0b-916adc3fc561,d6590027-af43-4078-8142-ce729ba4db70,Meridian Underwriting,Quoted,56.41,5.64,2024-04-24T20:44:48,FALSE
+102e83bc-b72f-4068-becf-75caa52ae73f,d6590027-af43-4078-8142-ce729ba4db70,Apex Insurance Group,Quoted,49.12,4.91,2024-04-24T20:45:14,FALSE
+95d01b59-4763-4ebc-b7b9-a9f76463c958,72fd3590-c115-4ed8-84a1-a63f62a0fb08,Meridian Underwriting,Quoted,184.47,18.45,2024-07-10T17:17:01,TRUE
+f0abff98-0a5a-4b80-b069-073e55a227e6,72fd3590-c115-4ed8-84a1-a63f62a0fb08,Apex Insurance Group,Declined,,,2024-07-10T17:17:40,FALSE
+7f9d781d-e266-4399-b5a3-9691f1cce079,814e5d88-63bd-498e-b941-c144508ee5e2,Apex Insurance Group,Quoted,66.1,6.61,2024-04-10T14:58:37,TRUE
+dad95261-b3d3-45b4-b318-51fa4cae2b47,00d5db81-314d-4fa5-9a74-a44f71cb8ff6,Apex Insurance Group,Quoted,75.73,7.57,2024-02-26T13:22:35,FALSE
+571179e6-d575-4b75-a23d-ad4dcf9225d4,00d5db81-314d-4fa5-9a74-a44f71cb8ff6,Meridian Underwriting,Quoted,74.83,7.48,2024-02-26T13:21:58,FALSE
+4e0edd82-2916-4ca5-94b7-0de7bba579be,78f4e6f1-3447-4e5e-a6f0-ffb7ca0b35e5,Apex Insurance Group,Declined,,,2024-05-10T08:24:24,FALSE
+6764c4a0-4831-4aa8-bb60-0cc06f3cd360,7ba24369-c231-4fbd-995a-b0f252cf961b,Meridian Underwriting,Quoted,170.2,17.02,2024-07-05T15:43:35,TRUE
+28c2fc82-90ed-4cdd-b1af-ac87f2ab5e5d,c2a43f24-f970-410c-bad6-e43f150b6661,Meridian Underwriting,Quoted,145.9,14.59,2024-03-06T17:54:35,FALSE
+9354bc93-8073-4ad0-82d7-ab1bb46b3b47,c2a43f24-f970-410c-bad6-e43f150b6661,Apex Insurance Group,Quoted,107.28,10.73,2024-03-06T17:55:24,FALSE
+498ad5b7-9536-414b-b6c9-de8cb1bb938b,88cf53af-b0fc-40d6-803a-8945769a3b55,Apex Insurance Group,Quoted,173.23,17.32,2024-04-30T05:04:44,FALSE
+1dc62e8a-a1d5-472f-b716-0c579f9e0fb9,88cf53af-b0fc-40d6-803a-8945769a3b55,Meridian Underwriting,Quoted,67.62,6.76,2024-04-30T05:04:16,FALSE
+aa419c4d-bb1b-4de8-b636-2537709b9d32,094bde4b-b179-491a-a0e6-0dc61eb0166d,Meridian Underwriting,Quoted,106.14,10.61,2024-01-01T07:24:30,FALSE
+a77a9c3b-8b17-4d8c-ad5b-c3b82352b578,094bde4b-b179-491a-a0e6-0dc61eb0166d,Apex Insurance Group,Quoted,102.53,10.25,2024-01-01T07:23:15,FALSE
+1b83b7a7-78e4-4849-8bf8-6cc1dacaea47,5d3b2d31-ce19-494a-a0e4-28e822b75542,Apex Insurance Group,Quoted,138.55,13.86,2024-01-03T20:14:07,FALSE
+7eb23846-46bc-4ebb-bfbe-3416d0eefbad,5d3b2d31-ce19-494a-a0e4-28e822b75542,Meridian Underwriting,Declined,,,2024-01-03T20:15:13,FALSE
+fc376886-8b15-4b4f-bd54-f852a33ad7ef,13206cec-cd12-490d-85bd-9f76cc27c5b5,Meridian Underwriting,Quoted,199.21,19.92,2024-11-21T16:46:07,TRUE
+a2b46b76-b480-4bc0-9dd0-744ef5185d7f,13206cec-cd12-490d-85bd-9f76cc27c5b5,Apex Insurance Group,Quoted,190.18,19.02,2024-11-21T16:47:03,FALSE
+d2903d8e-3312-4a2d-98ed-987121c607d2,faf07c5b-f389-499d-80bf-d906f8cbdb9f,Apex Insurance Group,Declined,,,2024-12-26T23:05:01,FALSE
+c6ec5051-6583-4ecc-8fad-247142afb595,c8fb9f71-99b3-44fb-bf0b-a10fc5dfccdb,Meridian Underwriting,Declined,,,2024-10-04T06:54:50,FALSE
+9132f0a2-d104-4b4f-ac44-7763337a807d,c8fb9f71-99b3-44fb-bf0b-a10fc5dfccdb,Apex Insurance Group,Declined,,,2024-10-04T06:54:54,FALSE
+55939914-3272-4f02-9a6c-e9931851ac56,09308ebc-07a9-44d6-ab21-b59e8ab599b2,Apex Insurance Group,Quoted,36.92,3.69,2024-04-14T06:40:53,TRUE
+15241207-a157-4c5f-88c4-1aeadc3fd127,09308ebc-07a9-44d6-ab21-b59e8ab599b2,Meridian Underwriting,Quoted,116.76,11.68,2024-04-14T06:41:12,FALSE
+66f5c290-72e3-4ff8-907e-c92a7eaa3bcd,025b2c21-7def-4bfe-9d13-64149de5efbf,Apex Insurance Group,Quoted,138.56,13.86,2024-11-16T15:21:43,TRUE
+a4731a56-9e04-4eb2-a4e8-5ef7bb571bde,412f42e9-4e38-4a02-a7e0-453c53ea3832,Meridian Underwriting,Declined,,,2024-02-22T13:12:48,FALSE
+05ff0a03-f43d-4a74-83e0-09de2bb45d93,412f42e9-4e38-4a02-a7e0-453c53ea3832,Apex Insurance Group,Quoted,90.84,9.08,2024-02-22T13:12:41,FALSE
+2fe72cb6-0156-4115-8a12-e0145c1c32c4,b0395ad8-ae5d-4724-832c-1bdd88a8efb9,Meridian Underwriting,Declined,,,2024-04-11T22:20:41,FALSE
+de079c94-69e2-4770-a0ba-ebf01e6b1085,b0395ad8-ae5d-4724-832c-1bdd88a8efb9,Apex Insurance Group,Quoted,85.38,8.54,2024-04-11T22:20:07,TRUE
+211ccdf4-dc07-473b-b1df-14feea0beb24,73eed48f-7e1f-4eef-8417-c567bf2ad25a,Apex Insurance Group,Quoted,181.89,18.19,2024-04-19T03:56:05,FALSE
+0f5373d8-efe4-4dd5-8d25-84ad3540c633,73eed48f-7e1f-4eef-8417-c567bf2ad25a,Meridian Underwriting,Quoted,117.61,11.76,2024-04-19T03:54:16,TRUE
+6b337921-ce4c-4149-bbcd-ada72888e527,fb9579c4-be1b-4001-ae80-2c73a0958d2c,Apex Insurance Group,Quoted,84.83,8.48,2024-10-09T06:37:05,FALSE
+5b689943-4e65-48fc-a44a-39f995182262,fb9579c4-be1b-4001-ae80-2c73a0958d2c,Meridian Underwriting,Declined,,,2024-10-09T06:37:16,FALSE
+42b185e7-cdb0-4b2a-96fe-a604d9afb362,b9ad6dc1-4e8d-49c7-89f3-862b1f9d7cc9,Apex Insurance Group,Quoted,62.29,6.23,2024-11-17T14:33:26,FALSE
+4993cdbb-93be-460a-9cc4-e353794db45d,b9ad6dc1-4e8d-49c7-89f3-862b1f9d7cc9,Meridian Underwriting,Quoted,116.76,11.68,2024-11-17T14:33:56,FALSE
+1b1726bc-ebb3-4b2f-8e58-f664ba2d20b0,48f8576b-6242-4cb2-9716-d074a10863af,Apex Insurance Group,Quoted,193.12,19.31,2024-09-30T00:36:12,FALSE
+5e6bda73-4de9-49ca-b6b9-9b29921d14bd,48f8576b-6242-4cb2-9716-d074a10863af,Meridian Underwriting,Quoted,93.65,9.37,2024-09-30T00:37:27,TRUE
+9a324c18-fb85-4721-9ea0-0a85f07504a0,3c36a18e-d376-4ca1-84c2-36d4a0e7aa35,Meridian Underwriting,Declined,,,2024-08-21T20:15:22,FALSE
+0f55d97d-86ee-4e1f-b8d0-22a9ee8c12c6,3c36a18e-d376-4ca1-84c2-36d4a0e7aa35,Apex Insurance Group,Quoted,45.56,4.56,2024-08-21T20:15:31,TRUE
+a1b28faf-75b8-49f7-ae75-de5d8ea72d54,d4a595f8-5b78-4e85-b8c3-72e8cbaa6189,Meridian Underwriting,Quoted,142.29,14.23,2024-04-09T03:12:46,FALSE
+86b6ecbd-14d0-4cb0-b11c-9df947fba221,d4a595f8-5b78-4e85-b8c3-72e8cbaa6189,Apex Insurance Group,Quoted,41.17,4.12,2024-04-09T03:12:35,FALSE
+589cd1ed-6034-4966-bafd-75fa17f58ef1,5ab1f08d-e48b-4ebf-9671-1032beded339,Apex Insurance Group,Declined,,,2024-02-26T10:22:31,FALSE
+93bb9d76-4dc4-45e8-95a1-4a01f2f5cbe9,5ab1f08d-e48b-4ebf-9671-1032beded339,Meridian Underwriting,Quoted,103.32,10.33,2024-02-26T10:22:41,FALSE
+c2bb6ef9-f233-4b7a-9046-5349f7daaae9,6fcdad3f-be49-4532-ad86-ab54c0f55dd5,Apex Insurance Group,Declined,,,2024-05-06T20:52:47,FALSE
+5433bcee-8cb4-4f85-9799-45b71c856179,6fcdad3f-be49-4532-ad86-ab54c0f55dd5,Meridian Underwriting,Declined,,,2024-05-06T20:53:30,FALSE
+6b1fbcd7-ff55-4a90-a917-a257fe4dcb44,b0118446-0ee3-4091-948a-d60ad0c6dc59,Apex Insurance Group,Quoted,35.1,3.51,2024-08-09T21:02:56,FALSE
+40ab534f-c4a7-4721-8ede-2342a31f08ca,b0118446-0ee3-4091-948a-d60ad0c6dc59,Meridian Underwriting,Quoted,141.54,14.15,2024-08-09T21:02:25,FALSE
+d7e8ca15-61a6-47a1-b610-9949593aa2c2,8e98c403-e629-45ef-9cfc-db6976ccc289,Apex Insurance Group,Quoted,167.47,16.75,2024-06-05T08:26:43,FALSE
+fd44f7ba-1749-4604-94bb-f2276b5d2613,f2af674e-ccf5-4f5e-865c-ceedcb72bb45,Apex Insurance Group,Quoted,56.57,5.66,2024-06-11T05:46:05,FALSE
+252903f5-521a-49da-ad4a-d758982428d0,d315551b-a3e7-4d8c-9dbe-751e0173505e,Apex Insurance Group,Quoted,146.51,14.65,2024-12-21T05:37:02,TRUE
+7dcf316a-082c-4867-81e4-06539c08feb3,cf175801-de3b-4036-9324-52e4a2710bd3,Meridian Underwriting,Declined,,,2024-03-01T02:40:04,FALSE
+642db317-2ff5-452d-a6fd-4ae07301b9e0,cf175801-de3b-4036-9324-52e4a2710bd3,Apex Insurance Group,Quoted,87.27,8.73,2024-03-01T02:39:36,TRUE
+92494d16-e104-4ef9-b234-b1065c029dda,58f2ae34-6096-42a2-ae7a-1aacc8c72d14,Meridian Underwriting,Quoted,166.27,16.63,2024-06-11T00:37:23,FALSE
+b6fad5a9-5d02-4f61-b579-0b5a63556f11,58f2ae34-6096-42a2-ae7a-1aacc8c72d14,Apex Insurance Group,Declined,,,2024-06-11T00:38:10,FALSE
+c3dfa10d-b863-46a2-93ea-84b7d458aeb9,3589504b-50d9-4e69-b90e-5a90aab19f75,Apex Insurance Group,Declined,,,2024-10-19T12:25:14,FALSE
+9c97832c-9288-4298-96de-a5c1d1c010ff,b5e2770d-3a8e-42ae-af19-2a03e7b16c8a,Apex Insurance Group,Quoted,70.28,7.03,2024-12-05T21:08:34,FALSE
+c8e39bc6-5808-41b9-ab27-beccdae75e3d,2a1e8af7-8496-43ba-b887-32f47efe3728,Meridian Underwriting,Quoted,33.73,3.37,2024-05-20T19:23:46,FALSE
+86a668ab-9aa7-4544-9e5d-d3264d43fe95,8c3c6bdf-657f-4dd1-a19c-8c6a62249b96,Meridian Underwriting,Quoted,41.4,4.14,2024-02-05T19:31:07,FALSE
+55396556-aa14-414e-adf7-2a5a046f8ff4,8c3c6bdf-657f-4dd1-a19c-8c6a62249b96,Apex Insurance Group,Quoted,24.77,2.48,2024-02-05T19:30:19,FALSE
+d5a99f19-4bdb-423d-a526-db61291aeb8e,02bf1ef3-5a7e-406b-adda-0336b578dcd8,Apex Insurance Group,Declined,,,2024-08-25T19:28:26,FALSE
+ade5369c-d37c-431a-b0a4-98340fde8b79,02bf1ef3-5a7e-406b-adda-0336b578dcd8,Meridian Underwriting,Quoted,66.7,6.67,2024-08-25T19:28:10,TRUE
+3ec2c7a1-a961-44c2-ab1f-d31d74d69902,f9612659-1dab-4549-908b-2de04f3cc778,Apex Insurance Group,Quoted,47.64,4.76,2024-07-01T10:57:58,FALSE
+7b4b06e4-f5ae-4eff-9e7e-e8f4dfc01abd,f9612659-1dab-4549-908b-2de04f3cc778,Meridian Underwriting,Quoted,146.51,14.65,2024-07-01T10:57:25,FALSE
+4fdbac4f-570e-482f-8bff-9b71dae055b1,5f533436-cd3d-491d-8024-817e5a79f23c,Apex Insurance Group,Declined,,,2024-02-17T11:49:15,FALSE
+067525e2-e49c-4583-a91c-138f499612a0,d456581b-c3ae-4e87-9324-f1fb667fcedb,Meridian Underwriting,Quoted,184.36,18.44,2024-10-24T01:05:51,TRUE
+e812a28c-6333-49c3-865f-07d66a81b8fe,84ddda14-e24b-4518-9fd8-8f04919d28f9,Meridian Underwriting,Quoted,87.18,8.72,2024-09-20T10:49:54,FALSE
+0cac15b3-147e-47d8-bb8b-145e4f8d118d,84ddda14-e24b-4518-9fd8-8f04919d28f9,Apex Insurance Group,Quoted,22.61,2.26,2024-09-20T10:50:50,TRUE
+6251a635-6de4-4aee-8a46-dbe0511cffbd,7e5c5f49-b253-4dac-afcb-a3ca62153f3d,Apex Insurance Group,Declined,,,2024-04-06T14:49:54,FALSE
+87977cdf-f8b9-4daf-ad91-fa7d5c05ae0a,7e5c5f49-b253-4dac-afcb-a3ca62153f3d,Meridian Underwriting,Declined,,,2024-04-06T14:49:52,FALSE
+072d94b7-78b9-4ef8-af40-a4a6b52e77c8,84a8f230-9639-4f7f-92da-a2010b8f20ac,Apex Insurance Group,Quoted,124.69,12.47,2024-05-01T20:44:42,FALSE
+d3371b3c-4deb-40ed-b001-938f9e2665e6,84a8f230-9639-4f7f-92da-a2010b8f20ac,Meridian Underwriting,Declined,,,2024-05-01T20:45:14,FALSE
+10febb76-259d-4902-a370-4a4c83f25ea6,836b9505-a899-4ba7-8c21-f6fbfff46bb5,Meridian Underwriting,Quoted,152.6,15.26,2024-01-08T06:56:25,TRUE
+70c6e56d-ae6a-4d7f-83cf-388741f10685,836b9505-a899-4ba7-8c21-f6fbfff46bb5,Apex Insurance Group,Declined,,,2024-01-08T06:56:50,FALSE
+550b177c-553a-4254-a2ec-e21f140f77e5,3337ea9f-1035-4585-a101-5433b3c24cc0,Meridian Underwriting,Quoted,26.05,2.61,2024-08-23T19:35:15,FALSE
+11e5341d-ef47-4131-9f01-aa28a39b8b78,3337ea9f-1035-4585-a101-5433b3c24cc0,Apex Insurance Group,Quoted,168.86,16.89,2024-08-23T19:33:55,TRUE
+07274805-1829-4287-bc7f-8dad1a554268,c7aa68be-1cfb-4b34-b85a-20f9a0da0604,Meridian Underwriting,Quoted,131.62,13.16,2024-01-17T21:59:25,TRUE
+49e496d9-7b62-494b-97fe-d30f0ff58cd1,b929362e-6bc1-4606-b583-8c77ca30fd54,Meridian Underwriting,Quoted,148.76,14.88,2024-06-22T03:42:14,FALSE
+786e5bed-337b-44cf-8987-529784b24946,b929362e-6bc1-4606-b583-8c77ca30fd54,Apex Insurance Group,Quoted,53.32,5.33,2024-06-22T03:41:21,FALSE
+37e7f0b4-da2b-410c-adb5-c898a46857ef,890a52bd-5c37-401b-8fb8-87bf77cf8168,Apex Insurance Group,Quoted,133.25,13.33,2024-05-30T21:58:30,FALSE
+1d7e43b1-ec67-4460-9ef4-a68aa656ff2b,890a52bd-5c37-401b-8fb8-87bf77cf8168,Meridian Underwriting,Quoted,58.63,5.86,2024-05-30T21:57:21,TRUE
+ae880635-1110-443c-844e-7487f50edbd2,9edc1763-91b4-43d2-8bca-1be1236c4ed4,Meridian Underwriting,Quoted,197.34,19.73,2024-12-20T12:01:38,TRUE
+27c7fd91-f91f-46d6-94b1-a90c98e2d9c4,9edc1763-91b4-43d2-8bca-1be1236c4ed4,Apex Insurance Group,Declined,,,2024-12-20T12:02:44,FALSE
+e09b2cd2-ab4a-4bbb-86c1-42b4223f6994,a51cba4e-a46e-49c2-b43f-1df5b4d6e694,Apex Insurance Group,Quoted,64.79,6.48,2024-12-04T17:25:38,FALSE
+91059d33-75b7-4dd9-b827-a471276fefb5,a51cba4e-a46e-49c2-b43f-1df5b4d6e694,Meridian Underwriting,Quoted,145.75,14.58,2024-12-04T17:26:49,FALSE
+d9fd79a3-7fea-41d0-91d6-70d6fe3067e9,045a441a-e7ad-43ea-a2f8-fd190b82ac14,Meridian Underwriting,Quoted,67.37,6.74,2024-03-03T22:46:24,TRUE
+e18f9492-7ee7-445a-a822-f64aa3f32f94,d1140728-8122-487f-8cb8-47be7c8a9fa6,Meridian Underwriting,Declined,,,2024-07-21T00:41:13,FALSE
+b18af6d2-512c-4a4d-b70d-0fe13fd507c5,d1140728-8122-487f-8cb8-47be7c8a9fa6,Apex Insurance Group,Declined,,,2024-07-21T00:41:50,FALSE
+64c50c93-785c-42ea-bfcc-53407629b86f,6dc452f4-3e69-4180-bb1d-ad431c28c88c,Apex Insurance Group,Quoted,88.88,8.89,2024-08-14T15:57:14,FALSE
+66f39cfb-91a7-4e4f-8c21-8f77053fc2f5,6dc452f4-3e69-4180-bb1d-ad431c28c88c,Meridian Underwriting,Quoted,129.34,12.93,2024-08-14T15:57:39,TRUE
+4b16e8fc-bd79-420e-91d0-cba1a7d09405,e92d991a-9cf2-44fe-89f1-c2a8d89cd609,Meridian Underwriting,Quoted,127.07,12.71,2024-03-01T19:02:47,FALSE
+fb78463b-cfb3-4d59-abe0-a119efec63ca,c8eac18d-7cdc-4675-9751-2eb6c16643c6,Apex Insurance Group,Declined,,,2024-07-26T10:14:56,FALSE
+11a9b6ab-f489-43fb-b7c4-5e49d2163049,c8eac18d-7cdc-4675-9751-2eb6c16643c6,Meridian Underwriting,Quoted,136.04,13.6,2024-07-26T10:14:02,FALSE
+5a07a572-3e93-440a-b4de-6f6a8327c717,7fee19d3-0c2f-4505-9101-348f468a325b,Meridian Underwriting,Declined,,,2024-10-28T21:48:44,FALSE
+72db5cf1-afd3-4997-95b7-035bfcc58152,a2226273-7562-4052-8aec-fd8b6c42d52b,Apex Insurance Group,Quoted,96.2,9.62,2024-10-12T03:40:48,FALSE
+7db1e0d7-0216-450f-927a-0a88b73022f1,a2226273-7562-4052-8aec-fd8b6c42d52b,Meridian Underwriting,Quoted,153.64,15.36,2024-10-12T03:41:24,FALSE
+d152294b-8d85-46cc-89f1-363799c48671,c9f44245-acdf-4d40-a059-c2915469d39d,Apex Insurance Group,Declined,,,2024-11-06T16:26:10,FALSE
+888f7a09-0ca6-4b40-b152-31e622235fae,c9f44245-acdf-4d40-a059-c2915469d39d,Meridian Underwriting,Quoted,151.24,15.12,2024-11-06T16:26:13,TRUE
+0039a08b-d34a-414a-b58d-1c0940d17bb0,0e3dbf41-f559-4ba3-aea2-7837adde51a7,Meridian Underwriting,Declined,,,2024-07-13T20:28:35,FALSE
+0b4f10c4-041a-4483-bf3c-e8d2a648a889,0e3dbf41-f559-4ba3-aea2-7837adde51a7,Apex Insurance Group,Declined,,,2024-07-13T20:27:54,FALSE
+c07ce6f8-e939-4aa8-9c1c-7e892595c990,5202a0d8-7e17-464e-acd2-80bc480582c6,Apex Insurance Group,Declined,,,2024-11-19T10:01:02,FALSE
+12605dff-91d8-4335-a5df-ce107fb83e67,81a73da4-99da-489b-ba14-04ab627fe9cc,Apex Insurance Group,Quoted,183.18,18.32,2024-04-11T03:44:09,FALSE
+9ef92ba0-1a36-4843-863e-ccfa2f2cfe24,81a73da4-99da-489b-ba14-04ab627fe9cc,Meridian Underwriting,Quoted,117.96,11.8,2024-04-11T03:43:17,TRUE
+8929ca21-240c-42ff-87ca-74791490d67c,713d8030-ca6b-4fe7-abef-9d7f706dd735,Apex Insurance Group,Declined,,,2024-01-12T13:50:51,FALSE
+588cd650-97a0-465e-b6c1-b4aeca555f0e,1d69b5ef-0bce-449a-9bd8-660753505881,Apex Insurance Group,Quoted,21.94,2.19,2024-06-01T03:17:23,FALSE
+67ef513a-6f36-4b6c-9a0e-a1c306ca26f2,1d69b5ef-0bce-449a-9bd8-660753505881,Meridian Underwriting,Quoted,129.45,12.95,2024-06-01T03:17:54,FALSE
+39cb4a21-9db9-432f-9c1d-847bfde21600,2ddfbb65-5218-47cd-b4de-2acf719e38da,Apex Insurance Group,Quoted,141.51,14.15,2024-10-28T20:34:51,FALSE
+a95e19be-7248-4a2f-b2df-2522ce11ddfb,2ddfbb65-5218-47cd-b4de-2acf719e38da,Meridian Underwriting,Quoted,86.62,8.66,2024-10-28T20:34:44,TRUE
+59b41943-a86b-4200-843b-4f2494fd115f,484ee17c-46d2-4bd4-bc09-45295207df19,Apex Insurance Group,Declined,,,2024-09-11T03:25:31,FALSE
+9e64567d-062a-446b-972d-ca8b1d187929,484ee17c-46d2-4bd4-bc09-45295207df19,Meridian Underwriting,Quoted,178.16,17.82,2024-09-11T03:25:43,FALSE
+a0c79cf9-dc10-4a42-b114-f6c25e6d306f,df371e55-3a10-4abc-a1ce-7bdca9644f48,Apex Insurance Group,Declined,,,2024-03-19T00:54:19,FALSE
+a7af6d73-c442-4792-b919-073fb1b33b91,1a9b8692-4ca6-48d2-ade7-afd40353e9db,Meridian Underwriting,Quoted,157.03,15.7,2024-09-03T00:11:24,FALSE
+6418e1a2-fff1-4ea7-8845-674d2acd2507,563a7cea-4037-4181-b95d-f226495ff7cf,Apex Insurance Group,Quoted,18.87,1.89,2024-02-06T03:56:54,FALSE
+3220e539-65c1-4e08-9941-7b630d244446,2677ac83-42ed-4bbd-9d45-dd612f62efa3,Meridian Underwriting,Quoted,21.19,2.12,2024-08-07T17:21:33,FALSE
+461718fe-e7d5-4d30-99af-22377d4995b0,2677ac83-42ed-4bbd-9d45-dd612f62efa3,Apex Insurance Group,Quoted,153.7,15.37,2024-08-07T17:21:14,FALSE
+fc963ec0-65f6-466e-82c7-da4e7e269a10,64723d5a-f310-41da-a01c-97a6495f6e18,Apex Insurance Group,Quoted,121.8,12.18,2024-04-19T18:51:31,FALSE
+137d2453-3e15-4782-a2c4-6b5423ffba74,322218ec-6d44-4757-8163-b94d8196e2e5,Meridian Underwriting,Declined,,,2024-03-24T12:33:21,FALSE
+640b0a15-dc01-4fc7-949c-1611e12940e8,4ce0efe6-5f1a-4c91-b556-d4cb9a513275,Meridian Underwriting,Declined,,,2024-12-18T16:09:34,FALSE
+9de7e84e-d19d-41dd-b011-62a6e3aae178,4ce0efe6-5f1a-4c91-b556-d4cb9a513275,Apex Insurance Group,Quoted,157.82,15.78,2024-12-18T16:08:58,FALSE
+870b7876-e602-40c7-bf74-3307014430bc,09c534b5-7075-43da-8530-4e3d0b51e87d,Meridian Underwriting,Quoted,62.27,6.23,2024-07-15T09:01:08,FALSE
+6139b0cf-9dd6-412d-bb1a-d86a7121e0d4,d88d27cc-bee0-45b9-8fe9-fe06e81d5b42,Meridian Underwriting,Quoted,157.14,15.71,2024-03-07T00:24:59,FALSE
+62dd3c55-b8c0-4947-9f30-0b8a086524a6,d88d27cc-bee0-45b9-8fe9-fe06e81d5b42,Apex Insurance Group,Declined,,,2024-03-07T00:26:11,FALSE
+a9531c2e-c1f7-4f0b-8748-7be2f2261d4e,316a57ed-2c34-40e9-aa69-d477aadfb392,Apex Insurance Group,Declined,,,2024-11-11T13:20:20,FALSE
+c5c3f522-e935-4437-b21c-f8f12ccf0127,316a57ed-2c34-40e9-aa69-d477aadfb392,Meridian Underwriting,Quoted,21.21,2.12,2024-11-11T13:20:12,FALSE
+843892ad-914a-4d92-bd1a-c6835abe2584,6562f6cd-41ba-491b-af1d-24845a10c5b8,Apex Insurance Group,Quoted,50.56,5.06,2024-12-16T13:05:36,TRUE
+6cfe0dbe-8c96-4f07-84c9-9e4c62811590,6562f6cd-41ba-491b-af1d-24845a10c5b8,Meridian Underwriting,Quoted,92.4,9.24,2024-12-16T13:04:52,FALSE
+e2697fbe-3eb2-44c6-8b71-1457641e8f6a,fe5cc74d-8609-4967-9a0a-9ac76fcca989,Apex Insurance Group,Declined,,,2024-08-05T12:08:48,FALSE
+6c666476-e940-468e-b4c6-b7d1b9faf6a8,c09fc212-853d-4728-a06f-a55d7c495baa,Apex Insurance Group,Declined,,,2024-05-21T11:03:47,FALSE
+1ed3fc56-4cd5-4ffc-8974-2d3ef8f1c16c,c09fc212-853d-4728-a06f-a55d7c495baa,Meridian Underwriting,Quoted,179.88,17.99,2024-05-21T11:04:18,FALSE
+54d4769e-e4f9-46c8-8dba-95674cbd7f3b,3a37a3cd-8e65-47a6-9502-4ae2060a72fb,Apex Insurance Group,Declined,,,2024-01-24T08:56:26,FALSE
+e45f21c8-72c7-4da8-b6ae-e6197a9439d4,3a37a3cd-8e65-47a6-9502-4ae2060a72fb,Meridian Underwriting,Declined,,,2024-01-24T08:55:34,FALSE
+856148d3-1a6a-4090-b574-bd275ebe9296,0e995226-340b-4411-8ae8-b7de3661c6de,Meridian Underwriting,Quoted,114.98,11.5,2024-02-01T11:16:05,FALSE
+3b2ed925-bc7c-4408-86de-f10b2f0d579f,0e995226-340b-4411-8ae8-b7de3661c6de,Apex Insurance Group,Quoted,166.0,16.6,2024-02-01T11:15:54,FALSE
+7f38252e-dc61-447f-b73f-0b0f8d93ed9e,b9dc0977-fb92-41a0-8241-095eaf787e7f,Meridian Underwriting,Quoted,194.92,19.49,2024-09-17T14:59:59,TRUE
+c3a87e0f-9021-4455-8367-c9317505c259,b9dc0977-fb92-41a0-8241-095eaf787e7f,Apex Insurance Group,Declined,,,2024-09-17T15:00:38,FALSE
+4900411d-8b38-4d41-b986-53e137137b93,40799fad-6692-4250-bc00-063e5f33d77f,Meridian Underwriting,Quoted,152.47,15.25,2024-12-28T15:28:50,FALSE
+35a509d7-50c3-4646-aad8-8f39dcbbbc5c,e69520e0-1e76-44d1-b9bc-ac935db8c852,Apex Insurance Group,Quoted,100.9,10.09,2024-09-04T02:13:51,FALSE
+e75e5433-c7c7-4026-b587-a02ec8f323b1,a4aad5f6-fd02-4e06-bffa-1e1b9447a2fc,Meridian Underwriting,Quoted,170.37,17.04,2024-05-19T23:25:42,FALSE
+ae42b9fa-c82f-44b1-bc5d-674246489bb6,b3605aa9-84ee-452c-84a6-30692c3925f8,Meridian Underwriting,Quoted,135.84,13.58,2024-05-31T13:35:29,TRUE
+ce071c48-edc8-42a1-b0eb-cebea0a7bfc7,d64b8a65-87a5-440b-9974-21897e0a6d12,Meridian Underwriting,Quoted,71.93,7.19,2024-09-06T19:37:07,FALSE
+db323a44-8d79-4a75-8814-da19cb37b939,d64b8a65-87a5-440b-9974-21897e0a6d12,Apex Insurance Group,Quoted,130.72,13.07,2024-09-06T19:37:09,TRUE
+017d5137-42fc-46e9-af39-62f2210f44cc,306eae02-cb8d-4bc4-91ee-4637e25d0926,Meridian Underwriting,Quoted,174.23,17.42,2024-12-20T19:32:05,FALSE
+f51c1c1a-a36a-4648-a064-b14ba89f535d,306eae02-cb8d-4bc4-91ee-4637e25d0926,Apex Insurance Group,Quoted,72.68,7.27,2024-12-20T19:31:35,FALSE
+c42b96a7-1554-4ea4-bd75-efff59579de4,851a0603-6491-436d-9b68-c376857a08aa,Meridian Underwriting,Quoted,125.54,12.55,2024-12-23T21:42:48,TRUE
+2921a2f9-fcfd-4404-bdcf-b6d425bcfe39,851a0603-6491-436d-9b68-c376857a08aa,Apex Insurance Group,Quoted,173.54,17.35,2024-12-23T21:44:18,FALSE
+f569d339-bb34-48b6-8a30-edefac95992d,a97daa1c-20a4-4d87-89c4-27d888e926bb,Apex Insurance Group,Quoted,40.7,4.07,2024-04-27T13:45:36,FALSE
+5762f154-ecff-4e72-a5d4-3e8c626bffad,a97daa1c-20a4-4d87-89c4-27d888e926bb,Meridian Underwriting,Quoted,54.38,5.44,2024-04-27T13:46:22,FALSE
+926461e0-cee7-4f65-964b-b3341246e2c5,7993f7af-1e97-4e7b-be0e-8de44a7a7861,Apex Insurance Group,Declined,,,2024-03-07T00:02:36,FALSE
+3bb91955-054b-42ef-83ea-1fc7508f1c7c,7993f7af-1e97-4e7b-be0e-8de44a7a7861,Meridian Underwriting,Quoted,142.93,14.29,2024-03-07T00:03:00,FALSE
+5fa32313-4601-4f4f-85bf-4d5083e65d90,2f6bce37-4b6c-4953-ad48-59628107a9ca,Meridian Underwriting,Quoted,119.46,11.95,2024-05-28T01:41:47,TRUE
+8fd45961-4d86-403f-94a2-48b398f33d68,9b365951-5c30-4359-bf12-a5cc45cac85e,Apex Insurance Group,Declined,,,2024-09-08T11:17:07,FALSE
+866be530-bf68-4539-b487-fad0720214fb,d7caed9f-56fa-4700-aef9-1d03ce993acc,Meridian Underwriting,Quoted,103.67,10.37,2024-10-15T22:10:06,FALSE
+74cfb025-ada6-41cc-9535-24efe6529b8e,7125cda4-84cd-4603-8757-2489289a32c8,Meridian Underwriting,Quoted,87.14,8.71,2024-03-23T04:28:36,FALSE
+06ceab8f-c9fd-4cda-8e3f-1ccd9318caba,7125cda4-84cd-4603-8757-2489289a32c8,Apex Insurance Group,Declined,,,2024-03-23T04:27:30,FALSE
+175a37ce-9948-4905-92da-7172ec90c8a1,d1fdc209-7904-42e8-815a-6305718a92c9,Apex Insurance Group,Quoted,179.04,17.9,2024-07-09T15:19:44,FALSE
+68618ebe-7fc1-4746-bc50-8bc63fc1ee1e,47dac6a5-fe2d-435f-a070-2d99996ca216,Meridian Underwriting,Quoted,140.98,14.1,2024-12-27T04:14:07,FALSE
+cda7535c-bc1c-4820-aa72-99dc2eef07fb,47dac6a5-fe2d-435f-a070-2d99996ca216,Apex Insurance Group,Quoted,172.68,17.27,2024-12-27T04:14:39,FALSE
+359873dc-a476-4097-aa70-446c105e1692,60ad47d9-6b29-48b4-a775-cfafc1ffd27b,Meridian Underwriting,Quoted,179.84,17.98,2024-05-26T15:08:59,FALSE
+5041ddbe-70ad-4a0b-912a-9fae996099d1,60ad47d9-6b29-48b4-a775-cfafc1ffd27b,Apex Insurance Group,Quoted,152.48,15.25,2024-05-26T15:08:08,TRUE
+94131acb-ede4-477f-9ab0-fd384c8dd265,2b650d5a-bd73-492c-9419-105e8dcf79b4,Apex Insurance Group,Declined,,,2024-10-07T22:28:45,FALSE
+85bfa488-bb81-49c4-bd1a-3a227f035862,2b650d5a-bd73-492c-9419-105e8dcf79b4,Meridian Underwriting,Declined,,,2024-10-07T22:28:57,FALSE
+0057d14d-24e7-4b3f-ba40-bca1db62994a,76fa77fe-badf-4781-b791-4cb2ba19eaf8,Apex Insurance Group,Quoted,160.47,16.05,2024-05-10T17:58:03,FALSE
+e7ad2721-f0f0-4c24-b4da-01b60d5eb430,1dd00c7f-9cc1-4f68-9e34-4fc383127219,Meridian Underwriting,Declined,,,2024-06-21T02:11:46,FALSE
+4efce96e-0181-425e-b446-912d0bb06d1e,1dd00c7f-9cc1-4f68-9e34-4fc383127219,Apex Insurance Group,Quoted,196.23,19.62,2024-06-21T02:13:07,FALSE
+3a448148-6ef9-49cf-9d42-f3d91a89679c,92962863-1e23-4b08-896c-136334bc6437,Meridian Underwriting,Quoted,54.46,5.45,2024-09-17T10:45:09,FALSE
+788e3e06-385b-4b36-ae04-85fea339dc7c,2830b6eb-064f-4bbc-95ab-dae72ab95b6f,Meridian Underwriting,Quoted,189.69,18.97,2024-10-01T18:09:45,FALSE
+486f7a7f-478e-4160-af34-706574722697,54abd373-2ab7-4577-9ff4-88502bf45de0,Meridian Underwriting,Quoted,63.79,6.38,2024-09-12T01:10:27,FALSE
+b13679b6-7518-4d05-a610-9093d36b6160,5d3d8dd3-d40f-457b-8649-d8b94ddf3776,Meridian Underwriting,Quoted,107.4,10.74,2024-04-22T09:32:02,FALSE
+48b6ef76-ef26-457e-b207-4d87b2db2880,5d3d8dd3-d40f-457b-8649-d8b94ddf3776,Apex Insurance Group,Declined,,,2024-04-22T09:31:57,FALSE
+78bd12bc-fa6c-4a9a-8f9e-36246fa1f68a,210da816-0765-4d27-9451-2d0f247bad6a,Meridian Underwriting,Quoted,173.03,17.3,2024-08-19T16:42:37,TRUE
+5e68972f-d51f-462f-9c04-df2b7c8f0c9d,210da816-0765-4d27-9451-2d0f247bad6a,Apex Insurance Group,Quoted,80.13,8.01,2024-08-19T16:43:15,FALSE
+cf9b0b35-c99e-4686-80f3-84abdbdb6db1,3001cc11-4a1a-4624-ac18-c170d0b3e5d0,Meridian Underwriting,Declined,,,2024-07-21T11:27:08,FALSE
+8d5d97ea-e615-4736-9a8e-0a944b026a70,3001cc11-4a1a-4624-ac18-c170d0b3e5d0,Apex Insurance Group,Quoted,130.51,13.05,2024-07-21T11:28:01,TRUE
+21842603-b09e-4726-9344-c3e59e8269e9,407fbd10-7e19-4ae5-ba84-9c6617d532c1,Apex Insurance Group,Quoted,139.09,13.91,2024-10-30T23:02:01,FALSE
+c2296a88-bd0b-4977-afc5-53eaa4bd1ec9,407fbd10-7e19-4ae5-ba84-9c6617d532c1,Meridian Underwriting,Quoted,81.72,8.17,2024-10-30T23:02:25,FALSE
+822cc3ff-7294-4d2e-ba71-55b9dc89b6e5,c6e52b78-db37-4d27-8290-be8580dbb08d,Apex Insurance Group,Declined,,,2024-02-03T23:51:39,FALSE
+6e580b3e-4127-42c5-9690-89acc43ddf10,c6e52b78-db37-4d27-8290-be8580dbb08d,Meridian Underwriting,Quoted,134.3,13.43,2024-02-03T23:50:58,FALSE
+62320ea2-e8c7-491c-a651-33360f18a060,4728af8b-2c68-4a7d-a643-afc9e5437eaa,Meridian Underwriting,Quoted,160.73,16.07,2024-10-13T02:54:28,TRUE
+8e61103c-b908-452d-960c-094fbefd5c05,48bc1f69-b558-49d4-837e-362a793d4d75,Meridian Underwriting,Quoted,130.24,13.02,2024-08-16T18:00:10,FALSE
+73dd7514-9a35-4d79-9ccb-98c322211ebc,48bc1f69-b558-49d4-837e-362a793d4d75,Apex Insurance Group,Declined,,,2024-08-16T18:00:07,FALSE
+0d6f008b-19c4-44a2-87ee-8b5447ab7fe4,baa693cb-6ed4-4a91-a7f8-089bbbc4b1f3,Apex Insurance Group,Quoted,76.81,7.68,2024-10-18T14:35:13,TRUE
+f2405efa-8713-4e14-857f-f63a70a7d2e7,ea445906-abea-48ec-a662-e0ceed8d3dd3,Meridian Underwriting,Declined,,,2024-11-23T03:48:38,FALSE
+f88c5aac-73b5-45d1-a707-d9243787b725,ea445906-abea-48ec-a662-e0ceed8d3dd3,Apex Insurance Group,Quoted,198.3,19.83,2024-11-23T03:49:25,FALSE
+001f7bf4-4c73-4e78-becf-96759c4c3a33,0df3d40f-002e-4e55-b107-a67dc4829960,Meridian Underwriting,Quoted,132.69,13.27,2024-03-05T04:00:21,FALSE
+94263fd2-d67c-4992-b9bc-4d78355dd02b,0df3d40f-002e-4e55-b107-a67dc4829960,Apex Insurance Group,Quoted,136.97,13.7,2024-03-05T04:00:30,TRUE
+db69d8b4-100a-4d06-9370-cbad1a212584,49f928b4-e14e-426e-879a-7c2ce65331e2,Meridian Underwriting,Quoted,149.1,14.91,2024-09-24T08:10:40,FALSE
+278ff9cb-1323-4dea-ac75-3b53ddd0b224,ba9ae5b6-ed0d-424f-8a6a-b56d21c17301,Apex Insurance Group,Quoted,104.4,10.44,2024-09-16T02:53:12,TRUE
+18f25ac8-a6b1-4c81-956f-692993c0caa2,7e62e976-329b-4d11-b8fb-3614520a3c56,Apex Insurance Group,Declined,,,2024-08-03T10:40:37,FALSE
+45fbb910-d2e3-4c14-a829-9a4cb6d142cc,7e62e976-329b-4d11-b8fb-3614520a3c56,Meridian Underwriting,Declined,,,2024-08-03T10:39:45,FALSE
+30e9ba7c-88ac-4e81-b69c-8ab49d9ea04c,2e893ffb-0031-40ff-a138-6be9d68be482,Apex Insurance Group,Declined,,,2024-06-25T18:19:52,FALSE
+347819c6-dc6e-4fc2-9229-8096f96176dc,2e893ffb-0031-40ff-a138-6be9d68be482,Meridian Underwriting,Quoted,162.35,16.23,2024-06-25T18:19:12,TRUE
+7ec0b874-dba9-4d5b-9e31-88f508dfa06c,678bc46c-e904-41d2-8fd4-56c412732de1,Apex Insurance Group,Quoted,120.68,12.07,2024-04-21T22:48:30,TRUE
+36068193-8624-4c55-a428-8cbf2299ada4,86e8cc2b-9ea5-4902-9270-3ce5b77134e1,Apex Insurance Group,Quoted,79.58,7.96,2024-10-01T01:54:17,FALSE
+c25e5bdf-33a0-4e06-8df0-67597294d7f0,86e8cc2b-9ea5-4902-9270-3ce5b77134e1,Meridian Underwriting,Quoted,144.66,14.47,2024-10-01T01:55:16,FALSE
+d7fbd6d0-1592-48a7-b4d8-5cf7d248259b,38357815-bb02-4531-aee6-6469f4ae1ff4,Apex Insurance Group,Quoted,58.26,5.83,2024-01-07T00:35:11,TRUE
+b0776bcb-d92c-4241-a940-0537c4be33b6,38357815-bb02-4531-aee6-6469f4ae1ff4,Meridian Underwriting,Quoted,188.51,18.85,2024-01-07T00:34:43,FALSE
+9cb5e6a6-d193-4805-b646-e71de4eb0a6d,6e103eea-1fbf-4176-acfe-92451647af48,Meridian Underwriting,Declined,,,2024-08-05T01:58:48,FALSE
+f8eead68-a4fc-48ea-b0f8-2509737f34b8,e634215d-79b0-4e48-8906-838c8a605eae,Apex Insurance Group,Quoted,146.08,14.61,2024-02-02T13:08:29,FALSE
+31fd38c2-81fc-4b91-b80c-7cd92a5f35fe,e634215d-79b0-4e48-8906-838c8a605eae,Meridian Underwriting,Quoted,198.84,19.88,2024-02-02T13:08:33,FALSE
+74150392-0f4e-4226-a5ee-dd5e74858af4,800e6411-6be9-430f-8b54-72ef1b606fb4,Apex Insurance Group,Quoted,73.85,7.38,2024-03-08T13:12:10,TRUE
+a47b50b5-a699-4a4c-bfcf-cacb025dd5dd,800e6411-6be9-430f-8b54-72ef1b606fb4,Meridian Underwriting,Quoted,50.1,5.01,2024-03-08T13:11:41,FALSE
+2a69bd76-ee4a-420a-9e58-f4412956c178,c1a1959a-04d4-4edb-b943-5453dd70a433,Apex Insurance Group,Quoted,52.59,5.26,2024-11-23T02:43:54,FALSE
+4e1aca58-3a29-4c25-8498-7055282c1805,45c166ea-f683-419e-beb4-06dda319ce7e,Meridian Underwriting,Quoted,106.46,10.65,2024-01-15T18:30:04,FALSE
+83f81154-588c-427f-a310-b6d36636ffe5,45c166ea-f683-419e-beb4-06dda319ce7e,Apex Insurance Group,Quoted,130.28,13.03,2024-01-15T18:30:17,FALSE
+406ce46e-8799-4ddb-9049-9203a3c8fab9,092c2636-31e4-49d5-8c05-7dcf5a120289,Meridian Underwriting,Quoted,130.37,13.04,2024-07-21T08:10:49,FALSE
+d6f17fee-e009-49dc-989a-a703cd8a6f76,092c2636-31e4-49d5-8c05-7dcf5a120289,Apex Insurance Group,Quoted,99.19,9.92,2024-07-21T08:11:00,FALSE
+2af3459f-861e-44bb-a0a5-e54ea0f73b0b,c09536f0-f9f8-42be-94d4-1c4c836383ed,Apex Insurance Group,Quoted,134.94,13.49,2024-04-13T08:33:46,FALSE
+ee01fb8c-b394-4408-a7e1-270f012adb9e,c09536f0-f9f8-42be-94d4-1c4c836383ed,Meridian Underwriting,Quoted,122.06,12.21,2024-04-13T08:32:57,TRUE
+919bef56-f637-4bb2-b8dd-1bc18323b0bf,be54d3ef-6f71-4dcb-8d48-be3e56425b00,Meridian Underwriting,Quoted,134.13,13.41,2024-05-12T10:19:18,FALSE
+6c13014f-3ded-4de6-b45c-36670f2b2036,40df41f1-6b5b-4890-b5a8-c8bcf3a4e426,Meridian Underwriting,Declined,,,2024-07-01T11:15:48,FALSE
+f17066b8-3b02-48cc-a8d0-aa289a2c9290,40df41f1-6b5b-4890-b5a8-c8bcf3a4e426,Apex Insurance Group,Quoted,84.22,8.42,2024-07-01T11:15:07,FALSE
+ffed2fb4-90b3-4d0d-bfc0-b806308a9053,2c41a499-0eab-46ce-ab68-e984d9cfbaac,Apex Insurance Group,Quoted,111.15,11.12,2024-04-20T12:06:16,FALSE
+84002109-79f9-4251-9715-2d0f2718046e,3b64bfb0-5397-4285-bc70-b4a2f8a4857d,Apex Insurance Group,Quoted,53.38,5.34,2024-02-12T20:38:21,TRUE
+329c9b5b-f9d3-4209-8fc4-3e8254249ce2,3b64bfb0-5397-4285-bc70-b4a2f8a4857d,Meridian Underwriting,Quoted,170.14,17.01,2024-02-12T20:38:20,FALSE
+cde38125-447a-45a1-b1a3-39728958fa54,69e404c2-301b-4777-a8a2-c44f937c7039,Apex Insurance Group,Quoted,172.32,17.23,2024-01-08T23:39:21,FALSE
+0d6037d1-24fa-45e5-8e04-e975a6f85108,69e404c2-301b-4777-a8a2-c44f937c7039,Meridian Underwriting,Quoted,26.14,2.61,2024-01-08T23:39:05,FALSE
+3dca0fd4-414a-4724-a4c0-353d331c063c,f5a69890-32dd-4feb-a84c-eb2d5bcc4781,Apex Insurance Group,Declined,,,2024-10-21T22:39:31,FALSE
+56c65f28-bda1-4eb3-b4fd-fc5be36de7ab,cc0ef208-b9da-48f3-b9cc-c797c2c7c7d1,Apex Insurance Group,Quoted,124.37,12.44,2024-04-12T08:31:56,TRUE
+caf13060-a5f4-48f3-9247-a6865b3e95ae,7680e9c0-a3ed-4d28-9070-d2fb99d5f67b,Apex Insurance Group,Declined,,,2024-07-25T00:35:13,FALSE
+61c2041e-4eba-4920-bbd1-18b73206b22a,6af4cb1d-214a-4bea-aad2-b29433280c08,Meridian Underwriting,Quoted,138.35,13.84,2024-10-03T23:20:26,FALSE
+5c86a6c1-c928-4c61-8e87-fe59a106dd84,6af4cb1d-214a-4bea-aad2-b29433280c08,Apex Insurance Group,Quoted,61.78,6.18,2024-10-03T23:19:58,FALSE
+bca8d03c-a706-485f-8a16-3002eda1d30e,d58f5d7f-583a-4a10-a49b-424c1985d167,Meridian Underwriting,Quoted,87.31,8.73,2024-09-19T20:09:01,FALSE
+fc924430-b551-49b4-b9b8-c9d3d4d82aa2,5c8b4498-9140-4b33-94ba-473ff13ac502,Apex Insurance Group,Quoted,154.66,15.47,2024-07-27T11:27:40,TRUE
+81725503-a34e-4409-99bb-d8fbcf0490f2,67014757-8278-4dcb-88aa-515e80b8d259,Meridian Underwriting,Quoted,181.43,18.14,2024-12-13T23:40:04,FALSE
+9ea155ee-fee6-4f64-b0ee-3ce9b047c861,c7fa5ac7-85dc-4528-b442-ebf07921553a,Apex Insurance Group,Declined,,,2024-01-26T05:50:25,FALSE
+6908b698-9734-4891-a757-bb7a1921ebe9,c7fa5ac7-85dc-4528-b442-ebf07921553a,Meridian Underwriting,Quoted,127.25,12.73,2024-01-26T05:50:36,FALSE
+7203f15e-86bb-4b2f-9071-bef58a2c0f90,e3b2d1b9-1695-4344-991d-a5f32bc56670,Meridian Underwriting,Declined,,,2024-09-20T20:38:15,FALSE
+ea96bbeb-13a8-4e5c-b220-520e29c9b125,7b2c0aa7-c756-48ff-89ca-fbafa41a163a,Meridian Underwriting,Declined,,,2024-08-19T10:47:47,FALSE
+473101db-f592-4a2e-ab4b-c7778721afaf,2c2b6fd7-fa41-42da-9026-d01e0105e605,Meridian Underwriting,Quoted,159.41,15.94,2024-10-23T15:59:41,FALSE
+c0a700e2-ef03-4606-856c-a96358295fdc,2c2b6fd7-fa41-42da-9026-d01e0105e605,Apex Insurance Group,Quoted,143.94,14.39,2024-10-23T15:58:51,FALSE
+3f6a8d8a-7590-4d62-b34b-b83471ac5b40,f02036d0-4a58-433b-bf95-21a8a95c396b,Apex Insurance Group,Quoted,85.58,8.56,2024-04-16T17:02:34,FALSE
+943f0e49-ccc9-48aa-88b9-27806fffdb6b,f02036d0-4a58-433b-bf95-21a8a95c396b,Meridian Underwriting,Quoted,28.64,2.86,2024-04-16T17:02:47,FALSE
+a376977e-af41-4333-b383-2bc80f80b874,7103eb5a-ef27-4c17-ad37-7ffe5cea1520,Apex Insurance Group,Declined,,,2024-06-06T09:59:12,FALSE
+abe5c197-77a5-40a3-88ad-99b0053eb26a,7103eb5a-ef27-4c17-ad37-7ffe5cea1520,Meridian Underwriting,Quoted,194.52,19.45,2024-06-06T09:57:55,FALSE
+70f40aeb-3593-4ca7-8b01-5d57f9c044b4,6c45c316-5d4e-4ca8-b0c1-c60761333c6b,Apex Insurance Group,Quoted,48.66,4.87,2024-06-15T16:34:58,FALSE
+440a19f8-b4f3-4353-97fd-aa0d7276eca6,6c45c316-5d4e-4ca8-b0c1-c60761333c6b,Meridian Underwriting,Declined,,,2024-06-15T16:35:09,FALSE
+ea9198cb-57de-4a81-ad3c-c27dca3f46bb,f6714231-094f-4c91-b31b-be7fe2535f45,Apex Insurance Group,Quoted,70.17,7.02,2024-12-06T09:12:55,FALSE
+8bf2e2c9-863c-4649-9f82-03849232fd03,aacaf23d-02b4-4ec9-b299-c93a9f47f534,Apex Insurance Group,Quoted,99.27,9.93,2024-09-25T15:03:26,FALSE
+9974a54d-5842-4458-a878-0780cd0ad483,aacaf23d-02b4-4ec9-b299-c93a9f47f534,Meridian Underwriting,Quoted,73.42,7.34,2024-09-25T15:02:52,TRUE
+ef768181-670d-4192-9b0b-cfc27c5626a6,3fab01a6-7702-4fc4-a8d6-183a3966cc12,Meridian Underwriting,Declined,,,2024-02-17T19:43:48,FALSE
+bf168f50-0864-4dce-bbe3-3680bd18ab4f,3fab01a6-7702-4fc4-a8d6-183a3966cc12,Apex Insurance Group,Quoted,123.81,12.38,2024-02-17T19:43:06,FALSE
+e85bcd13-59f0-4e27-93d3-447acf71a34f,e5629e7a-f2b8-43dc-91b2-807104b8219a,Meridian Underwriting,Quoted,67.73,6.77,2024-02-04T19:03:33,FALSE
+83db90be-95ea-4c02-954a-6f87814acdef,3613dcf9-ebe0-40b5-81d9-7ba4c2f316c5,Meridian Underwriting,Quoted,75.3,7.53,2024-04-07T06:48:27,TRUE
+334b7e6a-2b30-4316-8dbf-201f72296fbe,65c346b5-a66b-4c5f-b041-e5b73b0c073e,Apex Insurance Group,Quoted,50.3,5.03,2024-04-02T19:12:58,FALSE
+b9a9e075-4c49-4b6a-8ee3-76e1f0f5fc6d,65c346b5-a66b-4c5f-b041-e5b73b0c073e,Meridian Underwriting,Declined,,,2024-04-02T19:12:11,FALSE
+dd06fd16-909a-445b-8602-77d5cc217fa2,0868ebc0-a17d-4ef7-952c-d7d1f0fe0051,Apex Insurance Group,Declined,,,2024-03-09T09:13:34,FALSE
+b4a83ff4-a2ef-43d5-8306-846f491cc8e6,081ef4b6-966a-45c7-8c17-0cbab1e00c26,Meridian Underwriting,Quoted,158.76,15.88,2024-07-01T01:45:29,FALSE
+516291cf-0c36-4f95-b1b3-ce2c6a449758,ab859e3b-642f-404d-ab35-5c85a000f512,Apex Insurance Group,Declined,,,2024-07-18T20:47:06,FALSE
+29f7b023-4df3-4c7a-b77f-c2547b12cbb0,7e410a53-4742-492b-a1da-46d7ac40ff60,Meridian Underwriting,Declined,,,2024-04-06T09:17:03,FALSE
+93e4efc2-dc45-437b-8914-0ceaad6434e9,7e410a53-4742-492b-a1da-46d7ac40ff60,Apex Insurance Group,Quoted,91.1,9.11,2024-04-06T09:16:16,TRUE
+265a03b0-7fbe-4285-903a-f9bebc441fc0,b0d58a52-182a-4a7b-95eb-57af1329d9b9,Apex Insurance Group,Declined,,,2024-04-24T22:38:11,FALSE
+407777c0-b0c3-416e-a265-9fae97e078b9,e70441c8-3aa5-4a9e-9ccb-77a103493ea9,Meridian Underwriting,Declined,,,2024-01-20T00:10:07,FALSE
+59931398-518f-46b3-bcd6-22c5c072ff9d,e70441c8-3aa5-4a9e-9ccb-77a103493ea9,Apex Insurance Group,Quoted,90.01,9.0,2024-01-20T00:08:56,FALSE
+206e0fc1-70e7-4a32-a32d-8402cc2236d6,89c8f62c-7944-4be5-88a8-e7b0ada03abd,Apex Insurance Group,Quoted,131.82,13.18,2024-08-20T07:41:34,TRUE
+4f6e125e-8b47-4839-ae9d-e13f429a0315,89c8f62c-7944-4be5-88a8-e7b0ada03abd,Meridian Underwriting,Quoted,113.14,11.31,2024-08-20T07:42:38,FALSE
+d3d4f1f6-6ebc-4221-9a75-7e5eefc89b63,a1858000-7fd8-4b9c-b90f-5aaa8e7014c3,Meridian Underwriting,Quoted,181.22,18.12,2024-08-13T01:28:30,FALSE
+b0a8e4d7-4556-453b-99ab-239dc3e25dfb,0ccaa9bb-dcbe-4252-a0f3-12629dcc65d1,Meridian Underwriting,Quoted,91.63,9.16,2024-07-26T17:15:46,TRUE
+37061d10-a1c4-46b8-a156-160884d12029,0ccaa9bb-dcbe-4252-a0f3-12629dcc65d1,Apex Insurance Group,Quoted,88.44,8.84,2024-07-26T17:14:01,FALSE
+5b2aa02a-515d-4473-84af-f12c3dca0262,5d04a3e6-3499-4a53-a8e3-491f9332b43b,Meridian Underwriting,Declined,,,2024-04-24T18:33:13,FALSE
+1bea813f-8026-4eb9-99bd-bd1188a939d8,5d04a3e6-3499-4a53-a8e3-491f9332b43b,Apex Insurance Group,Declined,,,2024-04-24T18:33:25,FALSE
+ae40c1ec-c3d2-4870-a743-bf608409e156,b48fb8de-235a-4480-9c94-43bcae3d916d,Meridian Underwriting,Quoted,133.03,13.3,2024-02-16T07:29:17,FALSE
+d56b48d4-418c-4e31-8221-98e0e98647ff,f7b72af4-0014-471f-99cd-58e5ac2a5c5b,Meridian Underwriting,Declined,,,2024-01-05T00:05:44,FALSE
+198ba38d-ae9b-472a-92d6-ba71557e05e4,f7b72af4-0014-471f-99cd-58e5ac2a5c5b,Apex Insurance Group,Declined,,,2024-01-05T00:05:06,FALSE
+fe7cec54-8e89-4daa-a9b5-c34a49679832,99afc7de-156a-47dd-b414-b0b07c44a180,Apex Insurance Group,Quoted,84.83,8.48,2024-11-29T16:56:37,FALSE
+2c7369bc-d82d-401a-bad1-7cb3202cbaef,99afc7de-156a-47dd-b414-b0b07c44a180,Meridian Underwriting,Quoted,106.04,10.6,2024-11-29T16:56:49,FALSE
+0b9c1ddc-7c49-40f6-8b10-a1d619f1618b,1e5ec1bd-7fc0-46f0-9651-9341f10219d0,Apex Insurance Group,Quoted,149.32,14.93,2024-06-24T19:31:41,TRUE
+08fe5be9-7d90-4928-91da-f3ad085eea90,1e5ec1bd-7fc0-46f0-9651-9341f10219d0,Meridian Underwriting,Quoted,159.26,15.93,2024-06-24T19:30:54,FALSE
+d7c5b942-3a86-486f-94ba-91d9089a45a0,415ef601-39ea-46b9-be4e-9dcc2a909ad7,Apex Insurance Group,Quoted,70.29,7.03,2024-10-31T15:04:31,TRUE
+92572666-46a3-455d-a00e-2c1802e43613,415ef601-39ea-46b9-be4e-9dcc2a909ad7,Meridian Underwriting,Quoted,111.42,11.14,2024-10-31T15:04:18,FALSE
+2a7d01af-7a70-4c2d-96df-1370908472ac,64bfdbf1-c999-4cd5-bace-af445ed88b1b,Apex Insurance Group,Quoted,115.17,11.52,2024-02-15T15:19:22,FALSE
+3c4eab90-12b4-4ad0-a112-129acce0de1b,163414b3-48e2-4fe2-8645-64245fc07f35,Meridian Underwriting,Quoted,111.94,11.19,2024-06-29T12:43:03,FALSE
+873ba04e-3e91-4ec7-90fd-f1a56690b95e,163414b3-48e2-4fe2-8645-64245fc07f35,Apex Insurance Group,Quoted,28.13,2.81,2024-06-29T12:44:23,FALSE
+90d08033-1e26-4a13-a53d-b1c02ac76df6,92c46f64-1c3c-41a0-b096-4af53cedf493,Apex Insurance Group,Quoted,147.34,14.73,2024-05-07T20:19:11,TRUE
+54e18acf-31fd-494d-ae96-8c55d2e9adfb,92c46f64-1c3c-41a0-b096-4af53cedf493,Meridian Underwriting,Quoted,197.56,19.76,2024-05-07T20:18:34,FALSE
+581bff4f-a1bc-4cb6-b9db-69c2edc40d99,52e4dbd9-4541-4aef-8d3d-155e8d356bc5,Meridian Underwriting,Declined,,,2024-10-12T14:09:51,FALSE
+6072d0e2-c09a-419b-9d79-ed185d75c4f5,52e4dbd9-4541-4aef-8d3d-155e8d356bc5,Apex Insurance Group,Declined,,,2024-10-12T14:10:30,FALSE
+674ec4da-d358-4c34-8e15-d7cbc281b3bf,40bbbd03-064a-425a-a0a3-d30bdabe4e41,Apex Insurance Group,Quoted,147.06,14.71,2024-12-04T06:52:40,FALSE
+f26a8144-3cfa-48b1-b249-a4be93a688fe,40bbbd03-064a-425a-a0a3-d30bdabe4e41,Meridian Underwriting,Quoted,178.03,17.8,2024-12-04T06:52:55,FALSE
+cae4e833-be18-42e8-ad8d-77fb208e6fd9,b2a6383a-d8b0-4aaa-ab4c-10c9f551c928,Meridian Underwriting,Declined,,,2024-02-24T10:12:51,FALSE
+d7891a6c-2925-42b1-86d7-7606aa3962ea,b2a6383a-d8b0-4aaa-ab4c-10c9f551c928,Apex Insurance Group,Quoted,20.4,2.04,2024-02-24T10:14:00,FALSE
+e6fa76f3-5133-4233-8219-220cf062767c,1385fd1d-0834-4c6c-872e-d04e7921a3c1,Apex Insurance Group,Quoted,193.25,19.33,2024-06-21T16:43:33,TRUE
+990ea7ff-7d23-47e8-a445-dfdb2e30ddc0,f01cfbc4-f35a-4b67-bc6d-246eca709dac,Apex Insurance Group,Quoted,51.03,5.1,2024-09-17T15:25:10,TRUE
+ddf267d3-2b60-4d21-b79f-231318bfa215,0881bd5a-0b64-45bb-aa6f-ba078ba4f3af,Meridian Underwriting,Quoted,57.6,5.76,2024-11-09T05:46:26,FALSE
+b7853884-ff4b-40d5-882e-d111c3e91853,0881bd5a-0b64-45bb-aa6f-ba078ba4f3af,Apex Insurance Group,Quoted,137.9,13.79,2024-11-09T05:46:25,FALSE
+35a45fc6-ffed-4c33-99c7-345cb41fdeec,1309cc4f-cf89-4fab-af5d-1bb0f6f61bda,Meridian Underwriting,Quoted,123.82,12.38,2024-09-03T14:06:09,FALSE
+81dba33a-b606-4f0b-8555-8cc124c88943,1309cc4f-cf89-4fab-af5d-1bb0f6f61bda,Apex Insurance Group,Quoted,50.94,5.09,2024-09-03T14:05:07,FALSE
+c9d6dba8-738a-4d1b-b411-1de12a3f6ae2,dcaf7c29-6e56-4bff-9450-aa7438080e2b,Meridian Underwriting,Quoted,139.43,13.94,2024-11-11T21:34:29,FALSE
+248a1400-018d-4ecf-a8ea-9fff4226a073,c317c90f-ca35-4c33-8298-ce0d7358152b,Meridian Underwriting,Quoted,199.53,19.95,2024-03-10T14:38:23,FALSE
+7a6292f7-5db2-4106-abde-90c73f34a2af,c317c90f-ca35-4c33-8298-ce0d7358152b,Apex Insurance Group,Declined,,,2024-03-10T14:38:53,FALSE
+39674253-094d-4b6b-affe-50bfd6070a35,b2fa6151-5f04-4a11-bb22-fb4178364d87,Meridian Underwriting,Quoted,113.04,11.3,2024-01-20T14:05:15,FALSE
+d328cc4e-a41b-4b05-9b57-f7e2e9ec8950,b2fa6151-5f04-4a11-bb22-fb4178364d87,Apex Insurance Group,Quoted,119.12,11.91,2024-01-20T14:03:34,FALSE
+26726479-7cd9-4ca1-9711-e7da50c3de70,b75c0562-a7bb-433d-a3e2-32673f205fbc,Meridian Underwriting,Declined,,,2024-10-01T06:08:57,FALSE
+f105d635-1dff-4f8c-8af1-fd9a8a42821c,b75c0562-a7bb-433d-a3e2-32673f205fbc,Apex Insurance Group,Quoted,26.39,2.64,2024-10-01T06:10:01,TRUE
+85eb060f-0a79-4b76-bd54-061c96fb348c,2657265d-48c2-4722-ab66-b14e7302f9f8,Meridian Underwriting,Quoted,175.97,17.6,2024-04-26T22:48:44,TRUE
+7ba20b33-9c91-4662-8ce3-b8baf009f5d6,2657265d-48c2-4722-ab66-b14e7302f9f8,Apex Insurance Group,Quoted,21.68,2.17,2024-04-26T22:49:01,FALSE
+ec175f0a-9bcb-4490-b010-697a196a0c9f,e727272c-dc1b-4988-a5fe-7ca389e42cbb,Meridian Underwriting,Quoted,22.44,2.24,2024-07-08T01:02:26,FALSE
+559211c2-275a-47e3-931b-dd68e149ca54,e727272c-dc1b-4988-a5fe-7ca389e42cbb,Apex Insurance Group,Declined,,,2024-07-08T01:01:51,FALSE
+701f4bc0-e658-47ab-9e94-36e6eb1ab33f,ec33e72a-40a5-4759-a270-ad80b43ba7c0,Apex Insurance Group,Quoted,99.38,9.94,2024-06-30T17:40:56,FALSE
+394cac3d-ac4a-4094-92e0-d699681324ae,ec33e72a-40a5-4759-a270-ad80b43ba7c0,Meridian Underwriting,Quoted,27.89,2.79,2024-06-30T17:41:26,TRUE
+995df856-7e40-4610-9009-42375b919484,4255c390-31bb-43be-a883-beb1a0f6db79,Meridian Underwriting,Quoted,176.91,17.69,2024-05-27T00:19:32,FALSE
+fd394009-45d8-41c8-99e8-78689b1959f2,4255c390-31bb-43be-a883-beb1a0f6db79,Apex Insurance Group,Quoted,104.53,10.45,2024-05-27T00:19:27,FALSE
+ebd58e24-68e7-483f-aa1e-edda27a073f8,77076edc-d4c4-4b76-8b0f-6d523dbb721a,Meridian Underwriting,Quoted,175.02,17.5,2024-03-18T12:35:16,FALSE
+ba6ab6f0-383d-4449-acb0-1e0691fa30bb,77076edc-d4c4-4b76-8b0f-6d523dbb721a,Apex Insurance Group,Quoted,124.69,12.47,2024-03-18T12:35:19,FALSE
+659bea45-f22e-4ce8-b94d-6d99915f4c66,4fca77c8-8cbf-4315-965a-231b68634d08,Apex Insurance Group,Declined,,,2024-09-25T03:05:15,FALSE
+59a43437-47d5-460b-ae79-51b2d6956df7,4fca77c8-8cbf-4315-965a-231b68634d08,Meridian Underwriting,Quoted,44.87,4.49,2024-09-25T03:06:26,TRUE
+9aa3ea10-5696-406d-9098-8fa53e77fdf9,89ff06a0-3dcd-4324-8044-38122d6462e7,Apex Insurance Group,Declined,,,2024-01-26T04:57:58,FALSE
+951dc873-58aa-4829-8685-e6a3acb6b2fa,89ff06a0-3dcd-4324-8044-38122d6462e7,Meridian Underwriting,Declined,,,2024-01-26T04:58:37,FALSE
+139f76aa-9a02-411e-aee2-b19c86be7d2d,3e17af0e-f367-42a8-a636-d3acc739a714,Apex Insurance Group,Quoted,20.32,2.03,2024-06-15T11:37:25,TRUE
+ec7a392c-7537-459e-a5e8-77f88da0122b,d2339986-0ce6-4024-9c46-f03eed31c1b4,Meridian Underwriting,Quoted,57.11,5.71,2024-05-10T18:10:43,FALSE
+a92e27db-ee96-4870-b0a9-48e87b4d59bd,d2339986-0ce6-4024-9c46-f03eed31c1b4,Apex Insurance Group,Quoted,46.82,4.68,2024-05-10T18:10:40,FALSE
+53c65fe4-da32-425d-ad01-00e42d2fe525,d6028517-9771-45c7-a890-a7944e5c3cb0,Meridian Underwriting,Quoted,194.58,19.46,2024-02-26T02:23:41,FALSE
+008fa4e2-c097-4ed2-a5d1-57d3d5f42351,d6028517-9771-45c7-a890-a7944e5c3cb0,Apex Insurance Group,Quoted,111.61,11.16,2024-02-26T02:22:01,FALSE
+f6f968cb-32c8-4537-b7c4-2fe19d2748e1,353686f6-1386-49cc-a641-e6fb09b55dba,Apex Insurance Group,Declined,,,2024-04-19T02:23:11,FALSE
+90bff8f2-8425-4fd6-991b-285218198127,353686f6-1386-49cc-a641-e6fb09b55dba,Meridian Underwriting,Declined,,,2024-04-19T02:22:49,FALSE
+c3def6e9-2769-4e45-b5f9-7853c9efb7d0,088a47c2-d37e-47a7-b96e-7b7eaea6e4c7,Apex Insurance Group,Quoted,34.96,3.5,2024-12-07T18:37:59,FALSE
+977f3827-56dd-44cc-ba85-fb03c5f2ae8b,088a47c2-d37e-47a7-b96e-7b7eaea6e4c7,Meridian Underwriting,Quoted,182.14,18.21,2024-12-07T18:37:40,FALSE
+99e36391-13e3-41b2-8340-d0596087c6e1,5b8298b3-7430-4e8a-98c6-a62117e697f4,Apex Insurance Group,Quoted,180.0,18.0,2024-09-10T08:02:26,TRUE
+3a3627e5-7f0b-488f-94f1-052ebe50c4d8,dd506187-327f-4900-b2d8-6f12645ac42f,Meridian Underwriting,Quoted,26.6,2.66,2024-01-24T11:48:16,TRUE
+15811198-af87-4c52-8fa1-c2893e7f3225,dd506187-327f-4900-b2d8-6f12645ac42f,Apex Insurance Group,Quoted,175.15,17.52,2024-01-24T11:49:23,FALSE
+92473d72-21ee-4840-89cd-c96b02794bca,622e2f80-95cc-45e1-8663-abb7b0514045,Meridian Underwriting,Quoted,73.77,7.38,2024-12-25T00:17:06,FALSE
+96f1c7a2-5a58-4bbf-9f7a-4e3b897c92c3,622e2f80-95cc-45e1-8663-abb7b0514045,Apex Insurance Group,Quoted,164.95,16.5,2024-12-25T00:15:49,FALSE
+8515dcbc-a86b-4a6f-8d0d-d36a9bc85587,33da6f0c-4379-4cf5-9251-df26e4934489,Apex Insurance Group,Declined,,,2024-03-30T17:29:42,FALSE
+fc43aa32-37be-4506-bd39-b8662fb87f44,33da6f0c-4379-4cf5-9251-df26e4934489,Meridian Underwriting,Quoted,160.53,16.05,2024-03-30T17:28:46,TRUE
+8ef360c6-0110-4fcf-adaf-a52b7ff226b2,6bce4d69-6f29-4be3-94f4-dd418e15c086,Meridian Underwriting,Quoted,35.97,3.6,2024-12-13T08:35:17,TRUE
+ad0e55d6-0f42-485d-97c2-1809ba68abed,11b98f55-4f6b-4057-8d8c-e804041f38f1,Meridian Underwriting,Quoted,163.96,16.4,2024-08-26T04:01:44,FALSE
+c88da1da-434e-4eee-a0a9-5d17a7b52964,0a2f21d3-12a6-490b-bf1f-870cd97d75f9,Apex Insurance Group,Quoted,19.66,1.97,2024-03-24T14:04:39,FALSE
+16edf9fa-5914-4677-a855-a0008b314925,54f6cd96-c992-4f00-a69f-41cf34220e38,Apex Insurance Group,Declined,,,2024-02-23T21:40:19,FALSE
+368a4fec-e8a9-44ff-82b1-a543e8721061,54f6cd96-c992-4f00-a69f-41cf34220e38,Meridian Underwriting,Quoted,29.83,2.98,2024-02-23T21:39:20,FALSE
+f4752b28-ac1c-4105-8ba6-d2bb51767013,393aa326-32de-4c45-9f22-bee6895e114c,Meridian Underwriting,Declined,,,2024-01-09T19:17:15,FALSE
+7a86b8be-a46b-44cd-b5e7-5018b994ef4d,19ce8219-e2b2-4984-b2a0-7b92c3b81e38,Meridian Underwriting,Quoted,39.17,3.92,2024-01-18T14:10:44,FALSE
+6a16e139-b109-4f02-8a01-6c41429559e5,f09ac4ce-7fe3-4da7-9566-a421f19ada07,Meridian Underwriting,Quoted,87.03,8.7,2024-08-25T03:17:42,TRUE
+56b6daeb-47f3-4bcd-ad08-1e99bb04367d,f09ac4ce-7fe3-4da7-9566-a421f19ada07,Apex Insurance Group,Declined,,,2024-08-25T03:19:17,FALSE
+221eed95-6ad8-41f0-9dab-0f8ee71d1036,382f5824-1e37-439d-a382-22d93c5d0115,Meridian Underwriting,Declined,,,2024-12-18T03:26:38,FALSE
+7d39d06a-9da4-4d90-8ea0-f5925641a63c,382f5824-1e37-439d-a382-22d93c5d0115,Apex Insurance Group,Quoted,137.23,13.72,2024-12-18T03:26:41,TRUE
+bbc2ee30-5a87-4df4-b30c-376b60880cb1,3aee85d6-6916-4188-938e-d0d858c81f8a,Meridian Underwriting,Declined,,,2024-06-15T22:00:42,FALSE
+8bb1fb60-9595-4a0c-9805-63f5e174de2b,3aee85d6-6916-4188-938e-d0d858c81f8a,Apex Insurance Group,Quoted,138.53,13.85,2024-06-15T22:01:06,TRUE
+961a0b9d-dec7-464b-a025-83824ec4a61d,0931da1d-b38e-431c-bb9a-3153b163eb35,Apex Insurance Group,Declined,,,2024-10-09T20:17:29,FALSE
+7eec9afb-beb6-43ac-9c18-76e028ce2705,0931da1d-b38e-431c-bb9a-3153b163eb35,Meridian Underwriting,Declined,,,2024-10-09T20:18:12,FALSE
+fb6bd4be-ed69-4a8b-b13d-738250dd3daf,6ecc7673-e09c-4da2-bdb3-78cc66657f8b,Meridian Underwriting,Declined,,,2024-01-26T00:23:17,FALSE
+16911d0a-976b-42dc-ba83-73777b7e7aa5,6ecc7673-e09c-4da2-bdb3-78cc66657f8b,Apex Insurance Group,Quoted,173.46,17.35,2024-01-26T00:21:49,TRUE
+6ebd811c-9579-47f8-8d6b-d5c410f6427c,4583f0db-033a-481d-8672-3ce9da2eaabc,Apex Insurance Group,Quoted,168.86,16.89,2024-03-04T19:54:17,TRUE
+2421da33-cae9-4cb6-84f7-bfa814e2f996,25f61c7e-0e44-47e4-936a-fe17a03b873c,Apex Insurance Group,Quoted,170.6,17.06,2024-07-28T10:40:21,FALSE
+6cbcec76-5964-414b-8bce-dccacb56a2ec,3f447177-b4f8-4b0f-812e-4e2e4ee26b14,Meridian Underwriting,Quoted,155.02,15.5,2024-05-14T05:22:05,TRUE
+192919dd-4497-4dfe-a096-5dd15c527d00,3f447177-b4f8-4b0f-812e-4e2e4ee26b14,Apex Insurance Group,Quoted,117.76,11.78,2024-05-14T05:21:04,FALSE
+2a7d2725-9cca-4d39-81c5-87cd041fa3ac,2570073d-61d6-4592-a3d4-0bef33d8bb3d,Meridian Underwriting,Declined,,,2024-05-01T12:55:47,FALSE
+df1e4c6d-1139-4cf1-890a-8f99ad6a3c7e,40db231d-07b7-4549-a609-92c86dd63f96,Meridian Underwriting,Quoted,101.64,10.16,2024-10-30T08:21:48,FALSE
+ce024e22-ae85-4cf1-bb63-2d8109a4f971,40db231d-07b7-4549-a609-92c86dd63f96,Apex Insurance Group,Quoted,72.62,7.26,2024-10-30T08:21:39,TRUE
+856c5a17-a937-4df4-86ea-4115dd095b15,0064205f-0a88-497f-b02c-d16104ca531f,Meridian Underwriting,Quoted,58.67,5.87,2024-05-08T10:39:26,TRUE
+31fbc203-c84d-4e99-9628-60f8a9bc32c6,a3af0ac3-de60-4f1f-8f7a-ba427b597ef0,Apex Insurance Group,Quoted,148.28,14.83,2024-01-15T06:57:19,TRUE
+00e715ee-56de-49d2-bab3-134819eda03e,a3af0ac3-de60-4f1f-8f7a-ba427b597ef0,Meridian Underwriting,Declined,,,2024-01-15T06:56:12,FALSE
+87befc52-7454-4c31-98b8-050e40432262,60ea3d18-0dfd-4b55-a8ea-ba5ee00205cb,Apex Insurance Group,Declined,,,2024-08-11T11:10:50,FALSE
+0d86f213-f196-4d2b-9f87-8ed5b454bc55,772ff9b7-9b28-454f-8b38-cbcbc5ded444,Meridian Underwriting,Quoted,65.82,6.58,2024-04-07T05:00:36,FALSE
+25d256f3-40db-46c5-ae02-16f95ae4c74a,772ff9b7-9b28-454f-8b38-cbcbc5ded444,Apex Insurance Group,Declined,,,2024-04-07T05:00:53,FALSE
+550d4b7e-e6f4-4530-a449-febeb3d98b61,eb8f4cd5-7a82-443a-84c0-b7c42a328753,Apex Insurance Group,Quoted,198.23,19.82,2024-08-06T13:35:11,FALSE
+b0d976cb-22aa-4751-8dd9-4a87c03ca33d,ee1c85e3-c399-41f2-9255-0cc3829a8967,Apex Insurance Group,Declined,,,2024-03-19T02:40:29,FALSE
+2b29f21f-e59d-42a5-9ce0-399d2e3b7227,ee1c85e3-c399-41f2-9255-0cc3829a8967,Meridian Underwriting,Quoted,122.72,12.27,2024-03-19T02:40:39,FALSE
+31d660d6-cad4-42ff-867f-119a84a5978d,94682d61-3d72-461f-80f9-f24474cb92b6,Meridian Underwriting,Quoted,155.34,15.53,2024-09-25T03:49:51,TRUE
+45e9d28d-0a06-4b1d-9c81-86a1f0681bea,a549225f-1d21-4b5a-9e45-017f1d475da5,Apex Insurance Group,Quoted,162.43,16.24,2024-08-09T17:54:53,FALSE
+79cba6ce-f6fd-4fe6-ba01-9c73df274370,a549225f-1d21-4b5a-9e45-017f1d475da5,Meridian Underwriting,Declined,,,2024-08-09T17:54:37,FALSE
+26a1dae6-e889-4327-a53e-887d5219d64c,dbe63f75-986a-44db-bf43-d6a270cbe7e4,Apex Insurance Group,Quoted,89.19,8.92,2024-08-16T07:16:47,FALSE
+85733baa-e8c6-4039-8ce7-ef0109efa74b,dc90cb82-0923-42c0-ab3d-a93066ac1e4d,Apex Insurance Group,Quoted,173.5,17.35,2024-04-30T19:44:03,FALSE
+53883d13-0248-46dc-8f27-489595ba4b6c,dc90cb82-0923-42c0-ab3d-a93066ac1e4d,Meridian Underwriting,Quoted,71.54,7.15,2024-04-30T19:43:10,TRUE
+1c5ded29-24a7-42c0-9d18-5c2220f2e604,ac398a81-070c-4ff8-9955-c16ddff041c9,Meridian Underwriting,Quoted,172.4,17.24,2024-08-15T10:47:09,TRUE
+59b864ac-0fa8-4be3-99d8-9036b84220a2,589606a7-0838-494f-bb57-306cb3d52f1e,Apex Insurance Group,Quoted,127.06,12.71,2024-01-14T03:47:46,FALSE
+d002843c-afc1-446f-a451-f1845da5416a,589606a7-0838-494f-bb57-306cb3d52f1e,Meridian Underwriting,Declined,,,2024-01-14T03:47:54,FALSE
+8376876e-b627-4702-9037-7c4fe789565e,f0fdca8f-10e1-4232-9a88-1391a766304e,Meridian Underwriting,Quoted,86.45,8.65,2024-12-19T13:01:53,TRUE
+4f8c5ff3-9e56-402c-8766-bcde75b41b17,f0fdca8f-10e1-4232-9a88-1391a766304e,Apex Insurance Group,Quoted,161.98,16.2,2024-12-19T13:01:21,FALSE
+31d3bbfe-2679-4aa0-9c98-884907367f07,563f20b0-525f-4c46-b161-832f4fb44f44,Apex Insurance Group,Quoted,147.26,14.73,2024-08-24T11:29:04,FALSE
+0b56c70f-6fbb-4626-b421-d9ad0136b4c9,563f20b0-525f-4c46-b161-832f4fb44f44,Meridian Underwriting,Declined,,,2024-08-24T11:28:06,FALSE
+5069540a-740c-44b1-9c2f-94addf8e8a32,13abad54-cbab-450b-9cf3-ab4a1f6c7948,Meridian Underwriting,Declined,,,2024-04-06T09:22:31,FALSE
+7b84b61e-be3a-412a-81e9-50792f9edd02,13abad54-cbab-450b-9cf3-ab4a1f6c7948,Apex Insurance Group,Quoted,183.92,18.39,2024-04-06T09:21:38,FALSE
+46259ccf-5994-499c-a4c1-c1f67be1ed55,a46a4a2b-e88e-4148-be92-af6bdce67507,Meridian Underwriting,Quoted,28.46,2.85,2024-11-15T06:49:48,FALSE
+96f6c2a7-8207-409d-8dbe-4b31918fdd64,a46a4a2b-e88e-4148-be92-af6bdce67507,Apex Insurance Group,Quoted,166.99,16.7,2024-11-15T06:50:43,FALSE
+2eb20f58-c61f-4547-9ae0-6ebe70ebd736,4fc32f03-e4a5-49ea-82dd-27fc9d1faa72,Meridian Underwriting,Quoted,47.43,4.74,2024-06-12T21:11:36,FALSE
+d43b4d1a-f514-4efc-a47a-bebc27c0509d,4fc32f03-e4a5-49ea-82dd-27fc9d1faa72,Apex Insurance Group,Quoted,135.32,13.53,2024-06-12T21:11:17,FALSE
+76f4b915-110d-46bf-8af7-1ed66f1b214d,3529c457-f165-44b9-b828-5b11a6ad3999,Apex Insurance Group,Quoted,108.92,10.89,2024-05-28T20:49:42,FALSE
+a5593139-2dea-4733-8e19-032f3d050257,3529c457-f165-44b9-b828-5b11a6ad3999,Meridian Underwriting,Quoted,124.04,12.4,2024-05-28T20:51:01,FALSE
+abc67e5b-db64-40dc-9820-7554c15e7499,801f045a-c176-44d6-b68c-090ae536f3b8,Apex Insurance Group,Declined,,,2024-04-02T01:26:29,FALSE
+3979047f-0d90-4433-aaa5-ccb64dadf88e,67c7dbd7-a0d3-4fa3-ab7b-c5b9c8aed8d2,Apex Insurance Group,Quoted,97.9,9.79,2024-03-03T12:43:16,FALSE
+75020b4a-fc34-403b-87a5-4e6662181fb1,5c67d827-cf78-4d2b-a147-ac1351cbae29,Apex Insurance Group,Declined,,,2024-01-12T06:18:38,FALSE
+dea12cfa-fe36-42c7-a7d2-5b65f382e199,beff368b-8d10-41e2-821a-21f678eb71fa,Meridian Underwriting,Quoted,29.02,2.9,2024-01-23T13:34:48,FALSE
+93551278-3f60-4275-85ed-40bc7a2b804a,7086cf21-9603-4265-b44a-b9cda28e3f11,Meridian Underwriting,Quoted,70.89,7.09,2024-07-14T19:37:29,TRUE
+564f7ef2-1d27-4bc4-b957-5d8231d0962a,cd776447-7d96-4983-8a16-b1748ef9f1f1,Meridian Underwriting,Quoted,76.7,7.67,2024-12-12T22:10:12,FALSE
+dd939e9e-70ea-48c7-8d99-6c6eb0f7c099,cd776447-7d96-4983-8a16-b1748ef9f1f1,Apex Insurance Group,Quoted,134.78,13.48,2024-12-12T22:08:57,FALSE
+3a546e72-0d05-447c-98e4-6137dcec64bf,dac8b5d2-2598-4f64-8cd8-0c5f15a901b6,Apex Insurance Group,Quoted,77.2,7.72,2024-11-04T08:03:22,FALSE
+8d29d499-b4f2-4daf-b33a-530406b2bd5e,dac8b5d2-2598-4f64-8cd8-0c5f15a901b6,Meridian Underwriting,Quoted,155.62,15.56,2024-11-04T08:02:17,TRUE
+9de94eb1-a550-43e4-bfea-ae584b7d5cc2,6a2c827e-38ba-4920-aaea-d32cb4db7e86,Meridian Underwriting,Quoted,93.39,9.34,2024-11-23T01:58:09,FALSE
+cff11840-ab0c-49bc-b201-0f8a6a8865a2,6a2c827e-38ba-4920-aaea-d32cb4db7e86,Apex Insurance Group,Quoted,31.0,3.1,2024-11-23T01:58:42,TRUE
+4d8b7c16-000f-48ea-83cd-e9e9766f1c31,9033fe4e-1514-429c-aa59-67a11beb1b17,Apex Insurance Group,Quoted,155.0,15.5,2024-06-10T02:44:32,FALSE
+34adea36-1e5c-413e-871d-caa49fc3f2c1,9033fe4e-1514-429c-aa59-67a11beb1b17,Meridian Underwriting,Quoted,163.04,16.3,2024-06-10T02:44:16,TRUE
+c42e70a3-aa21-4231-98eb-84d2256ce6d1,4530a1a2-06aa-4497-b4dd-d8588e98e5d6,Meridian Underwriting,Quoted,28.66,2.87,2024-07-12T17:36:52,TRUE
+ea0aa11a-3876-47fb-80e0-45386ce1c9df,4530a1a2-06aa-4497-b4dd-d8588e98e5d6,Apex Insurance Group,Declined,,,2024-07-12T17:36:37,FALSE
+c9a18ba4-b61a-4da0-9c47-80f6f07af93a,5052d440-9f51-4d0b-ba84-34f4b147230f,Meridian Underwriting,Quoted,118.06,11.81,2024-10-13T08:11:52,FALSE
+cbb44db0-c714-417d-9d01-ff393a44ac88,5052d440-9f51-4d0b-ba84-34f4b147230f,Apex Insurance Group,Quoted,110.58,11.06,2024-10-13T08:12:10,TRUE
+4b357ef4-d52b-4b67-9212-4462a2db181f,4256027e-c4fa-4bf6-addd-f6b4c53a2011,Meridian Underwriting,Quoted,42.25,4.23,2024-03-30T02:51:28,FALSE
+5256a119-52e5-42e9-b09f-6857063658fe,4256027e-c4fa-4bf6-addd-f6b4c53a2011,Apex Insurance Group,Quoted,95.09,9.51,2024-03-30T02:51:34,TRUE
+85a5a783-5f3a-46f1-afee-7ae9c5d6a27e,aa5c748d-d80f-4e29-b5b8-68a3b90651af,Apex Insurance Group,Declined,,,2024-02-03T19:19:46,FALSE
+45dc11c0-d333-471c-b612-c417297b5210,aa5c748d-d80f-4e29-b5b8-68a3b90651af,Meridian Underwriting,Declined,,,2024-02-03T19:21:08,FALSE
+1f82ef4a-2f0a-4fbb-a411-e2b7c62dfaed,6e781ad2-72f6-45e4-b5a7-55553cd2fc5d,Meridian Underwriting,Quoted,59.29,5.93,2024-07-07T10:41:58,TRUE
+1ab48b6b-44f8-495e-8109-06122a0ba937,6e781ad2-72f6-45e4-b5a7-55553cd2fc5d,Apex Insurance Group,Declined,,,2024-07-07T10:42:09,FALSE
+6223c2c0-bf53-4cf5-8d8b-67af093d945a,eae1f511-9ced-4c27-8a27-52d1bd7266f0,Meridian Underwriting,Declined,,,2024-12-13T17:29:26,FALSE
+8c0e18ba-7bbf-465e-b277-cadb75eaef3f,5b63d6cf-8a61-43b3-8af6-342a5cf7fb97,Meridian Underwriting,Declined,,,2024-05-03T13:59:33,FALSE
+33ff1047-d2ec-40a5-80ad-773507fc72fd,5b63d6cf-8a61-43b3-8af6-342a5cf7fb97,Apex Insurance Group,Declined,,,2024-05-03T13:58:41,FALSE
+c9170971-adf0-43d1-8442-c927d3caeefa,cb29505b-224a-45e7-aad1-aa257a7c1a72,Apex Insurance Group,Quoted,183.08,18.31,2024-01-06T22:03:59,TRUE
+19458744-646c-46b5-87ac-eecf1fa2c841,cb29505b-224a-45e7-aad1-aa257a7c1a72,Meridian Underwriting,Quoted,114.05,11.41,2024-01-06T22:04:54,FALSE
+f756914c-f5fd-4670-91c5-8ead3e40c51b,0f70a242-d4f9-4455-b764-071d9ef85f01,Meridian Underwriting,Quoted,18.97,1.9,2024-04-18T17:06:53,FALSE
+a4ebd214-c4ae-4973-9939-4160ea449451,0f70a242-d4f9-4455-b764-071d9ef85f01,Apex Insurance Group,Quoted,128.59,12.86,2024-04-18T17:07:31,TRUE
+981d6929-cfc5-4485-a8f8-b80c3f73b769,528eb2a4-97f1-4d78-9aff-21b4d8838398,Meridian Underwriting,Declined,,,2024-07-10T12:35:38,FALSE
+46261dfb-6fb8-4c3c-b8d9-a6ab993fc2b3,8497c864-f919-4107-9984-57a86fd60d7c,Meridian Underwriting,Quoted,109.89,10.99,2024-02-11T00:16:55,FALSE
+13d3fe8e-c4ba-44b2-9f12-665c78fd0c13,8497c864-f919-4107-9984-57a86fd60d7c,Apex Insurance Group,Quoted,180.17,18.02,2024-02-11T00:18:15,TRUE
+48a86a46-d24c-416d-95d4-70f3a0202be7,9e0f3ca0-a0c7-456d-ba4b-6147c350002f,Apex Insurance Group,Declined,,,2024-11-11T02:18:40,FALSE
+eb1ff4a4-f7f3-409a-8e18-0ddf82f0f702,9e0f3ca0-a0c7-456d-ba4b-6147c350002f,Meridian Underwriting,Declined,,,2024-11-11T02:19:05,FALSE
