@@ -1,0 +1,601 @@
+proposal_id	user_id	brand	landing_at	drop_out_status	form_completed_at	car_make	car_model	user_age	postcode
+5563fb26-e6b9-448c-95bb-deeabff5f803	5aa946c6-0b49-4ff1-bc07-ce834efb843b	SwiftCover	2024-06-05T21:20:54	page_4		Tesla	Model Y	48	T33 7NS
+7162c6ea-e343-4826-9687-08b1a83a30a8	58a3e22d-45d3-4aa0-ae14-fbd9a76b390e	ShieldDirect	2024-02-04T21:20:05	completed_form	2024-02-04T21:29:05	Toyota	RAV4	44	VW28 3LE
+468b1c25-8e89-4693-b8d4-e974e60ed890	c5975927-ed1b-4d7a-a3b9-6be4047a7508	PolicePro	2024-08-08T04:01:51	page_4		Kia	Picanto	57	BO55 4JX
+3d9df5b4-ff55-4e4f-b61f-cfc9e2be8251	e7923a7e-9185-49a3-9484-58b7e969e99c	SwiftCover	2024-02-01T09:15:49	completed_form	2024-02-01T09:20:49	Tesla	Model X	62	F92 3TL
+03a84b0f-0308-41ca-97d8-577a529703c3	36205440-7812-4b14-94cd-9d3ced7884ad	SwiftCover	2024-12-25T04:11:54	completed_form	2024-12-25T04:21:54	Volkswagen	Polo	19	M54 2XQ
+5c81dc62-41b8-4c0c-abca-c3ddd96c1d2d	51beb1c3-5ae1-47c2-9c86-d3541f71c32c	PolicePro	2024-02-25T12:01:56	page_3		Ford	Kuga	34	FU8 4LN
+28a47cd1-5988-43e8-91f5-b2a105270305	16fa25ae-5b76-46ba-aebb-1656c20abbfa	SwiftCover	2024-11-16T10:48:16	completed_form	2024-11-16T10:55:16	Mercedes-Benz	A-Class	36	DD38 3YK
+27d8e996-eb59-4dac-9bdd-28e0e4f62134	d3aad022-734f-4e0d-b2e8-f0b57642eba0	PolicePro	2024-12-24T21:33:07	page_3		Kia	Niro	46	DV24 2MA
+661e3b15-55a2-4cf3-a055-37bcdf51fa60	3c53b880-ed9e-4872-a5b2-04a9ec7927d8	PolicePro	2024-11-19T07:57:41	page_1		Toyota	RAV4	60	KV69 2EA
+cae8f6e7-4e59-4c14-9432-bcad983f0512	a5c7702e-1f95-4551-8e8e-9298bc9be3b6	PolicePro	2024-05-24T20:34:15	completed_form	2024-05-24T20:42:15	Mercedes-Benz	C-Class	45	CR41 4TS
+bd23bdc4-039b-4f18-92b6-021a0c0728b9	a0b14723-6972-4dc4-98a6-e4f9dfb4b4d1	SwiftCover	2024-10-03T08:44:28	page_3		BMW	X5	73	ZG65 5WW
+71a12950-83d0-4197-b486-6bc92f5888dc	5d5b1580-db66-46cf-af83-b693e4cac8a2	PolicePro	2024-11-02T02:35:42	completed_form	2024-11-02T02:39:42	BMW	X5	69	H87 8EH
+a269f94f-2f38-4529-953b-a3f368295223	80ab661e-e859-4d58-bf07-a088510826c2	SwiftCover	2024-03-17T18:17:47	page_4		Hyundai	Kona	38	RT91 4KV
+b23ce543-d6e1-4846-9bfa-9a510540116b	21ba1f1f-1ead-428c-83f6-1d59c1bac40d	SwiftCover	2024-09-11T23:32:54	page_4		Vauxhall	Astra	83	YZ22 9UL
+f5923cbe-e7c0-4828-b09f-93d2d1a65c48	881ba4e7-b40a-448d-a90f-3ffbe96bd03f	ShieldDirect	2024-03-20T17:30:09	page_3		Audi	Q5	84	FA14 5BA
+06f6715a-1168-48cf-87e7-c155cda32889	fbadb13b-8f0c-4e13-84ec-b638f5a149cd	ShieldDirect	2024-01-23T15:30:35	page_4		Hyundai	Ioniq 5	54	T51 7UG
+216b7c4c-1e4e-401f-9d2c-6dc1ccff2ba1	80d58425-f04d-47a4-97b7-a59b025bf720	ShieldDirect	2024-05-07T19:01:54	page_2		Volkswagen	ID.3	66	OS47 5EL
+c6148573-88f6-431e-b821-f9d30be85a14	4037ecd9-5fbd-4abf-9c9d-2c5b9b00543c	ShieldDirect	2024-11-23T21:52:29	completed_form	2024-11-23T22:00:29	Volkswagen	ID.3	77	Z69 4YN
+68e9c54b-0bd2-45da-bb0f-c180b986a0ba	d1956d6d-bdf4-4570-b886-e78d2f5c7fbd	PolicePro	2024-02-14T14:38:28	page_4		Mercedes-Benz	A-Class	17	QP53 5DP
+6d264d46-0235-4cd8-aabd-0f05a65cb40a	cb516d0b-b70d-4fa9-86ba-d79902185205	ShieldDirect	2024-01-19T10:37:27	page_4		Ford	Puma	46	EL90 7FE
+1982a034-d0a7-4949-9597-53f23d2d435d	1ff5f3b1-4c15-400f-870a-72761272c4b9	SwiftCover	2024-07-07T05:22:23	page_2		BMW	5 Series	42	S84 9BR
+dcc672a0-8e42-4281-9e23-5d1674b55e7a	28f267db-a0c7-44ec-89b4-46927a326fae	ShieldDirect	2024-10-08T11:08:24	page_2		Volkswagen	Golf	28	T83 7DW
+26b11500-8a6e-4242-a303-1d55400cf32c	6040d9ca-17c8-4611-886d-29c6cd6e3c4b	PolicePro	2024-10-05T10:23:05	page_3		Tesla	Model Y	23	VL40 3SD
+b6dfebfd-95c3-4dc9-9e7d-202db6442336	68edd13e-3efb-49fc-a046-048a2c885ce1	PolicePro	2024-09-06T16:16:11	completed_form	2024-09-06T16:29:11	Ford	Fiesta	29	O94 2WD
+3d14ba7c-387f-42ff-a173-5876eaf51a48	a52425a0-ccff-46e1-beb3-aa78e5307ab1	PolicePro	2024-12-11T18:11:07	completed_form	2024-12-11T18:25:07	Mercedes-Benz	E-Class	57	P3 5XD
+46cc0e11-5347-4b47-916a-84439f8204d7	fde7489c-6b63-41ec-b815-8213232f6a19	PolicePro	2024-01-05T09:13:35	completed_form	2024-01-05T09:27:35	Kia	Niro	32	LB46 3PH
+3978886f-4ead-4f35-9b00-3aea916ebae9	17c24d24-d3b7-4716-bd78-4d3c2e9aacac	PolicePro	2024-05-09T22:05:11	completed_form	2024-05-09T22:19:11	Ford	Kuga	46	S3 5SK
+5ee52d02-cb63-49aa-a764-66563f88d95e	bd03f948-1325-4c24-aa0c-f3a8a8a56999	PolicePro	2024-10-04T21:59:36	completed_form	2024-10-04T22:04:36	Volkswagen	ID.4	23	G34 3VC
+663a4f46-3298-489f-bf8f-7d5a5c3a4136	a7e41a81-c514-4aea-80a6-d8618102037b	SwiftCover	2024-01-02T16:15:19	completed_form	2024-01-02T16:17:19	Toyota	Corolla	55	Z33 3PK
+83747199-6c61-4ef6-8efd-21dd47eb0bd5	58f73336-823c-459c-a51e-30e51d40843d	PolicePro	2024-01-02T06:00:33	completed_form	2024-01-02T06:02:33	Kia	Sportage	26	P44 7DX
+75d95471-203f-4b42-9358-a53940ff07b0	5e564f36-670b-41ba-a591-a48ae86a854d	ShieldDirect	2024-02-05T08:07:32	page_4		Volkswagen	Golf	79	S13 7QW
+3382a1d2-dac8-493f-a5a0-c0dccf589e93	373b02bf-bb2e-4113-9853-0ba518f5f24e	ShieldDirect	2024-03-08T09:51:58	page_2		Toyota	Corolla	49	Q87 9XV
+f94cb1ba-157e-45b1-aa88-5eec5a222c54	79193332-d02b-4088-a2b9-4769d56a02de	ShieldDirect	2024-01-31T00:00:37	page_3		Kia	Ceed	70	NB33 6TH
+50225d72-79ce-4eda-b2f9-76577829c382	5cde9f96-2d63-47e5-b004-0d3595d7ae6e	PolicePro	2024-03-14T10:26:05	page_2		Ford	Focus	24	EB38 3GX
+11970916-5690-476e-86cf-52598676bd50	061d82a5-0828-42ac-9d0c-4521e9e84087	SwiftCover	2024-04-08T23:59:32	page_1		Kia	Niro	63	E50 3SN
+079a42eb-5ce9-4727-9902-2d58a0ea93ec	8e1b223c-ae7b-4f52-ad10-acdff16c23c1	SwiftCover	2024-03-17T22:33:16	completed_form	2024-03-17T22:35:16	Hyundai	i30	27	AY49 4NT
+ab8c589e-08cd-4e49-aba5-0e0c6cce3731	7d1e6bf7-5c42-4e1d-b236-670f5d71a31b	PolicePro	2024-01-09T08:44:04	page_1		Toyota	Corolla	49	Q56 2RB
+badab898-fdda-4bb3-9423-6d8df590cd03	e47e9f59-f983-428b-a4cd-aac1d053618e	ShieldDirect	2024-11-23T18:49:55	completed_form	2024-11-23T18:56:55	Mercedes-Benz	GLC	65	II15 5NB
+248c5150-a3e0-4cdd-8823-269f3e9dabf5	0f78096c-4d14-4d00-adef-e27db0929439	SwiftCover	2024-01-13T21:43:52	page_3		Hyundai	Ioniq 5	51	QG57 8NP
+a9027b88-9f4e-4f7f-92f5-cbbba01b620a	341184c3-88b1-40ee-8fe3-2c35a3342aaa	ShieldDirect	2024-04-11T17:18:24	page_1		Audi	A1	19	MY91 8KX
+8d46313e-9976-4751-be69-6059c3912aec	491c86ac-ec27-4e0c-94a1-3d3344b11fd4	PolicePro	2024-05-04T14:59:42	completed_form	2024-05-04T15:04:42	Tesla	Model 3	67	B36 8TH
+06422139-3aa4-46d7-830b-2d171f2b8311	54a9c2ee-671e-4de2-a8be-4e866abc5ddc	ShieldDirect	2024-08-19T05:07:42	page_2		Ford	Focus	27	W25 7WR
+db29e7ab-96db-477a-be3b-5237d29e8599	03e03579-fd27-4702-95f8-3b08ba7b5563	SwiftCover	2024-08-12T18:11:36	page_1		Vauxhall	Mokka	43	A56 5ED
+1a96899f-e55c-4f75-9418-771c83f0646b	73f3a81f-7029-48b7-9e9f-67095da386fd	PolicePro	2024-10-27T13:27:16	completed_form	2024-10-27T13:31:16	Audi	A1	40	KC35 9GV
+668b983d-4615-4208-9625-913f29b47e45	04344785-0369-4d00-8da8-bbae605cf176	SwiftCover	2024-10-09T10:08:16	page_2		BMW	1 Series	25	MD38 8FY
+0f902b8b-8fc8-4c50-a1db-27e87ceed3c4	12793feb-8013-4c3d-aced-59affc8e4fa0	ShieldDirect	2024-10-25T21:21:10	completed_form	2024-10-25T21:36:10	Mercedes-Benz	E-Class	49	L20 4HC
+6b049a54-1679-4393-9a20-26915ab9da0f	50a424d8-53e2-48f1-8d6c-a9e94f22eaed	ShieldDirect	2024-07-14T03:33:42	page_3		Hyundai	Ioniq 5	26	O19 1HU
+baf7e9be-4c61-4b1a-901d-b1d4d6901d42	b351a48d-5da3-4ced-8446-75f47753e7ec	SwiftCover	2024-06-04T04:04:25	completed_form	2024-06-04T04:07:25	Ford	Kuga	71	CA12 4GC
+0765afe7-f359-450f-8f83-36c7a070fbb3	e271da98-1c6d-46a7-a752-8e93e06332b3	ShieldDirect	2024-10-11T01:06:02	page_3		BMW	3 Series	41	Q42 1YF
+72088d17-7b7d-4962-be3d-6f1bb8d0e5ba	b56e581b-82bb-4a5e-ae4f-441c54aef990	ShieldDirect	2024-06-06T02:22:40	page_4		Ford	Kuga	49	OJ45 3AH
+7279b832-756c-4e38-8968-723e067b2c9b	764a7db2-85d6-4a65-9b44-aac5a08fab85	ShieldDirect	2024-12-20T10:40:41	completed_form	2024-12-20T10:52:41	Toyota	Corolla	83	SY78 6NS
+1bcf6ac9-52d2-4d04-b2af-1459f800119f	e6b62333-6ef0-4db9-bf4d-fb323c1569ae	ShieldDirect	2024-11-24T03:28:13	completed_form	2024-11-24T03:34:13	Ford	Focus	61	D6 2NX
+f46d3009-0650-402f-ac4c-bffaeadfc2eb	ae5fa8d6-14fd-4e4f-9cc3-f742e5ddf3ae	ShieldDirect	2024-08-04T17:33:02	page_3		Hyundai	i30	59	S38 1RH
+4483fbe9-c9c2-49a6-b598-68d65e403b93	e3c74ac8-961c-4fe2-b04f-811711aae391	PolicePro	2024-03-18T03:40:25	completed_form	2024-03-18T03:42:25	Volkswagen	Polo	67	WO48 7FX
+60f1d2d1-5cbb-4db0-845f-adb4d9e146eb	6802a793-aa81-4f0e-a4be-53bcdf584164	ShieldDirect	2024-10-29T06:25:58	page_4		Vauxhall	Mokka	29	J41 4PP
+ec04f7a5-c742-4efa-806a-e02ee187b347	a452029c-e445-44ae-9537-a19c26abe09a	SwiftCover	2024-04-22T08:33:07	completed_form	2024-04-22T08:39:07	Audi	A3	33	ZR99 1NN
+452c1776-5957-4f91-9f63-20b54f3721b6	f57b3bbd-1632-4ba6-b807-f7d26e0def57	SwiftCover	2024-02-25T07:24:49	page_3		Kia	EV6	50	LJ45 1WF
+acb2188e-a8a0-442f-b618-9d71ba9af405	3ad3f28e-f48e-4617-8e7c-72dd0c2d1060	ShieldDirect	2024-09-09T21:54:04	page_1		BMW	3 Series	21	L9 6NC
+9e7a73f6-5d64-4ae6-8153-dfe403e917e3	f213fa54-40e9-441d-bdf3-09d08bff2499	SwiftCover	2024-09-06T16:55:54	completed_form	2024-09-06T17:02:54	Kia	Picanto	18	S2 8EN
+6a0efe8b-affb-4103-85f4-0e41f2af780b	2f3d9272-7b61-4f5e-88e1-8ab18ac84ff1	ShieldDirect	2024-06-26T22:21:40	completed_form	2024-06-26T22:34:40	Ford	Fiesta	22	E82 7EC
+376fa61c-8562-480d-990e-c20526cd9d80	ed6b8e46-33ab-41ff-8eeb-03d56636b36d	ShieldDirect	2024-11-30T09:44:25	completed_form	2024-11-30T09:54:25	Mercedes-Benz	E-Class	19	H81 1RP
+2f40ccf9-c719-445f-b1de-52e6ac7ec260	ddba6068-4dcf-4093-a053-5f13d7db6436	PolicePro	2024-11-25T12:11:51	page_4		Mercedes-Benz	C-Class	61	R5 6PJ
+f7bb8214-e4fd-4828-964d-68aabfe9bb5d	75074ca8-75bc-44f7-b4f2-9dd34afb0148	SwiftCover	2024-11-22T18:15:09	page_3		Audi	Q3	82	MC91 7SF
+7d80ade1-5050-4aad-a350-946eb9b9580b	c1e4323a-fb3c-4cd3-9278-eac8ccc2cd4b	SwiftCover	2024-08-23T08:27:11	page_3		Ford	Mustang Mach-E	20	GX92 1DV
+0bae61d5-8860-4bbc-a82d-e510c11647d7	fe49ef1c-96aa-40fb-9d67-5bd9f29df470	PolicePro	2024-04-26T09:53:40	page_3		Audi	Q3	37	JE20 9LG
+4102e572-f929-463a-aae6-48ba5eee8c62	e0afb8f6-9d6f-4a91-9dc7-9163eb735769	ShieldDirect	2024-11-21T23:25:59	completed_form	2024-11-21T23:32:59	Volkswagen	Tiguan	35	N72 3UL
+49bb22e4-4400-47a6-ba61-995fc63ec3ab	ce60b6b1-65e1-457d-95d4-3349915bb06e	PolicePro	2024-07-13T05:37:05	page_2		Audi	Q3	85	IF9 2FQ
+d187869b-ddc9-454b-ac6c-8bad1eb8c7e2	4ab7d430-80b7-4ca2-bef2-c5ba30320e5d	ShieldDirect	2024-04-06T01:37:28	completed_form	2024-04-06T01:45:28	Volkswagen	Golf	69	I24 1SB
+5359ff58-c8f4-46a3-8369-b14ae4417960	d166e44c-cf9c-4c26-961b-73ce3182691b	PolicePro	2024-07-01T19:27:24	page_4		BMW	X5	81	Y84 9YK
+d93a70a0-6ae6-4311-be26-828c32081970	51540684-e1be-4a78-896a-68a41445af7b	ShieldDirect	2024-12-04T17:32:31	completed_form	2024-12-04T17:39:31	BMW	3 Series	35	OR18 8YL
+18264e4d-023e-4613-be1b-909ac659a95b	9d2af41c-d51d-49f9-ae2f-2ca4fd32a6b7	ShieldDirect	2024-06-25T13:31:55	completed_form	2024-06-25T13:40:55	Tesla	Model S	74	UM87 8EH
+ec2d87a4-71de-4085-82a3-54ab25f8f94b	d79a922f-8e4b-4519-b556-fad6af42086a	ShieldDirect	2024-01-05T12:06:23	page_4		Hyundai	i10	42	W16 9KN
+ea30ed50-418b-4f7a-8362-004591d74e3a	52a3bc85-fc3d-4e8b-b2d3-115e015387b5	ShieldDirect	2024-10-20T01:31:24	completed_form	2024-10-20T01:33:24	Vauxhall	Astra	41	Y99 5AS
+cb8c25d7-a625-464b-a766-b994028c055b	f908b75b-e538-4f7c-bca9-e2021a6ef88c	SwiftCover	2024-01-24T08:49:09	completed_form	2024-01-24T09:03:09	Toyota	Yaris	45	F97 1EG
+4e30d39d-1307-4044-bceb-127b5311e068	bacbfff9-ea3f-45b5-96dd-3284012f5565	PolicePro	2024-05-16T21:04:33	completed_form	2024-05-16T21:11:33	Hyundai	i30	19	CP6 4UK
+878c8fd6-e111-42b0-ace9-04d052ac07ba	8716fb3d-815b-4ba5-b45c-b2c09e594645	SwiftCover	2024-11-05T13:09:23	page_3		Hyundai	Kona	77	RU62 8AA
+49d6add3-b257-41d7-932d-2711f13abd61	917534fc-87b9-44b8-b39e-a2307c7bdf3f	PolicePro	2024-07-27T03:20:52	completed_form	2024-07-27T03:27:52	Vauxhall	Corsa	64	E46 6PR
+62492303-b7b9-4d59-ab43-f6741df87ebf	0de0029d-ba1e-4ea8-b8ae-eedba4725c7c	ShieldDirect	2024-05-04T05:44:20	completed_form	2024-05-04T05:50:20	Audi	A3	46	VY11 2RB
+abb85bf2-18c4-45e8-aba2-168968ccdb1a	890bc4c0-80ef-4865-9642-89f105181469	PolicePro	2024-02-01T16:14:00	completed_form	2024-02-01T16:17:00	Hyundai	Tucson	45	B17 9FN
+e96fbe63-1327-42f0-8f78-6573fc611881	573cb159-9f5d-4441-9df7-f22d9e2e6330	SwiftCover	2024-03-06T04:47:10	completed_form	2024-03-06T04:49:10	Hyundai	Kona	65	MU22 1RD
+5620eeb5-3d68-4cae-90da-02857097624f	df652b6c-2c90-4c96-b263-4bda7f2f22aa	SwiftCover	2024-04-28T12:40:15	completed_form	2024-04-28T12:49:15	Volkswagen	Polo	53	PG31 1FK
+0d1fcc90-a91b-493d-9b67-283110965553	9527322b-0656-417d-a62a-d099132d10da	SwiftCover	2024-02-13T21:16:03	completed_form	2024-02-13T21:19:03	Kia	Ceed	41	MJ79 4EK
+ca9b8b9f-6ffb-4508-ba4c-d9a8f25b2cdf	88574c37-59fe-45fc-bb87-e0dafedf0341	SwiftCover	2024-07-16T21:43:21	completed_form	2024-07-16T21:51:21	Toyota	RAV4	53	S44 8UE
+ad5f5c5f-b31f-48b3-afea-9ae9386ed540	18146ad3-e98a-44dd-85f1-44b2b957c0eb	SwiftCover	2024-08-03T00:54:24	completed_form	2024-08-03T00:56:24	Volkswagen	Polo	51	AC3 4CB
+6b9f817a-98af-47e4-a208-9f0bf59ff9b5	aa85e38c-1853-4d59-9c1f-78c1dae0b9e8	PolicePro	2024-01-31T16:03:54	page_1		BMW	5 Series	39	KB24 8EL
+437fb214-a511-4405-a629-5e2285a3f92e	c5e91837-37fb-477a-b8b6-2766024ddfa8	ShieldDirect	2024-12-24T14:15:16	page_1		Volkswagen	Tiguan	56	Q86 4BN
+663d0671-3e25-4a93-abe6-455896a1bc72	05fbd802-7a0a-4eaf-9c12-1576b92fc651	PolicePro	2024-10-17T19:23:26	completed_form	2024-10-17T19:34:26	Mercedes-Benz	A-Class	70	D21 8UU
+b9cb681e-1ca4-44d8-aaeb-8d5d7e4647e6	eccbe4b9-d31d-4167-9f3b-acf5cf9010d5	SwiftCover	2024-03-11T22:58:05	page_3		Volkswagen	ID.3	50	U27 9TN
+0a8e75d1-2050-48e3-b39d-af0e07313559	cc152c43-52c3-450d-9498-41c80b0830fb	ShieldDirect	2024-09-19T21:42:37	completed_form	2024-09-19T21:54:37	Tesla	Model X	51	ND99 8NX
+10743e3b-58c4-4427-ae62-569c7370eb10	42a11bbe-3fd1-4e57-bf8b-5fe34f304d1f	SwiftCover	2024-10-19T00:56:37	completed_form	2024-10-19T01:01:37	Kia	EV6	34	W83 2DF
+053ee75f-a54c-4d5b-9349-eb0e6719340f	bf9d972c-ce11-426b-9335-8155c92ee0b7	ShieldDirect	2024-12-05T16:28:15	completed_form	2024-12-05T16:38:15	Tesla	Model X	54	H24 6WP
+72388033-d23b-460b-b6b2-50afebabce5c	fee1efe3-b32c-4fac-b174-7778ae8ad26e	PolicePro	2024-01-29T00:25:22	completed_form	2024-01-29T00:39:22	Kia	Niro	33	Q62 6PL
+44fe2d04-c614-4228-93aa-8477684c7725	ebed534b-9bd4-488c-9156-fc163b5cae21	ShieldDirect	2024-03-06T09:08:12	page_4		Toyota	Corolla	52	FN14 8SC
+eae674f1-e794-43c7-a93f-00cd6b5e21e3	16c4a1f4-8941-4255-9e8c-a3c0d2c71a3b	ShieldDirect	2024-04-18T01:12:36	completed_form	2024-04-18T01:21:36	Volkswagen	Golf	55	N36 1VA
+5b93c1cf-d7cc-4122-82c6-e85319110de4	a88c0a7b-a5fa-4dc7-b544-d37d6ccb1276	ShieldDirect	2024-12-29T18:11:50	page_4		Volkswagen	ID.4	51	D98 9VP
+53dfbe13-f515-4f26-bff0-c5c715941d72	ab2fac4b-9f8c-438e-a927-788a81b57f0a	ShieldDirect	2024-07-27T14:08:05	page_4		Volkswagen	Polo	30	CW40 9XK
+64cdefd0-8574-4237-ac49-4d4f50509688	3be3ce54-9bc9-4524-b780-f192e7c2799e	ShieldDirect	2024-08-14T21:13:12	completed_form	2024-08-14T21:26:12	Mercedes-Benz	A-Class	27	PP48 4HC
+5196b771-24d1-4a96-887f-84a784480e32	5e823e28-7e87-42fe-b126-7ae702e22b41	ShieldDirect	2024-09-20T02:05:08	page_1		Vauxhall	Astra	48	XF30 8UH
+e99f9aba-e725-48b3-bb17-78a43a2d2aa8	daef5932-9176-4377-973b-8eccf4b26d6b	SwiftCover	2024-05-28T15:53:20	completed_form	2024-05-28T16:02:20	BMW	1 Series	43	C24 9LQ
+813b504b-95a9-4b76-93d5-cba05105f185	3f44c48c-2f05-4398-90b6-c4a1e859a1d7	SwiftCover	2024-03-22T06:44:52	completed_form	2024-03-22T06:50:52	Vauxhall	Corsa	59	DV10 2KM
+8be32f5c-e32c-441d-bdc0-3cccaa77912f	c141180b-e723-4083-a7cd-fa46df6a00a0	ShieldDirect	2024-07-02T18:34:27	page_3		Kia	Niro	72	TL96 4DL
+91be0696-abc0-438c-8275-da13e6a0ec87	88a288d0-cb60-4a19-ae4c-b6ca94b373da	SwiftCover	2024-04-08T02:42:41	completed_form	2024-04-08T02:55:41	Audi	Q3	82	F67 9AR
+e0525f97-3d1e-4959-a29b-b1817925834f	040ee1b5-883b-4838-91cc-a435d0f5be9b	PolicePro	2024-06-14T17:40:35	completed_form	2024-06-14T17:52:35	Toyota	Yaris	69	AF32 9QD
+c1dc2dc6-0953-4d51-b23e-0bf121ee57c3	1f20f41a-597f-4f45-a3d8-9462cd6a8462	ShieldDirect	2024-09-08T22:20:17	page_3		Audi	Q3	25	AF72 7WW
+f133f6ca-2c88-4546-8505-fb4bc713447a	0dec36b8-4afb-44df-b6d6-cbbbcdaeef3f	PolicePro	2024-02-22T02:23:50	page_1		Hyundai	Ioniq 5	41	JG38 8JU
+0e0092c4-98f1-4289-8ad1-6098e4c59472	9cb52d39-effc-4039-8626-60b7196097e5	SwiftCover	2024-12-25T01:23:00	completed_form	2024-12-25T01:36:00	Volkswagen	Polo	82	N96 6MG
+3e58b0b9-0ccf-49aa-b4ed-10299c0781da	751689e7-709f-4380-9aca-db72168fad63	SwiftCover	2024-01-15T00:58:44	completed_form	2024-01-15T01:11:44	Ford	Kuga	37	XJ5 4RP
+898dd22b-ee3c-4a5d-853f-1ed1dc7751e5	7284151c-f446-425f-b926-ded38fa8cae5	SwiftCover	2024-08-09T02:15:17	completed_form	2024-08-09T02:28:17	Audi	A1	28	NF92 8HL
+e3939cd3-49a2-4f3b-aae1-3f80f017c86e	90fd1f33-b907-4f89-9cfb-35c9e8a749b1	SwiftCover	2024-02-12T16:53:36	completed_form	2024-02-12T17:06:36	Tesla	Model Y	84	K29 5WS
+081fcf9d-e7b5-47d4-a823-82049413df3f	9bc746e5-9077-4cdb-bba5-a4184f41069d	PolicePro	2024-09-05T13:50:36	page_2		BMW	5 Series	77	J73 5CM
+7efb92fb-d960-4eb4-9f7e-cbe27dd50389	a5282c4f-f508-4f6b-bc92-35a251e74e78	SwiftCover	2024-09-04T11:40:05	completed_form	2024-09-04T11:54:05	Ford	Puma	33	AU17 7MH
+4d0e1287-38b5-410a-8498-23738322c208	8bea95e2-0a10-417b-a5f9-26ffeaaa6ded	SwiftCover	2024-06-17T22:31:27	completed_form	2024-06-17T22:45:27	Audi	Q3	25	PE19 2UN
+1454ad8b-54f1-419b-9044-28e9d28ae4fa	0fe45b9c-3076-4966-9905-24dc2934beb9	SwiftCover	2024-06-04T17:04:27	page_1		BMW	5 Series	26	R37 2NQ
+20b6685c-d192-4178-be2f-a4a38c47872b	88d2ec2f-a3b0-4d8b-9a7f-656fe2d1943c	PolicePro	2024-06-18T17:20:32	completed_form	2024-06-18T17:26:32	Kia	Picanto	45	T47 2HM
+a40b8bcb-7b30-4e98-84b2-dc8bf4a08e10	73678f44-9ba2-4357-9579-465dc6ed9091	PolicePro	2024-12-09T05:10:28	completed_form	2024-12-09T05:13:28	Toyota	Auris	40	QO35 8VC
+7d894f33-cb61-4136-b6ee-fe8c4009a801	c8f6aca1-68d4-4bdb-89e3-82e547474a10	SwiftCover	2024-01-06T13:37:49	page_2		Ford	Focus	61	NX82 7SE
+0a6f365b-c740-4f1b-b2b0-43a32ca6112a	236f1453-0523-46eb-a9bf-aaaeef0c564e	SwiftCover	2024-07-12T14:20:25	completed_form	2024-07-12T14:26:25	Mercedes-Benz	A-Class	23	KW39 5SW
+2bbdb82c-d56e-43b0-8ea4-af7579e81a97	f63ebab3-c98d-4e71-a292-37610dd896bb	PolicePro	2024-08-13T17:39:06	page_1		Hyundai	Ioniq 5	41	F56 3EP
+3ee5abf3-1ffa-48e0-b117-777f12cce2ab	c9e64738-e65a-49a9-bcb2-b9851849e897	PolicePro	2024-10-08T22:47:52	completed_form	2024-10-08T22:54:52	Ford	Kuga	50	FF54 4TP
+bf7b7dc3-01ff-4e44-a226-2e433ccbf5f3	ab4a4190-563e-494c-a9b8-2dcb9f4e66ea	SwiftCover	2024-12-14T19:44:30	completed_form	2024-12-14T19:59:30	Vauxhall	Mokka	17	B87 1XR
+d18c1942-b77a-4593-8f56-f697c7668b3d	ef06a9db-4aec-4bf0-943b-ad7e79cdc13c	ShieldDirect	2024-03-11T18:47:02	page_3		Tesla	Model 3	48	LP17 5KL
+d7a9dc76-dc83-4af3-a1c9-72867eb1c3fc	53a9072d-4b2c-402c-a418-8b609a9624be	PolicePro	2024-05-28T17:23:19	completed_form	2024-05-28T17:37:19	BMW	5 Series	83	T90 9DE
+f71840f8-65f4-4bb0-8149-7f7f1d6d9e99	0b214898-0798-4565-8961-f58d313e27da	ShieldDirect	2024-10-10T13:26:47	completed_form	2024-10-10T13:34:47	BMW	X5	54	WJ34 3GG
+d6590027-af43-4078-8142-ce729ba4db70	d8b4fb55-d1ce-4b6f-a03e-d73e7b38dfa1	PolicePro	2024-04-24T20:43:51	completed_form	2024-04-24T20:55:51	Tesla	Model Y	32	EC60 8FA
+72fd3590-c115-4ed8-84a1-a63f62a0fb08	b5672700-de3b-423f-bfc3-9d7e4bb38c6d	SwiftCover	2024-07-10T17:15:47	completed_form	2024-07-10T17:27:47	Tesla	Model Y	30	I67 4PF
+814e5d88-63bd-498e-b941-c144508ee5e2	c4e19fff-1d44-4a43-af59-d68fc55dd449	SwiftCover	2024-04-10T14:56:52	completed_form	2024-04-10T15:03:52	Tesla	Model X	29	L27 9EQ
+00d5db81-314d-4fa5-9a74-a44f71cb8ff6	72dad772-908b-4421-bd1a-45917d193edc	ShieldDirect	2024-02-26T13:21:18	completed_form	2024-02-26T13:36:18	Kia	Ceed	61	H98 1JG
+3bec32cc-dbbe-438e-9b79-4320c708cef9	f5a0a0d9-8eb6-4240-9af8-938ec6f59559	PolicePro	2024-01-26T03:43:35	page_3		Hyundai	Kona	41	HH69 2PQ
+78f4e6f1-3447-4e5e-a6f0-ffb7ca0b35e5	d6bb8e34-1521-4fb3-905f-1b302220e8cc	PolicePro	2024-05-10T08:23:51	completed_form	2024-05-10T08:32:51	Kia	Picanto	34	V56 8JK
+7ba24369-c231-4fbd-995a-b0f252cf961b	3ae89570-af5d-401e-9fac-6c0e8c2abb75	PolicePro	2024-07-05T15:43:19	completed_form	2024-07-05T15:50:19	Mercedes-Benz	EQA	41	GW75 3MX
+c2a43f24-f970-410c-bad6-e43f150b6661	6575e55a-3296-472c-9341-118a33c38ec5	SwiftCover	2024-03-06T17:53:38	completed_form	2024-03-06T18:02:38	Kia	Sportage	18	BZ75 1BJ
+88cf53af-b0fc-40d6-803a-8945769a3b55	270f7dbb-8fb0-446b-8243-65b1612376ad	ShieldDirect	2024-04-30T05:03:05	completed_form	2024-04-30T05:15:05	Audi	A1	35	UL28 3RU
+094bde4b-b179-491a-a0e6-0dc61eb0166d	fd1ba68a-49b1-4f8f-978c-bbb62d1b42e3	PolicePro	2024-01-01T07:22:30	completed_form	2024-01-01T07:24:30	Vauxhall	Corsa	39	K9 6FW
+3c90889c-520b-43f0-9da3-66aeeb6a4e09	82ef9a67-3e21-474c-bc85-55c0d5b48017	ShieldDirect	2024-09-06T02:21:01	page_4		Kia	Niro	32	SB86 3JP
+5d3b2d31-ce19-494a-a0e4-28e822b75542	c65b3879-c15f-471a-90c4-dfe5975e21c4	PolicePro	2024-01-03T20:13:57	completed_form	2024-01-03T20:24:57	Kia	Ceed	29	B35 3TW
+3f7b701d-c6bd-492f-877c-861025a837fb	5b74500d-d7ab-4b09-b73e-7325c6ff0a61	ShieldDirect	2024-12-14T09:51:27	completed_form	2024-12-14T10:00:27	Audi	A3	61	AH73 7TB
+42a2be4b-f354-48a2-9ac7-96176559d3c9	ad52d9a8-ee03-4577-bd01-8c2caaa3d805	ShieldDirect	2024-11-03T16:48:02	completed_form	2024-11-03T17:03:02	Kia	Picanto	57	Y20 6GD
+a4a059c2-0131-4f58-98e2-eb2fd7025ac3	0dc88fec-78ee-4b8c-9376-68663d4daf56	ShieldDirect	2024-05-25T06:44:36	page_1		Volkswagen	ID.3	52	R26 5MS
+256fdf46-ad5e-47d6-8f0c-8469e4fd68a7	6eb40140-c9b7-4d1c-a6fa-8a18be8cc4e7	PolicePro	2024-12-31T22:51:14	page_1		Kia	Ceed	55	AO23 9JJ
+206cc562-70e8-41e9-ab05-7d6ecfde6f18	27cafcca-df76-4e42-a71f-91385821b100	PolicePro	2024-02-14T13:26:25	page_2		Audi	e-tron	83	G52 1CF
+13206cec-cd12-490d-85bd-9f76cc27c5b5	ae81f62f-2d54-492b-b4f3-02a9b067dceb	ShieldDirect	2024-11-21T16:45:28	completed_form	2024-11-21T16:56:28	Audi	e-tron	78	AU40 4SA
+49f8bdc5-1a90-4f03-8e2c-ed6bd14421a1	6fb671a2-6793-4b6f-b7de-515db021dae3	SwiftCover	2024-09-11T00:42:22	page_3		Kia	Niro	57	G25 8ET
+39606cbb-f970-4ad4-8d12-1584a91fd81f	975350d7-caab-48f3-aa49-d15c95a43868	PolicePro	2024-10-15T01:30:18	page_3		Vauxhall	Astra	61	Q47 9KU
+9e807a01-6bd0-4b8b-bca7-5aff5a29cb72	2a532bd2-dbf1-42d1-845e-ab9fd07ab7a9	ShieldDirect	2024-09-24T15:14:07	page_2		Volkswagen	Polo	53	RT33 2PR
+faf07c5b-f389-499d-80bf-d906f8cbdb9f	ee70105e-7a8e-4431-8c5b-7ee482dfde97	PolicePro	2024-12-26T23:04:12	completed_form	2024-12-26T23:06:12	Kia	Ceed	48	L26 9LC
+c8fb9f71-99b3-44fb-bf0b-a10fc5dfccdb	f823f5cd-8fc1-40de-8265-0cc04cb082df	PolicePro	2024-10-04T06:53:56	completed_form	2024-10-04T07:08:56	Mercedes-Benz	A-Class	43	JC22 6HT
+aa2e9a4d-971f-4f53-a09b-b1f351832622	370f2e36-4d91-4194-a75c-a673f9ea6acd	PolicePro	2024-06-22T13:34:02	page_4		Audi	A3	70	CV9 3BS
+1c3b4db2-581a-4547-90bf-210fde95d714	0263c23d-a11e-4531-8899-6ab8bb62298f	ShieldDirect	2024-08-20T13:53:20	page_2		Hyundai	Ioniq 5	61	I20 9FA
+09308ebc-07a9-44d6-ab21-b59e8ab599b2	10ba77b3-c732-4ab2-8ffc-39f6ef296aba	PolicePro	2024-04-14T06:40:44	completed_form	2024-04-14T06:52:44	Audi	A3	77	H83 5TB
+a3f18d5f-5119-4e96-8969-0402bcfc125a	d29a9b86-fa13-4d6a-aff0-f2ee77f37494	ShieldDirect	2024-02-08T12:57:18	page_3		Mercedes-Benz	GLC	57	Q93 7VA
+025b2c21-7def-4bfe-9d13-64149de5efbf	17303182-bc46-4670-918b-dfdb0d5218a9	PolicePro	2024-11-16T15:20:39	completed_form	2024-11-16T15:27:39	Ford	Kuga	43	KA40 6QK
+412f42e9-4e38-4a02-a7e0-453c53ea3832	c71a1f64-4a74-4bc0-ad2e-553241739de1	PolicePro	2024-02-22T13:12:33	completed_form	2024-02-22T13:20:33	Mercedes-Benz	A-Class	72	VN45 6LS
+efed1496-d137-4a3c-82d3-03ee9441c4c2	e89ee8e5-75b9-4102-943c-e65e0784cf5e	SwiftCover	2024-02-27T16:00:42	page_1		Tesla	Model S	68	U10 6GA
+b0395ad8-ae5d-4724-832c-1bdd88a8efb9	537075df-31d7-45c9-83f9-e58e8c712664	PolicePro	2024-04-11T22:19:41	completed_form	2024-04-11T22:34:41	BMW	i4	75	L79 5EN
+cb658be5-3724-453f-a8f5-ef5e0bb60a1c	fa77fcc4-bc0e-40b5-a762-dbcece99e845	PolicePro	2024-12-05T01:47:36	page_2		Ford	Puma	37	G62 1MP
+73eed48f-7e1f-4eef-8417-c567bf2ad25a	7fced3b0-9082-4c64-81c1-75857fcb1b1d	SwiftCover	2024-04-19T03:54:08	completed_form	2024-04-19T04:04:08	Vauxhall	Corsa	57	VZ91 4GD
+fb9579c4-be1b-4001-ae80-2c73a0958d2c	754b9730-7598-4f07-8bf6-bd3c1d4521a2	ShieldDirect	2024-10-09T06:36:35	completed_form	2024-10-09T06:42:35	Mercedes-Benz	EQA	20	U7 9YB
+b9ad6dc1-4e8d-49c7-89f3-862b1f9d7cc9	b43737f5-de2b-494a-8dfc-597e14ab2c4d	PolicePro	2024-11-17T14:32:00	completed_form	2024-11-17T14:44:00	Toyota	Yaris	20	I50 1MG
+3da395e9-6893-4bce-83db-4c11b5a056c4	8aba8c81-0b96-4006-ba4b-ec535750f916	SwiftCover	2024-11-15T18:13:42	page_1		Vauxhall	Crossland	45	EO2 5MY
+48f8576b-6242-4cb2-9716-d074a10863af	3c87b475-8e30-423a-b77c-dc04b092e2ad	ShieldDirect	2024-09-30T00:35:43	completed_form	2024-09-30T00:44:43	Tesla	Model X	20	O45 9ET
+eef17bb2-c708-4994-96d5-646092b3dd4e	c1b9ad90-3d26-40ce-848d-233a5ee146c2	SwiftCover	2024-03-17T08:23:54	page_4		Audi	A3	17	CV23 9JN
+8b24b79f-0fdf-4f2a-af80-d80383f81d40	6b26b66b-aaba-4d29-ab06-ea59128f8051	SwiftCover	2024-10-19T18:04:54	page_3		Tesla	Model 3	45	Q76 6FX
+3c36a18e-d376-4ca1-84c2-36d4a0e7aa35	1af7b47d-2eca-495f-a7f2-efa8b29422e3	PolicePro	2024-08-21T20:14:48	completed_form	2024-08-21T20:26:48	Toyota	RAV4	53	HW54 8NR
+d4a595f8-5b78-4e85-b8c3-72e8cbaa6189	7ca64a64-1c7b-4918-84f3-e8a2afe37af9	ShieldDirect	2024-04-09T03:11:12	completed_form	2024-04-09T03:16:12	BMW	i4	72	M52 8AC
+898b7c26-d0f2-44d8-8099-351890502aef	78e03f9b-1fd9-4f86-a3ac-39876fc47f30	ShieldDirect	2024-03-30T14:04:47	page_4		Toyota	RAV4	49	XW33 6XE
+5ab1f08d-e48b-4ebf-9671-1032beded339	ea01d294-318f-4632-b1af-9bbabc9a7db9	ShieldDirect	2024-02-26T10:20:50	completed_form	2024-02-26T10:34:50	Kia	Sportage	76	L15 3NG
+ce403d38-4d8b-4906-8bd1-2d7b2d2921f8	22e1d84a-674b-456b-91ed-5ef705569fb3	ShieldDirect	2024-08-22T06:29:14	page_1		Tesla	Model X	73	DO35 2PT
+6fcdad3f-be49-4532-ad86-ab54c0f55dd5	5fb21823-dfb5-49d7-8502-3e137671e6ab	ShieldDirect	2024-05-06T20:52:35	completed_form	2024-05-06T20:59:35	Toyota	Yaris	44	K74 6YL
+b0118446-0ee3-4091-948a-d60ad0c6dc59	02f144ec-e549-42bf-b3ba-1ed19ece99c7	SwiftCover	2024-08-09T21:01:01	completed_form	2024-08-09T21:05:01	Tesla	Model 3	69	ID55 6FG
+10ef75d5-3783-4602-a486-66775e05a064	7f5735c7-036b-4e06-9c17-27058e22bb29	PolicePro	2024-03-18T01:08:39	page_1		Volkswagen	ID.4	64	X64 3NC
+8e98c403-e629-45ef-9cfc-db6976ccc289	9a404aff-78d3-4566-9beb-4a7d37874be3	SwiftCover	2024-06-05T08:26:38	completed_form	2024-06-05T08:30:38	Vauxhall	Crossland	35	NG37 9NU
+f2af674e-ccf5-4f5e-865c-ceedcb72bb45	8209b8fc-5b70-440c-987d-d9d930b6d014	SwiftCover	2024-06-11T05:45:43	completed_form	2024-06-11T05:53:43	Toyota	Yaris	76	F78 4JV
+446e33ff-20b3-4acf-a5e2-626c28fb3273	3833db90-faee-44ac-bf12-3c83c23c01f0	SwiftCover	2024-07-02T22:47:11	completed_form	2024-07-02T23:00:11	Volkswagen	Tiguan	84	MI35 4CT
+d315551b-a3e7-4d8c-9dbe-751e0173505e	85b62678-27ec-483b-9dc8-19d8ddcfa9d4	SwiftCover	2024-12-21T05:35:32	completed_form	2024-12-21T05:47:32	Volkswagen	ID.3	43	KW34 1NL
+64de6929-211a-4d7c-bfad-4e14c64361f2	aaae03f2-481c-4fc6-a8c4-2f4d5f113df9	SwiftCover	2024-11-03T12:38:03	page_2		Vauxhall	Astra	50	SI62 9GL
+cf175801-de3b-4036-9324-52e4a2710bd3	c9735bf7-90c9-4d7f-951c-50b7f9c306f0	SwiftCover	2024-03-01T02:38:56	completed_form	2024-03-01T02:50:56	Volkswagen	ID.4	51	TC86 8QU
+d555f01e-b664-4c52-8798-38ea6a2cb5f3	1ea09a1e-a8ae-4799-ae5c-69d1ccc8fcb9	ShieldDirect	2024-09-21T10:45:10	page_2		Mercedes-Benz	E-Class	84	OG53 1ME
+5c23b93a-33a7-4cdd-b641-0b8ec9f3c98b	8ee392fe-d756-4273-bf7c-4118e43de1b7	SwiftCover	2024-10-12T17:52:14	page_1		Toyota	Yaris	19	L26 7WL
+497d889e-d384-4ae8-b30e-20c42e2c06a3	3df84635-0386-4dc7-a7c9-369870f9913d	PolicePro	2024-01-27T09:56:15	page_1		Vauxhall	Corsa	52	XU43 7NR
+58f2ae34-6096-42a2-ae7a-1aacc8c72d14	63ab8e47-6ad8-4886-b8fc-3fb04fcb954a	SwiftCover	2024-06-11T00:37:18	completed_form	2024-06-11T00:52:18	Ford	Focus	53	OY91 8QV
+0343c7d6-ff5f-4ebb-98d1-f1d5513e5d79	cc16bbb1-f56b-4a92-85f1-980642a13f7d	ShieldDirect	2024-08-21T05:22:19	page_2		Ford	Mustang Mach-E	26	S69 2NH
+e0b8c979-baf4-4161-b2e9-8a97989904f3	631a9986-0274-4083-aea9-da01f49bfb03	SwiftCover	2024-05-18T23:30:09	page_4		Vauxhall	Astra	35	V10 7QS
+3589504b-50d9-4e69-b90e-5a90aab19f75	8dadbb2a-a958-4de9-9a91-55736430f7b5	ShieldDirect	2024-10-19T12:24:13	completed_form	2024-10-19T12:30:13	Hyundai	Ioniq 5	42	RB52 5EB
+40ef3f2b-edc7-4344-932e-ceaa3c7d5323	6e2a3085-9919-4c2e-86df-fab9ab3c015f	PolicePro	2024-09-02T14:23:12	page_2		Volkswagen	Polo	24	H64 2RR
+b5e2770d-3a8e-42ae-af19-2a03e7b16c8a	a9b72c5e-bf85-4a06-9325-09b20880c1df	ShieldDirect	2024-12-05T21:07:33	completed_form	2024-12-05T21:20:33	Vauxhall	Crossland	62	J26 2MJ
+2a1e8af7-8496-43ba-b887-32f47efe3728	63ba725a-3027-4186-8eea-298f0e1c41f4	PolicePro	2024-05-20T19:22:37	completed_form	2024-05-20T19:37:37	BMW	3 Series	37	S72 1SS
+f1237080-a448-4b37-98d9-2bb2cdd5f45f	e056cc27-5511-4c18-9e67-7c5de1985e7f	SwiftCover	2024-09-06T22:42:16	page_3		Audi	A1	59	FG7 4CL
+8c3c6bdf-657f-4dd1-a19c-8c6a62249b96	5dda3fa1-4ecf-4fdc-824f-e1e7c455b108	ShieldDirect	2024-02-05T19:29:44	completed_form	2024-02-05T19:31:44	Vauxhall	Astra	19	YB47 1YR
+02bf1ef3-5a7e-406b-adda-0336b578dcd8	db7f8e75-8a82-43f6-91ae-8c227de767d1	SwiftCover	2024-08-25T19:27:16	completed_form	2024-08-25T19:31:16	BMW	3 Series	29	X82 3BL
+f9612659-1dab-4549-908b-2de04f3cc778	4540ff81-68d2-4f8f-8666-becc710418d0	ShieldDirect	2024-07-01T10:56:39	completed_form	2024-07-01T11:04:39	Toyota	C-HR	42	EM90 1RT
+64e0c087-660c-415c-a835-858054d43610	9d5f2e24-2bef-4091-b9ba-a476727969f6	SwiftCover	2024-11-16T08:31:54	page_2		Hyundai	Ioniq 5	25	NP23 6NE
+5f533436-cd3d-491d-8024-817e5a79f23c	fba2265b-d6e1-442a-ab82-a54e0cfb36d3	ShieldDirect	2024-02-17T11:48:34	completed_form	2024-02-17T11:50:34	Toyota	RAV4	73	X10 3GL
+d456581b-c3ae-4e87-9324-f1fb667fcedb	372059cc-a91d-455e-a213-2f81c79ebe53	PolicePro	2024-10-24T01:05:31	completed_form	2024-10-24T01:08:31	BMW	i4	35	E92 9PL
+f444d4d2-05e2-4a19-83e1-203b5830e3a5	a03caa96-c89c-42ca-a837-7a574bcfc5fc	PolicePro	2024-08-13T03:03:01	page_2		Mercedes-Benz	C-Class	47	BG97 1VG
+84ddda14-e24b-4518-9fd8-8f04919d28f9	d46f736e-c1c3-4f87-9427-e43a88d75fec	PolicePro	2024-09-20T10:48:54	completed_form	2024-09-20T11:02:54	Audi	e-tron	37	WL63 4BH
+de9dc339-2d78-4e94-8885-314182f49eff	bc1069a9-ff6c-4d6f-a7cc-1644d66c3881	ShieldDirect	2024-11-11T04:03:30	page_4		Toyota	Yaris	76	F81 6NE
+7e5c5f49-b253-4dac-afcb-a3ca62153f3d	b15417b8-066f-4a5e-8f13-8ee8a8eab1d9	SwiftCover	2024-04-06T14:48:20	completed_form	2024-04-06T14:58:20	Toyota	Yaris	41	UC82 2DX
+6bf42c4a-99ab-4e42-899a-d6bf11c69ba1	bd0cf75f-cbf9-456a-9e24-cad93dd5355f	SwiftCover	2024-07-14T18:15:08	page_4		Ford	Mustang Mach-E	81	CC39 7CW
+84a8f230-9639-4f7f-92da-a2010b8f20ac	6e7a6b0b-2f97-4d79-b717-41ab9f02692b	ShieldDirect	2024-05-01T20:44:21	completed_form	2024-05-01T20:59:21	Ford	Puma	83	IS98 5GV
+836b9505-a899-4ba7-8c21-f6fbfff46bb5	c7e0395d-5fd0-43f6-bd6e-99ef5e1b7667	ShieldDirect	2024-01-08T06:56:15	completed_form	2024-01-08T07:06:15	Toyota	Corolla	64	B70 7AU
+09614459-53a3-4c6a-83a8-5a5b511b05ec	108e80f8-a767-4e66-87cc-e0b48e42ffd7	ShieldDirect	2024-07-30T08:34:48	completed_form	2024-07-30T08:42:48	Volkswagen	Polo	64	SY64 7WA
+ac03ae38-f2a4-4d1a-bba1-41ad89626779	099afde2-65b4-419a-b51d-0f57686a89a1	SwiftCover	2024-06-06T06:32:07	page_3		Toyota	Corolla	58	DA65 9GX
+90d30cca-9fda-4e5a-9fbe-607a701b505f	72d13313-3047-4dae-9362-04f3b64c8b6f	PolicePro	2024-11-07T15:06:57	page_3		Audi	A3	83	Y88 9QX
+3337ea9f-1035-4585-a101-5433b3c24cc0	8c041bb3-c125-465d-afae-eb204e53acc1	SwiftCover	2024-08-23T19:33:16	completed_form	2024-08-23T19:47:16	Hyundai	Ioniq 5	78	L15 1YN
+c7aa68be-1cfb-4b34-b85a-20f9a0da0604	f5bf799e-e7b7-495f-9068-70ef946ce8af	PolicePro	2024-01-17T21:58:59	completed_form	2024-01-17T22:11:59	Toyota	RAV4	22	W30 3WJ
+6e610846-ccfa-44cd-93eb-a2336e4569f7	0ee6e55e-5ba5-49a6-8427-cd49a4cfdd40	PolicePro	2024-11-24T01:26:13	page_4		Audi	e-tron	56	GU67 6WA
+b929362e-6bc1-4606-b583-8c77ca30fd54	260f4d54-ec4d-4052-a1f8-7bb5582db96c	ShieldDirect	2024-06-22T03:40:31	completed_form	2024-06-22T03:48:31	Audi	Q3	38	U50 5PA
+890a52bd-5c37-401b-8fb8-87bf77cf8168	76f52ced-c730-4e3e-aa5b-fcd6dacfcca1	PolicePro	2024-05-30T21:56:38	completed_form	2024-05-30T22:03:38	Hyundai	Tucson	55	HR16 1CF
+58b60eda-1841-43a9-b907-a058300675b4	fd7ec7b0-87e1-4ba1-baf1-f4c218c18f43	PolicePro	2024-10-29T05:17:40	page_1		Audi	Q5	72	LJ65 8LD
+9edc1763-91b4-43d2-8bca-1be1236c4ed4	4d5540b9-cd52-4e3e-96a8-7d309dd10a23	SwiftCover	2024-12-20T12:00:58	completed_form	2024-12-20T12:11:58	Audi	A3	82	X26 9TP
+f6313fbf-222d-4a14-bcba-9340e21ea30a	735e3fad-0a6c-4812-9192-d8f3981ca699	SwiftCover	2024-09-15T03:43:19	page_3		Audi	e-tron	18	R73 4VR
+a51cba4e-a46e-49c2-b43f-1df5b4d6e694	9dbb6b43-ec96-44e5-9e31-4315cfe45f3c	PolicePro	2024-12-04T17:25:16	completed_form	2024-12-04T17:30:16	Tesla	Model Y	71	CZ10 2QK
+c059fef8-451c-48db-b3a0-e63a5075d6ed	92c2bbed-3994-4a54-936e-f11c1bb7b000	PolicePro	2024-12-31T20:33:59	page_2		Audi	Q3	30	I93 9CR
+045a441a-e7ad-43ea-a2f8-fd190b82ac14	245be029-699e-4f6b-96c8-f2a5cc32a738	PolicePro	2024-03-03T22:44:46	completed_form	2024-03-03T22:52:46	Audi	e-tron	36	PT26 9XP
+d1140728-8122-487f-8cb8-47be7c8a9fa6	4f09f99d-e06d-425d-b45e-3ecdc80d74c8	PolicePro	2024-07-21T00:40:37	completed_form	2024-07-21T00:46:37	Tesla	Model 3	76	BF96 1JE
+6dc452f4-3e69-4180-bb1d-ad431c28c88c	e7a0121f-0fef-4129-b528-353cba26d405	ShieldDirect	2024-08-14T15:56:28	completed_form	2024-08-14T16:06:28	Hyundai	Tucson	82	FD14 2FA
+8cc56fb8-9a8b-45c6-a6a1-ed4830212f95	2dfc8198-204c-4a4f-978b-6db78ff1eb25	ShieldDirect	2024-08-22T15:03:41	page_4		Volkswagen	Tiguan	32	P18 9TY
+063fff50-5c0c-44e1-8ecb-b27f38631dcc	0958c161-d2e5-498b-8c88-d396d18b50bb	ShieldDirect	2024-09-03T19:34:05	page_2		Kia	Niro	51	CQ33 1XR
+e92d991a-9cf2-44fe-89f1-c2a8d89cd609	69bb1c06-a911-4682-aef0-b90b1e732bab	PolicePro	2024-03-01T19:01:26	completed_form	2024-03-01T19:16:26	BMW	1 Series	18	YX36 5DH
+c8eac18d-7cdc-4675-9751-2eb6c16643c6	ee327d66-9973-4464-8114-13833e5b9079	ShieldDirect	2024-07-26T10:13:01	completed_form	2024-07-26T10:21:01	Volkswagen	Polo	21	V38 6EH
+52e7847a-5f3b-4e40-a631-648e03fbebac	9dfacf65-ed37-44b8-8563-b27febb20bfa	ShieldDirect	2024-05-03T20:53:07	page_2		Volkswagen	Polo	81	VW89 8KC
+cdf7d9c9-d7be-44d7-8034-ecccd9e5a1cf	757db725-182e-4709-a890-6677444c72ac	SwiftCover	2024-07-22T21:15:18	page_3		Hyundai	Ioniq 5	65	OS51 9VS
+7fee19d3-0c2f-4505-9101-348f468a325b	ce02dd5c-5d4c-49e1-815e-4b7c8e50655b	PolicePro	2024-10-28T21:47:24	completed_form	2024-10-28T22:01:24	Tesla	Model S	28	B93 9DA
+ea34a8a2-5d1b-453c-a614-0775f627a4b9	451ccbff-2157-4e33-a46d-952a458e3b1a	ShieldDirect	2024-03-07T22:29:28	page_1		Ford	Kuga	73	J43 7UX
+a2226273-7562-4052-8aec-fd8b6c42d52b	1c8730ff-d561-4626-a74e-98f64d295efc	PolicePro	2024-10-12T03:40:37	completed_form	2024-10-12T03:55:37	Mercedes-Benz	EQA	57	XQ57 2CB
+c9f44245-acdf-4d40-a059-c2915469d39d	a020c6bc-a884-4730-bc0f-21a114d8cc96	ShieldDirect	2024-11-06T16:25:07	completed_form	2024-11-06T16:34:07	Volkswagen	Tiguan	64	B91 4FP
+0e3dbf41-f559-4ba3-aea2-7837adde51a7	3b6e69be-0166-4c6d-b91e-2624e50c5d50	PolicePro	2024-07-13T20:27:22	completed_form	2024-07-13T20:42:22	Hyundai	Tucson	73	I74 7TH
+5202a0d8-7e17-464e-acd2-80bc480582c6	3992cb6e-5c75-4f9d-985a-022db63ef84e	SwiftCover	2024-11-19T10:00:28	completed_form	2024-11-19T10:05:28	Kia	Sportage	83	UC85 8KJ
+81a73da4-99da-489b-ba14-04ab627fe9cc	9468c0a4-e9f6-4ec3-a3ca-8f30de2d9d6b	SwiftCover	2024-04-11T03:43:11	completed_form	2024-04-11T03:57:11	BMW	X5	85	SF5 1CQ
+ac97914a-a6d9-4da6-a0f0-50216ed14016	d6d2b943-7c85-47f9-9df2-87c2774f8837	PolicePro	2024-06-17T01:12:34	page_4		Audi	Q5	49	AY7 8TV
+713d8030-ca6b-4fe7-abef-9d7f706dd735	1f049d27-a34c-4dbf-9361-55cea6ce48fe	SwiftCover	2024-01-12T13:50:18	completed_form	2024-01-12T14:00:18	Hyundai	Ioniq 5	58	B50 7EX
+922f8e5c-0203-4fb2-bb3a-fe683c71560d	e0904a50-9554-4e8c-834a-b1c7c6f5b05f	PolicePro	2024-08-08T22:07:37	page_3		Volkswagen	Polo	48	D59 6SP
+034f25f9-8d2a-4ca9-89d4-28750b7ff242	b420941f-54a2-45ff-9f3d-e443e0ac4dd3	ShieldDirect	2024-02-17T11:48:56	page_3		Vauxhall	Crossland	82	D97 4AS
+1d69b5ef-0bce-449a-9bd8-660753505881	4f1df70c-71f7-401a-9abd-29d026011921	SwiftCover	2024-06-01T03:17:14	completed_form	2024-06-01T03:22:14	Vauxhall	Mokka	77	QC74 1GV
+017d6800-c949-4dbb-95f0-a52e3c308846	749ab756-078e-4ef9-befa-720670fcc6a2	PolicePro	2024-04-11T14:48:29	page_4		Vauxhall	Corsa	58	BB61 8QH
+2ddfbb65-5218-47cd-b4de-2acf719e38da	5c0818e9-57d5-49ec-b50b-e29ef691ff8e	ShieldDirect	2024-10-28T20:34:39	completed_form	2024-10-28T20:40:39	Vauxhall	Astra	51	HM9 2LP
+755ef081-a2f6-472f-9754-7e80495dee22	aaf85b23-a6ef-41ac-a7af-92b3bcb49114	ShieldDirect	2024-03-11T19:11:18	completed_form	2024-03-11T19:20:18	Volkswagen	ID.4	63	D31 2GS
+484ee17c-46d2-4bd4-bc09-45295207df19	c750d05b-f11e-4dbb-aee5-f5b8fc605899	ShieldDirect	2024-09-11T03:24:26	completed_form	2024-09-11T03:36:26	Mercedes-Benz	E-Class	24	SY53 3MW
+df371e55-3a10-4abc-a1ce-7bdca9644f48	58e72ca5-af2b-4763-8a45-d4f31eacb677	ShieldDirect	2024-03-19T00:52:20	completed_form	2024-03-19T00:56:20	Mercedes-Benz	A-Class	50	M86 9BK
+1a9b8692-4ca6-48d2-ade7-afd40353e9db	11aea18a-b396-4275-bb65-86f54325a6e6	ShieldDirect	2024-09-03T00:10:48	completed_form	2024-09-03T00:21:48	Kia	Picanto	46	KY92 4DB
+a01f489a-d5f1-4348-85db-dad52ea6f85f	d931cff8-186a-4bbd-8ad7-6094359d2088	SwiftCover	2024-05-21T03:44:10	page_2		BMW	5 Series	75	WW93 4KY
+563a7cea-4037-4181-b95d-f226495ff7cf	ca366bd5-ce9a-4397-b54b-d122b3b1aa93	ShieldDirect	2024-02-06T03:56:42	completed_form	2024-02-06T03:58:42	Toyota	Yaris	66	I42 9SJ
+18cff0e6-9f93-4dc7-9a26-149b3c99d6a2	805980a0-8bad-43cd-b657-1525b0fa24ba	SwiftCover	2024-04-29T22:02:11	page_3		Vauxhall	Mokka	44	U33 5QJ
+2677ac83-42ed-4bbd-9d45-dd612f62efa3	9c206bec-0b6b-4647-a8d9-86d75ff8eaa3	ShieldDirect	2024-08-07T17:19:51	completed_form	2024-08-07T17:33:51	BMW	5 Series	57	PJ92 4QP
+64723d5a-f310-41da-a01c-97a6495f6e18	922f17db-798d-441f-bd6d-abd378647053	PolicePro	2024-04-19T18:49:34	completed_form	2024-04-19T18:55:34	BMW	1 Series	76	L61 6NF
+c22a50b5-508d-4834-88f3-b9177c7e4899	3d21f09c-1fdd-4d91-8625-8f20d8de8170	ShieldDirect	2024-04-07T08:27:35	page_3		Mercedes-Benz	A-Class	42	W2 9KY
+4bbed3cc-596f-4ba2-9533-12e405a9ff3e	e52c1d99-96cf-42a5-8bc7-00990b9d2986	PolicePro	2024-07-21T19:13:28	page_4		Tesla	Model Y	25	XD88 8DA
+f8102dad-6e77-415b-9de3-c326a1c9c714	37ce676e-8a58-42de-8474-9e87b9aee9aa	SwiftCover	2024-12-30T19:25:43	page_1		Vauxhall	Corsa	61	NZ58 7GW
+322218ec-6d44-4757-8163-b94d8196e2e5	b611195c-ac4f-41b5-adb4-015302215b6e	SwiftCover	2024-03-24T12:32:17	completed_form	2024-03-24T12:41:17	Tesla	Model X	70	R50 5TP
+e441debc-374f-4026-9e24-02d24ff6ad0b	45067b9f-1b19-46f8-8b07-6f4619987b43	PolicePro	2024-08-28T09:49:46	page_4		Mercedes-Benz	A-Class	50	F33 6FT
+4ce0efe6-5f1a-4c91-b556-d4cb9a513275	e81ee515-63ca-4b36-af69-0f6d32758fdd	ShieldDirect	2024-12-18T16:07:42	completed_form	2024-12-18T16:15:42	Toyota	Auris	17	HQ16 9TF
+09c534b5-7075-43da-8530-4e3d0b51e87d	dcaec3fc-07b1-47af-9a6b-012bdf1707dd	PolicePro	2024-07-15T08:59:31	completed_form	2024-07-15T09:05:31	BMW	3 Series	39	VD86 1DM
+7fd1f0e1-4498-46b9-981a-3ef4315e48a2	b2ff65a4-4c5e-4869-b86b-a626e863d718	SwiftCover	2024-05-08T20:50:00	page_4		BMW	5 Series	83	P51 7NT
+9378b651-2cca-4c9f-8656-6e924f21b38b	2021030c-a258-4690-968f-da696bb6fdeb	ShieldDirect	2024-02-04T22:48:44	page_1		Tesla	Model Y	35	M1 9JH
+d88d27cc-bee0-45b9-8fe9-fe06e81d5b42	15e45bd1-a6a5-4265-9aa1-6e5dd8b87aaa	PolicePro	2024-03-07T00:24:40	completed_form	2024-03-07T00:37:40	Audi	A3	48	B37 6BY
+316a57ed-2c34-40e9-aa69-d477aadfb392	2a8de06b-0994-420d-8e7a-79c9e0541411	ShieldDirect	2024-11-11T13:19:32	completed_form	2024-11-11T13:32:32	Toyota	RAV4	76	IH77 6CW
+6562f6cd-41ba-491b-af1d-24845a10c5b8	152b0461-c3cc-49e8-a6af-338cc224b9f5	PolicePro	2024-12-16T13:04:09	completed_form	2024-12-16T13:15:09	Volkswagen	ID.3	80	UX87 8RN
+6c750e6d-b3cf-40cc-ac1c-93d6ef918d73	4b499245-c8aa-4305-9c28-1b0d183e6251	SwiftCover	2024-10-09T10:00:45	page_2		Hyundai	Tucson	24	V76 9JG
+ecc9e41f-4f94-404d-90b9-378527ad276a	e566c91b-c585-446d-a8c7-2600c18a114d	ShieldDirect	2024-08-21T13:38:40	page_1		Tesla	Model X	74	Z3 3NK
+0c98a437-1e1c-4cc4-9fcf-d8ac3778fc2e	529701e8-c246-4d7e-be85-385d3b660701	PolicePro	2024-10-08T22:44:13	page_2		Tesla	Model Y	52	RW79 3QM
+fe5cc74d-8609-4967-9a0a-9ac76fcca989	7af4533c-65d1-43db-bec6-8b668eace013	SwiftCover	2024-08-05T12:07:36	completed_form	2024-08-05T12:21:36	BMW	i4	65	A13 7UH
+44bb8778-e516-4738-8dd7-60fb8c0239ed	e6575176-daf6-424d-aca4-3cf7dd6de545	SwiftCover	2024-12-06T20:40:52	page_4		Toyota	C-HR	42	EC53 5JM
+c7c418a5-5da3-4290-9a63-24f97ebaa278	225cdf6d-5804-4637-bb48-9a4f8725944a	ShieldDirect	2024-02-01T18:15:03	page_3		Hyundai	Tucson	17	P14 5KF
+74fed755-df83-45a8-b337-84c7d8dd30a8	c32845a4-392a-4c49-a5ef-7ba701ccd829	SwiftCover	2024-03-14T12:11:59	page_1		Vauxhall	Crossland	29	B93 2EU
+c09fc212-853d-4728-a06f-a55d7c495baa	3f798c5e-69ae-4711-b754-17e96e0281f4	PolicePro	2024-05-21T11:03:06	completed_form	2024-05-21T11:16:06	Hyundai	i10	43	IX32 6YT
+e6488afb-be26-4193-ab94-71e2f8fedf42	ea25a8dd-2784-4c2c-af45-008e90c214dd	SwiftCover	2024-11-20T07:48:49	page_1		Toyota	Corolla	27	PN52 9FS
+f6af6e24-6193-45eb-aec1-8943b4d77663	88109758-91e0-47b2-9ed5-5ecb183b0593	ShieldDirect	2024-04-18T15:52:25	page_3		Ford	Kuga	55	W34 8SQ
+3a37a3cd-8e65-47a6-9502-4ae2060a72fb	c79de765-b9e3-4af0-89ad-436f2b6df720	PolicePro	2024-01-24T08:54:55	completed_form	2024-01-24T08:58:55	BMW	5 Series	30	V76 5JA
+0e995226-340b-4411-8ae8-b7de3661c6de	5422f645-1105-45b3-bd34-90f1ae79e424	PolicePro	2024-02-01T11:15:44	completed_form	2024-02-01T11:30:44	Mercedes-Benz	GLC	78	Y51 2DR
+b9dc0977-fb92-41a0-8241-095eaf787e7f	15e3bc61-0ff5-46c2-a60d-6995e958f591	SwiftCover	2024-09-17T14:59:21	completed_form	2024-09-17T15:13:21	BMW	1 Series	34	W51 9LT
+c3052e16-26fe-4294-b5f7-04604df383e1	d64b8b6d-e40b-46c4-8134-492d290b781a	ShieldDirect	2024-01-27T10:01:08	page_1		BMW	1 Series	32	V38 7SX
+d9ccdc45-7687-46a0-8196-897ccf086742	c77b9c99-d671-4674-ab90-0d7f61c62eeb	SwiftCover	2024-05-11T09:32:40	page_4		BMW	X5	85	CH20 1YH
+40799fad-6692-4250-bc00-063e5f33d77f	06ed39ac-c371-41fb-871c-a14314c8bf12	PolicePro	2024-12-28T15:28:41	completed_form	2024-12-28T15:38:41	Hyundai	i30	45	LE8 3DX
+8e717992-b839-4580-98a9-3cc7fda7711b	b704ba6b-b673-4652-a355-3ce82608c848	SwiftCover	2024-08-20T05:12:39	page_3		Audi	A1	44	E18 6DX
+e69520e0-1e76-44d1-b9bc-ac935db8c852	4938d14a-abb2-4dce-8546-0d1c93dfcadd	ShieldDirect	2024-09-04T02:12:52	completed_form	2024-09-04T02:19:52	Kia	Ceed	74	P67 5RU
+a4aad5f6-fd02-4e06-bffa-1e1b9447a2fc	2af8c48c-0a31-4e99-a42f-7e2fe33941fb	PolicePro	2024-05-19T23:25:19	completed_form	2024-05-19T23:30:19	Toyota	C-HR	39	Y71 5FW
+b3605aa9-84ee-452c-84a6-30692c3925f8	6345643f-1b2a-4833-8072-57a3e3f82c47	ShieldDirect	2024-05-31T13:35:11	completed_form	2024-05-31T13:43:11	Hyundai	Tucson	76	Q61 4SK
+96195824-5370-4da7-a8a5-327bd0c92d4c	eda30c7d-1adf-481a-8426-524f798773b1	ShieldDirect	2024-02-24T06:00:35	page_3		Volkswagen	ID.3	22	Y36 5CQ
+d64b8a65-87a5-440b-9974-21897e0a6d12	286814f7-c298-4e4f-a982-9e67b797988c	SwiftCover	2024-09-06T19:35:30	completed_form	2024-09-06T19:44:30	Mercedes-Benz	GLC	31	H65 7FM
+306eae02-cb8d-4bc4-91ee-4637e25d0926	98ae9d26-ce84-4a54-8f07-2b7711192ab2	ShieldDirect	2024-12-20T19:30:51	completed_form	2024-12-20T19:45:51	Mercedes-Benz	EQA	49	IK18 5YN
+851a0603-6491-436d-9b68-c376857a08aa	d1c6cfd6-bab8-4969-b538-9b78397d3b78	SwiftCover	2024-12-23T21:42:39	completed_form	2024-12-23T21:48:39	Hyundai	i10	54	LY53 4AY
+738a6f5b-70ff-418b-9bd6-be7f6e1f9b5a	bf32aa13-c170-4040-9d3e-bc9011410887	PolicePro	2024-03-17T06:11:38	page_1		Tesla	Model S	37	T32 1RA
+0b691079-0bf3-4d18-b048-0e5548cbbc8c	7e0f9ebe-10cd-4eab-9e2a-4a91196b493f	SwiftCover	2024-07-05T00:16:35	page_3		Vauxhall	Mokka	39	IZ48 9WB
+9e7c55bf-0ca4-4b17-b8c4-b6b219874833	822ccb5f-fb56-4f8e-9dc1-21656d5a0db8	ShieldDirect	2024-06-12T22:56:13	page_2		Kia	Niro	58	LL8 8WM
+a97daa1c-20a4-4d87-89c4-27d888e926bb	d0010837-fb06-4505-a97f-5fcfc8b7978b	PolicePro	2024-04-27T13:45:06	completed_form	2024-04-27T13:54:06	BMW	X5	78	ZY85 4SV
+5aef450e-363d-44b3-aeab-b05e242a3d83	ded9a3c5-dae8-4c10-aa01-95d7f9f8eba9	PolicePro	2024-04-01T22:11:30	page_3		Mercedes-Benz	GLC	33	U79 5KD
+154c99d9-0242-460c-9a44-75d387f79ea2	deb18bae-be31-4b82-8fad-b095139948e2	SwiftCover	2024-02-09T17:44:22	page_4		Vauxhall	Mokka	43	UC18 4AB
+e8cb4c31-e421-4661-8e37-29e303c47f35	22554ff1-4574-4e6b-a128-c58aeffe0207	PolicePro	2024-02-26T20:46:57	page_3		Vauxhall	Corsa	25	VM45 2EJ
+3362c284-c844-41eb-b986-8b01ba5d6b70	8199f333-36e6-4513-931f-9387df50bd9e	SwiftCover	2024-05-23T08:45:33	page_1		Ford	Puma	50	LZ74 2ML
+7993f7af-1e97-4e7b-be0e-8de44a7a7861	bb83b379-0f8c-43a2-88c2-2ffc8688b47a	PolicePro	2024-03-07T00:01:32	completed_form	2024-03-07T00:13:32	Mercedes-Benz	C-Class	40	PH43 4MU
+2f6bce37-4b6c-4953-ad48-59628107a9ca	9483cbda-faa3-4e32-b0ce-44ffc29700f7	PolicePro	2024-05-28T01:40:21	completed_form	2024-05-28T01:48:21	Volkswagen	Polo	19	GJ32 9RY
+a7f44c87-4f32-4677-81cb-ef24415601cd	9c077945-fae5-4ddd-a3e5-632139c759bc	PolicePro	2024-03-17T02:35:47	page_3		Volkswagen	Polo	62	H22 4FQ
+9b365951-5c30-4359-bf12-a5cc45cac85e	4483e78b-ddc7-4b00-939c-7b96d8ddb28e	SwiftCover	2024-09-08T11:16:17	completed_form	2024-09-08T11:27:17	Hyundai	i30	53	H85 9FG
+d7caed9f-56fa-4700-aef9-1d03ce993acc	a0ea9194-5840-4637-9884-422af70df0f6	PolicePro	2024-10-15T22:09:30	completed_form	2024-10-15T22:22:30	Toyota	C-HR	75	OC36 2JY
+7125cda4-84cd-4603-8757-2489289a32c8	634eb2ac-1c9f-4f85-8782-faebcdb2049a	SwiftCover	2024-03-23T04:26:53	completed_form	2024-03-23T04:41:53	Hyundai	i30	65	I12 6UF
+d1fdc209-7904-42e8-815a-6305718a92c9	00ec417b-8db4-466b-8515-c85288c596f2	ShieldDirect	2024-07-09T15:19:22	completed_form	2024-07-09T15:26:22	Audi	e-tron	34	DY30 5PC
+47dac6a5-fe2d-435f-a070-2d99996ca216	37171f0b-b5ab-4ef3-85ff-a196141f623e	PolicePro	2024-12-27T04:13:59	completed_form	2024-12-27T04:18:59	Volkswagen	Golf	26	HS6 8YQ
+60ad47d9-6b29-48b4-a775-cfafc1ffd27b	e476f522-4726-422d-b220-83a1c7411388	SwiftCover	2024-05-26T15:07:49	completed_form	2024-05-26T15:20:49	BMW	X5	50	D13 6UM
+9d7de44f-d2b8-43c3-8ebf-379df5143d93	ca0e8ad4-e866-44a0-b59f-89988cb3e067	SwiftCover	2024-05-23T23:52:43	page_3		Kia	Niro	35	B25 2WH
+e5301e09-4ee5-48e2-a314-e2b99c2c9553	22d849e7-c1ff-4ca5-b014-0ebcb7f66074	PolicePro	2024-07-27T19:51:42	page_4		Toyota	Yaris	55	A17 7EC
+0ba9a968-97d1-45b4-9b9b-c1d1f542ca5a	6057597a-695f-4b27-99cb-da4e05d55a4e	PolicePro	2024-10-31T04:33:20	page_4		Vauxhall	Mokka	63	E93 7FC
+433f4baf-128f-47c9-a9d0-dc31ab2b0b3b	8ab10c1f-b197-4fa9-9d34-d5a778a2790a	SwiftCover	2024-03-17T05:41:19	page_2		Mercedes-Benz	A-Class	34	YZ44 4NH
+de0d50a6-22d3-4753-8de1-8739676c1eee	b9828fa2-1280-424b-bfc9-18331ab901c8	ShieldDirect	2024-09-09T06:51:12	page_2		Kia	EV6	79	OF21 6HG
+dba254cd-17ad-4624-a6e9-83709170c892	b143ace6-5713-4484-80a9-8104988de067	ShieldDirect	2024-05-06T16:57:05	page_4		Ford	Kuga	58	TY69 1SG
+2b650d5a-bd73-492c-9419-105e8dcf79b4	825ca30c-41c7-4820-8d99-d21095d6034d	SwiftCover	2024-10-07T22:27:46	completed_form	2024-10-07T22:40:46	BMW	1 Series	59	F47 8VF
+76fa77fe-badf-4781-b791-4cb2ba19eaf8	4ececd28-1a40-46ff-aeef-e61cf5bad4af	SwiftCover	2024-05-10T17:57:17	completed_form	2024-05-10T18:07:17	Volkswagen	Golf	52	E81 3NT
+1dd00c7f-9cc1-4f68-9e34-4fc383127219	524a2310-43ec-4f0b-8004-fe244327d6d9	ShieldDirect	2024-06-21T02:11:38	completed_form	2024-06-21T02:22:38	Mercedes-Benz	C-Class	38	P39 4UE
+92962863-1e23-4b08-896c-136334bc6437	67484470-9301-453d-9689-b6a36f757a69	ShieldDirect	2024-09-17T10:44:23	completed_form	2024-09-17T10:53:23	Kia	Niro	56	L89 8BP
+2830b6eb-064f-4bbc-95ab-dae72ab95b6f	0610b769-455d-4417-9882-79a5822625d6	ShieldDirect	2024-10-01T18:09:25	completed_form	2024-10-01T18:23:25	Tesla	Model Y	19	MF54 9XH
+401965ab-8852-4657-b5b8-c9060967ecff	d6b723ad-4b5f-438b-94d7-f8ee90526a7d	SwiftCover	2024-09-13T18:59:51	completed_form	2024-09-13T19:11:51	Audi	A3	26	U37 2GK
+0c2cff0f-8373-447a-804a-87ccfca384db	cae340c4-389a-4046-a16f-019dce22aa31	PolicePro	2024-03-09T03:23:55	page_1		Audi	A1	82	A15 8TD
+54abd373-2ab7-4577-9ff4-88502bf45de0	e5de6027-a3b1-47c3-8bab-a6379acfe342	SwiftCover	2024-09-12T01:10:00	completed_form	2024-09-12T01:25:00	Tesla	Model Y	72	OK91 9KV
+0cd0a515-0b13-4e88-90a2-71337bc5b2a9	9ab7496d-5b60-4a55-bc4d-387dc079886e	PolicePro	2024-11-09T21:13:41	page_1		BMW	1 Series	62	OI25 5WV
+4dee7cdd-073b-4fdc-904c-1e1944172aae	874a46a4-09bd-4552-b85d-4d16cd1950b0	PolicePro	2024-11-05T10:06:53	page_2		Hyundai	i10	64	YN95 4AX
+5d3d8dd3-d40f-457b-8649-d8b94ddf3776	ff68a88b-9597-46ff-b99a-3c08f8fd4235	PolicePro	2024-04-22T09:30:54	completed_form	2024-04-22T09:37:54	Toyota	Yaris	56	TU43 7NK
+210da816-0765-4d27-9451-2d0f247bad6a	cb4a8227-e7e5-40f2-95e5-3119d7a9f933	ShieldDirect	2024-08-19T16:42:22	completed_form	2024-08-19T16:55:22	BMW	1 Series	51	K33 3UD
+c6899fdb-dbcf-46db-bd0f-ce4c61c11983	53afbcc1-e6c8-4ebf-af7e-8fa6263ff835	SwiftCover	2024-11-29T01:32:40	page_4		Toyota	RAV4	73	OT9 3GG
+3001cc11-4a1a-4624-ac18-c170d0b3e5d0	af2fc2c7-2326-44c5-8685-d71b317e04fb	SwiftCover	2024-07-21T11:26:07	completed_form	2024-07-21T11:35:07	Kia	Ceed	77	J5 4RH
+cac29340-a4a4-46eb-880d-3738f43577b6	d62d0b8d-b952-4217-8ac1-8476918f2db8	ShieldDirect	2024-03-02T08:10:50	page_1		Vauxhall	Mokka	66	UY27 8CL
+407fbd10-7e19-4ae5-ba84-9c6617d532c1	a55d0535-e940-4136-b2b1-15c7ab7ebdae	SwiftCover	2024-10-30T23:01:42	completed_form	2024-10-30T23:14:42	Volkswagen	Polo	49	KZ75 4DU
+817687b3-0539-4b0d-ac97-30362213dcfd	5ee9d2a9-4a21-492b-be67-f8f46b824c8a	PolicePro	2024-02-05T18:02:56	page_3		Mercedes-Benz	GLC	58	D57 2XW
+e08cc3a6-114f-48cb-9f09-74d07a5e8df0	e6a4709e-aade-401f-8214-e375e7cc24e6	PolicePro	2024-08-01T01:07:21	completed_form	2024-08-01T01:14:21	Mercedes-Benz	EQA	23	FS5 4XK
+a5d3ea15-f382-4570-b4eb-eeeed8f87a5d	5c5f3d33-f1e2-48b8-a8b2-fec918864e4e	ShieldDirect	2024-03-10T19:51:06	page_1		Hyundai	i30	36	WH93 3EP
+808ee2b6-3ccb-430e-ac24-636b1fa309c3	6ec53210-e733-4edd-8c52-dc4c8b259080	SwiftCover	2024-02-04T12:24:58	page_1		Mercedes-Benz	GLC	53	F96 9CX
+6f58a600-32a8-4b55-89ce-b90f385f682e	4c9e115c-b133-4434-8a14-36a49ee8c417	SwiftCover	2024-02-05T16:22:25	page_4		Mercedes-Benz	E-Class	28	NK22 5CQ
+d59b43a8-3485-4e5a-9353-dbdac3efff9d	2b860a61-f8be-40e2-8cd9-82eec86ead7a	SwiftCover	2024-05-13T02:00:18	page_4		Volkswagen	Golf	52	Q47 9CA
+c6e52b78-db37-4d27-8290-be8580dbb08d	986a3d8c-15af-41f3-bc12-9b1978abe825	PolicePro	2024-02-03T23:50:25	completed_form	2024-02-03T23:55:25	Hyundai	i30	31	E55 3YY
+4728af8b-2c68-4a7d-a643-afc9e5437eaa	b4653806-8ea5-4fa5-97cc-d266311301f1	ShieldDirect	2024-10-13T02:53:25	completed_form	2024-10-13T03:04:25	Vauxhall	Crossland	47	UF41 4WT
+e6b3d1fe-6d1c-4820-9d82-cc11945f2807	f4dae273-edd4-4c1d-93ef-95a102a1207f	SwiftCover	2024-03-10T03:15:40	page_1		Volkswagen	ID.4	49	Z1 5BQ
+47dc9a6d-50db-4995-a8e7-7ec263d557fb	35387219-faca-45cb-b496-dd6f4f105909	ShieldDirect	2024-12-20T21:45:59	page_3		Kia	EV6	30	I33 3KW
+48bc1f69-b558-49d4-837e-362a793d4d75	e90c70c3-78f5-420a-831d-dc0839094d50	PolicePro	2024-08-16T17:59:17	completed_form	2024-08-16T18:01:17	Kia	EV6	78	OL43 3TJ
+baa693cb-6ed4-4a91-a7f8-089bbbc4b1f3	2543494f-e341-462f-b8ac-2deaa5563a80	SwiftCover	2024-10-18T14:35:05	completed_form	2024-10-18T14:44:05	BMW	5 Series	44	RN27 3RA
+ea445906-abea-48ec-a662-e0ceed8d3dd3	486e1266-9a30-4e70-8b69-bc7e04bcf8e1	SwiftCover	2024-11-23T03:48:06	completed_form	2024-11-23T04:01:06	Hyundai	i30	77	G26 9LF
+0df3d40f-002e-4e55-b107-a67dc4829960	0ee5677c-4cdd-4699-a0c9-7791a1a459a2	PolicePro	2024-03-05T03:59:41	completed_form	2024-03-05T04:10:41	Kia	Niro	69	N35 6HE
+49f928b4-e14e-426e-879a-7c2ce65331e2	aa94bfdf-b7b4-4bc1-92c8-d802a3601cfb	SwiftCover	2024-09-24T08:08:46	completed_form	2024-09-24T08:19:46	BMW	i4	34	VM24 2EF
+ba9ae5b6-ed0d-424f-8a6a-b56d21c17301	0dab0dc1-b796-480c-8131-0ea7b0946518	PolicePro	2024-09-16T02:52:45	completed_form	2024-09-16T03:06:45	Audi	Q3	38	J99 1FF
+cbe275e7-b49f-4f01-9c41-78d62ed198ab	518f07ad-4300-4abe-abaf-0692700c17cd	PolicePro	2024-02-04T15:55:03	page_3		BMW	3 Series	45	DJ89 2PG
+7e62e976-329b-4d11-b8fb-3614520a3c56	d0ade2b9-428a-4760-b718-3fe39c202bf3	ShieldDirect	2024-08-03T10:39:26	completed_form	2024-08-03T10:42:26	Hyundai	i10	63	EX13 4QX
+d48574b5-d873-4027-8490-3e6c74118d63	1375d4d7-9e5d-4484-a760-f2cf79070965	ShieldDirect	2024-02-08T16:33:21	completed_form	2024-02-08T16:44:21	Kia	Ceed	79	KL32 7AY
+2e893ffb-0031-40ff-a138-6be9d68be482	33f1f20d-20d1-4424-92bc-33318744174f	SwiftCover	2024-06-25T18:18:22	completed_form	2024-06-25T18:21:22	Mercedes-Benz	E-Class	58	N32 6KB
+50e3e510-3f5e-4359-878c-07f10aecd5e0	87c5f112-fb6f-4245-87d5-348f46c6d9dc	PolicePro	2024-07-31T06:08:18	page_4		Kia	Ceed	20	FK45 7DL
+75eb9488-1b16-487b-84e5-5f3af95a81d1	04a1bcab-31b3-45e9-8c70-9631cf136a0c	PolicePro	2024-04-14T22:02:29	page_2		Volkswagen	ID.3	84	EJ15 4YH
+678bc46c-e904-41d2-8fd4-56c412732de1	48a9cd87-9fac-4b51-83c5-d1ffac8e4bd5	PolicePro	2024-04-21T22:46:57	completed_form	2024-04-21T22:57:57	Tesla	Model Y	70	Q40 8TN
+8bfd0307-e313-4b05-baab-6844f6c982ac	9fbf77ef-206e-497c-a3cd-e7a3b6ed36e2	ShieldDirect	2024-12-26T15:43:17	page_1		Hyundai	Tucson	27	ZJ48 5EM
+baeb9c80-d803-499f-bacb-1ee5f2cb79dd	5f5e7742-dfc6-4889-a180-bbc8ca7fda99	ShieldDirect	2024-07-19T04:46:21	page_4		Tesla	Model 3	17	H25 2YV
+86e8cc2b-9ea5-4902-9270-3ce5b77134e1	686d4c46-a380-468b-b44f-cd174d47f8fa	SwiftCover	2024-10-01T01:54:08	completed_form	2024-10-01T02:03:08	Mercedes-Benz	C-Class	41	HN99 6BH
+38357815-bb02-4531-aee6-6469f4ae1ff4	77892321-ea34-4e96-b86c-caee0f8ba6ac	ShieldDirect	2024-01-07T00:33:58	completed_form	2024-01-07T00:47:58	Hyundai	Kona	61	H17 3HW
+e592d33e-b0b4-4038-98bf-5fceead9bb21	a96c0dde-6823-4645-b501-6b0c5bcab088	SwiftCover	2024-09-03T13:18:51	page_4		Kia	Picanto	53	R35 3UQ
+e3b810b9-3726-45f4-9d5e-d980c99a1b9a	52e0abb9-ee4b-4999-a3a8-e44949957d2d	PolicePro	2024-09-30T07:11:07	page_4		Mercedes-Benz	GLC	60	FY35 9YQ
+6e103eea-1fbf-4176-acfe-92451647af48	16d85d17-369c-4210-993c-6e878331c676	PolicePro	2024-08-05T01:57:21	completed_form	2024-08-05T02:00:21	Audi	e-tron	64	B13 7XT
+a6f180e3-544b-4061-8a57-95a77f537af8	b0f16722-09d1-4d40-9409-be987d4dd6bd	ShieldDirect	2024-03-01T21:00:26	page_3		BMW	1 Series	48	W87 3MH
+e05f58e8-11d8-43cc-8494-2a3aa8944c4d	d9c2acf5-ff3f-43c7-bdb9-32249d978a93	PolicePro	2024-04-22T21:46:25	page_4		BMW	5 Series	60	R33 4JM
+e634215d-79b0-4e48-8906-838c8a605eae	cddf0c3b-e23f-475a-a7cf-6389d380a003	PolicePro	2024-02-02T13:08:23	completed_form	2024-02-02T13:22:23	Toyota	C-HR	49	P93 5SA
+800e6411-6be9-430f-8b54-72ef1b606fb4	7b7d62bd-372b-4216-b51e-0a56c665ab15	ShieldDirect	2024-03-08T13:10:27	completed_form	2024-03-08T13:17:27	Mercedes-Benz	GLC	49	GJ93 9UJ
+79792cc2-1b55-4813-9b66-52cac15649c7	fc0f97db-de6d-474a-a15e-98e06dd188e2	PolicePro	2024-07-01T03:03:28	page_2		Audi	e-tron	70	Z20 6WD
+c1a1959a-04d4-4edb-b943-5453dd70a433	ce3d7080-109b-4733-949b-a3e7a0123978	SwiftCover	2024-11-23T02:43:25	completed_form	2024-11-23T02:46:25	Kia	Niro	55	N98 1RG
+45c166ea-f683-419e-beb4-06dda319ce7e	18156809-d999-40df-a38a-9ad3199fcc19	PolicePro	2024-01-15T18:28:48	completed_form	2024-01-15T18:41:48	BMW	5 Series	20	M82 9AW
+f1dc4b46-81c1-4986-bb28-5618119d4740	ac2202b1-895d-4d49-be18-0c6b32585cd3	ShieldDirect	2024-09-20T06:43:07	page_4		Tesla	Model 3	36	H58 6AQ
+e3d9c8b4-8c4b-42e3-8a9a-affe49c44907	17274d62-4ac2-409b-af32-f6d8928fe014	SwiftCover	2024-06-21T02:06:02	page_1		Hyundai	Ioniq 5	25	R19 4VD
+092c2636-31e4-49d5-8c05-7dcf5a120289	053462ab-b3f2-47bc-bbbd-80f7095f213f	PolicePro	2024-07-21T08:09:43	completed_form	2024-07-21T08:20:43	Vauxhall	Mokka	77	X54 7DE
+c09536f0-f9f8-42be-94d4-1c4c836383ed	3be30d27-fa63-491b-9a02-5b07c81ee015	PolicePro	2024-04-13T08:32:48	completed_form	2024-04-13T08:37:48	Toyota	C-HR	77	CC5 4WD
+67a1518e-f925-4bb3-8c37-69f17d9445a9	50a1e447-d4e5-4fbe-989d-3667dc8a8f4f	PolicePro	2024-10-02T08:29:30	page_4		Toyota	Yaris	82	J4 8KC
+be54d3ef-6f71-4dcb-8d48-be3e56425b00	13eb4fb7-da78-4ee8-b9a4-22ef1a2f3a85	ShieldDirect	2024-05-12T10:17:50	completed_form	2024-05-12T10:27:50	Toyota	Corolla	22	GC8 3PG
+40df41f1-6b5b-4890-b5a8-c8bcf3a4e426	c7a12788-d699-4ec7-9492-d08afb6f47a1	PolicePro	2024-07-01T11:14:02	completed_form	2024-07-01T11:21:02	Mercedes-Benz	EQA	50	MS31 8YN
+2c41a499-0eab-46ce-ab68-e984d9cfbaac	ed361dec-810c-40f1-8208-e3d1bc3ce3af	PolicePro	2024-04-20T12:06:04	completed_form	2024-04-20T12:12:04	Mercedes-Benz	A-Class	82	IQ42 2AE
+3b64bfb0-5397-4285-bc70-b4a2f8a4857d	7b77327c-94f0-4f79-9165-acf9c27e2a8b	SwiftCover	2024-02-12T20:37:46	completed_form	2024-02-12T20:47:46	Volkswagen	Golf	78	QS21 7VJ
+69e404c2-301b-4777-a8a2-c44f937c7039	a8504068-fc35-4d08-b386-22159c52c09c	SwiftCover	2024-01-08T23:38:05	completed_form	2024-01-08T23:49:05	Audi	Q3	61	TS12 7AP
+61ad4793-c015-4577-ac05-d42a31fdf99d	3ec9fafb-59c0-448d-92f3-cd5a5bb836a0	SwiftCover	2024-12-22T11:29:23	page_2		Hyundai	i30	71	GZ30 7FE
+f5a69890-32dd-4feb-a84c-eb2d5bcc4781	4c67c5d3-e5de-4171-a35c-454c3089d5b3	SwiftCover	2024-10-21T22:39:07	completed_form	2024-10-21T22:49:07	Kia	Picanto	18	T3 8NJ
+cc0ef208-b9da-48f3-b9cc-c797c2c7c7d1	0cb835a8-e8e7-43d6-ba77-bb60c703ed87	SwiftCover	2024-04-12T08:31:18	completed_form	2024-04-12T08:37:18	Mercedes-Benz	E-Class	33	T10 6CJ
+408df56d-689a-4f50-89ca-c06d357a0c27	70eab383-15c1-4a30-8a82-a868c5740ed9	ShieldDirect	2024-11-26T21:11:39	page_3		Mercedes-Benz	C-Class	25	J41 7QB
+7cfac80a-7c85-477d-81de-f8d3771ee9ed	2e6ac512-6c94-4972-b5d5-e3089faecc29	ShieldDirect	2024-09-05T05:38:47	page_4		BMW	5 Series	73	PE97 7UH
+7680e9c0-a3ed-4d28-9070-d2fb99d5f67b	aa2c73a2-7c3e-4f49-992d-002982bb7252	SwiftCover	2024-07-25T00:35:00	completed_form	2024-07-25T00:45:00	Kia	EV6	45	GD50 1NG
+d60a908c-2c11-45d6-be67-4e1fc4bfde01	a3da7909-6af7-46eb-a634-0e201403f489	PolicePro	2024-09-11T13:46:34	page_4		Vauxhall	Mokka	47	PF81 5CV
+6af4cb1d-214a-4bea-aad2-b29433280c08	ce52036a-99c4-4c13-a48e-2c49db7477a7	PolicePro	2024-10-03T23:19:46	completed_form	2024-10-03T23:30:46	Toyota	RAV4	45	GN38 2AY
+d58f5d7f-583a-4a10-a49b-424c1985d167	ae50aaa3-808a-4b52-b619-0dc9e11e0855	PolicePro	2024-09-19T20:08:22	completed_form	2024-09-19T20:23:22	BMW	3 Series	33	H90 2GK
+5c8b4498-9140-4b33-94ba-473ff13ac502	5d0f6426-a167-4f1d-94f8-af521ef22111	SwiftCover	2024-07-27T11:26:42	completed_form	2024-07-27T11:37:42	Ford	Fiesta	66	K75 7CE
+d3e9508d-0bf9-4ee9-98c8-daf72cc4df5f	7008f3c7-11c9-4e53-83e9-af01f8db1cfb	PolicePro	2024-09-13T14:15:46	page_2		Ford	Puma	85	R47 1LX
+67014757-8278-4dcb-88aa-515e80b8d259	7da63228-e190-4922-b62a-9efddb116b12	PolicePro	2024-12-13T23:38:38	completed_form	2024-12-13T23:40:38	Vauxhall	Corsa	59	EY61 1PA
+c7fa5ac7-85dc-4528-b442-ebf07921553a	a65c5fac-6469-438b-b09e-ee8d203244bc	PolicePro	2024-01-26T05:50:04	completed_form	2024-01-26T05:55:04	BMW	i4	58	I15 2TP
+e3b2d1b9-1695-4344-991d-a5f32bc56670	f6456eaf-8a38-4a89-9fd3-278d81b3cfd2	SwiftCover	2024-09-20T20:36:34	completed_form	2024-09-20T20:47:34	Mercedes-Benz	E-Class	64	VM18 8RR
+7b2c0aa7-c756-48ff-89ca-fbafa41a163a	28714271-a243-44ea-9b25-f6221c80bf13	PolicePro	2024-08-19T10:46:35	completed_form	2024-08-19T10:53:35	Ford	Focus	28	E37 7BQ
+209ece71-3e8a-46fa-b094-f8a25a84e48c	5fcf6b51-23e0-46eb-a9f1-d3074f5d4629	PolicePro	2024-11-16T15:46:03	page_2		Volkswagen	Polo	21	UX37 6BF
+7bf82801-8cc2-44c0-8796-11eda12ce48d	ac0df88a-896f-4c74-a133-d60af0692d07	ShieldDirect	2024-09-14T10:01:04	page_3		Hyundai	i30	27	JF8 6YA
+2c2b6fd7-fa41-42da-9026-d01e0105e605	17050519-4d13-4f5a-aab4-3bfc4c68e3ba	SwiftCover	2024-10-23T15:58:06	completed_form	2024-10-23T16:05:06	Mercedes-Benz	C-Class	76	B90 8SV
+f02036d0-4a58-433b-bf95-21a8a95c396b	8443d9e0-1388-47a8-b8d7-6f6721c0dcc8	ShieldDirect	2024-04-16T17:02:24	completed_form	2024-04-16T17:04:24	BMW	3 Series	56	D17 2FL
+4be8ed26-33db-449e-a19b-b995b75e3945	cab7ad85-b668-48b4-8dce-b69e81f93e3e	ShieldDirect	2024-02-07T12:24:32	page_3		Hyundai	Ioniq 5	56	D3 6MR
+7103eb5a-ef27-4c17-ad37-7ffe5cea1520	dcc83c65-6fa1-414c-837e-49ebd022ed6c	PolicePro	2024-06-06T09:57:49	completed_form	2024-06-06T09:59:49	Volkswagen	Tiguan	61	W20 9RE
+e11401ee-4913-49d0-8796-10386faa1111	559ea94a-8fe5-4e90-864f-d68f0a71fbfe	PolicePro	2024-07-23T03:42:47	page_4		Tesla	Model X	61	QK43 8JH
+7d204e8b-ddb3-4884-a936-0c9c97ac8444	954fe12b-e458-461b-a225-62c97f89cf91	ShieldDirect	2024-08-31T23:23:18	page_4		Volkswagen	ID.4	67	S29 4KA
+6c20a7c7-2bec-4568-bd22-bbe8db460f10	65a57e6e-7a5d-49ca-a5d8-8c16f621c179	ShieldDirect	2024-10-20T22:34:30	page_3		Kia	EV6	43	ZS45 3AF
+ee744485-81a5-4fd3-bab1-56281aaadd5c	2f66577e-8d02-468a-b709-eb4a42c1f6ca	SwiftCover	2024-04-21T02:25:22	completed_form	2024-04-21T02:36:22	Kia	Sportage	37	XS75 5US
+6c45c316-5d4e-4ca8-b0c1-c60761333c6b	a96b397f-c44d-4890-a0d2-d41f4a631484	SwiftCover	2024-06-15T16:34:08	completed_form	2024-06-15T16:37:08	Kia	Picanto	18	QR52 4DM
+402bd85d-5d35-4fb7-b64a-6188a4c6dc97	3c71c979-135d-41d9-915f-ffab9f2092c2	SwiftCover	2024-05-04T19:12:07	page_1		Ford	Puma	17	IT97 4MP
+f6714231-094f-4c91-b31b-be7fe2535f45	da1f2ac3-e7b5-4d42-b55d-518c0cf71724	SwiftCover	2024-12-06T09:11:22	completed_form	2024-12-06T09:23:22	Hyundai	Tucson	73	H19 7AY
+aacaf23d-02b4-4ec9-b299-c93a9f47f534	6eaf7c80-3192-4b34-9f95-8b026491387a	SwiftCover	2024-09-25T15:02:37	completed_form	2024-09-25T15:12:37	Audi	Q3	19	I20 3AD
+607543f7-74b7-4954-8d4a-2d2f68b5aa24	bb01fbd5-c586-4496-ac0a-195abba23185	PolicePro	2024-11-15T14:40:30	page_2		Kia	Sportage	67	HM80 8YX
+a2e978c9-9334-4949-be24-b3ea7b5038d9	472f2962-1e5e-47ec-80fb-6a4499473b31	PolicePro	2024-07-16T17:41:45	page_3		Toyota	Yaris	81	I27 8FH
+3fab01a6-7702-4fc4-a8d6-183a3966cc12	fb619e31-8810-4f7f-818b-b4762dd12a69	SwiftCover	2024-02-17T19:42:49	completed_form	2024-02-17T19:45:49	Volkswagen	ID.3	39	V14 9XS
+b4ecc6bc-57db-4c3a-888b-d51d815f7312	7f31cee0-7db6-47fb-85a5-b3341cf19397	PolicePro	2024-08-21T00:46:46	page_2		Volkswagen	Golf	52	PP63 6RL
+e5629e7a-f2b8-43dc-91b2-807104b8219a	1c87ccfd-8cfe-42c0-b0ee-26220c022339	ShieldDirect	2024-02-04T19:02:25	completed_form	2024-02-04T19:08:25	Vauxhall	Crossland	83	M3 2FL
+3613dcf9-ebe0-40b5-81d9-7ba4c2f316c5	1c8a93b8-7b7b-46ed-8fd3-1cfbdd7054ec	SwiftCover	2024-04-07T06:47:49	completed_form	2024-04-07T06:58:49	Audi	Q5	22	ZI4 5XW
+f5733d24-ef1b-44bc-b79c-d6abf8785993	73b8744a-7829-43fc-b0b8-8eada2cc7eb8	ShieldDirect	2024-02-21T13:39:30	page_3		Vauxhall	Astra	57	Z59 8JW
+65c346b5-a66b-4c5f-b041-e5b73b0c073e	bf0b3e57-a353-4dca-a246-33af2fb7a1b8	SwiftCover	2024-04-02T19:11:43	completed_form	2024-04-02T19:21:43	Volkswagen	ID.3	51	HY93 5QJ
+0868ebc0-a17d-4ef7-952c-d7d1f0fe0051	a06ee75d-6076-456b-bbf3-390472c8d586	PolicePro	2024-03-09T09:12:55	completed_form	2024-03-09T09:20:55	Ford	Mustang Mach-E	34	O86 9SD
+081ef4b6-966a-45c7-8c17-0cbab1e00c26	0797ee1b-88bb-4390-a7be-a4676b8df249	ShieldDirect	2024-07-01T01:43:36	completed_form	2024-07-01T01:54:36	Mercedes-Benz	EQA	52	J9 5JJ
+c3f7f63b-e82f-4a9f-9805-7f5aaf1668df	e0ab7e93-0832-4ae0-8a7e-1c872021da2d	SwiftCover	2024-04-09T18:49:32	page_1		Tesla	Model 3	78	GM66 6TV
+044c1e88-9271-46ec-8c53-76506afc2ee1	471df105-6675-4734-b619-2ed830b4d7af	ShieldDirect	2024-05-25T02:01:18	page_4		Vauxhall	Corsa	73	L67 8EL
+117cb3c4-89d7-450b-9add-71e1b30567be	399b3411-0325-45be-b062-4e80d7e686ea	ShieldDirect	2024-05-03T06:50:02	page_3		Toyota	C-HR	40	P24 9VF
+93abb583-1e9c-4bcb-8157-00e894974273	adb9f97c-6810-40cc-89bd-ebe859baa29f	ShieldDirect	2024-11-07T15:25:20	page_3		Mercedes-Benz	EQA	41	S90 8CV
+ab859e3b-642f-404d-ab35-5c85a000f512	397c8079-1d84-468b-9a7d-24060fd3928f	PolicePro	2024-07-18T20:45:15	completed_form	2024-07-18T20:50:15	Vauxhall	Corsa	53	FR3 4TN
+7e410a53-4742-492b-a1da-46d7ac40ff60	a511a4ed-ad6e-475c-92eb-8eca0237171a	SwiftCover	2024-04-06T09:15:07	completed_form	2024-04-06T09:29:07	BMW	i4	19	U90 9PT
+b0d58a52-182a-4a7b-95eb-57af1329d9b9	1794d2c3-0e3e-4766-9392-1cb4be2146a5	SwiftCover	2024-04-24T22:36:31	completed_form	2024-04-24T22:41:31	Vauxhall	Crossland	81	II19 3QN
+e70441c8-3aa5-4a9e-9ccb-77a103493ea9	0bed966a-303e-4558-bfdb-4d367d135471	ShieldDirect	2024-01-20T00:08:07	completed_form	2024-01-20T00:17:07	Volkswagen	ID.4	17	O45 6MY
+89c8f62c-7944-4be5-88a8-e7b0ada03abd	7775b380-d85b-42e1-bfa4-4b7074257405	ShieldDirect	2024-08-20T07:41:10	completed_form	2024-08-20T07:51:10	Volkswagen	Tiguan	23	GR5 2RF
+6fdc47c0-3588-4e62-937c-d4b153d8271a	b0c60f6a-5d61-4aaa-b5d1-bd47ecf76c0e	PolicePro	2024-03-21T18:04:32	page_3		Tesla	Model Y	56	HH67 9CB
+a1858000-7fd8-4b9c-b90f-5aaa8e7014c3	c1ca9310-5ac3-4532-b75e-63f68e9cdf19	SwiftCover	2024-08-13T01:26:55	completed_form	2024-08-13T01:37:55	Vauxhall	Crossland	85	PZ90 7JL
+e57d17e5-6ff3-49dc-a456-aefdb90670a8	ee2d87a0-40ba-44c0-a058-06f74b431d6c	ShieldDirect	2024-06-14T20:36:19	page_3		Audi	e-tron	39	ZI65 9JE
+13eab0ac-cd17-4b2b-b34d-98e73e102c22	5f49813f-8a26-429c-bf54-7b7c3fef3c61	ShieldDirect	2024-04-27T20:18:55	page_3		Tesla	Model 3	17	KT87 1FX
+a8cf9710-e9f5-4662-ba31-b5337ec07044	e1ab06a6-b7da-4308-9455-5c6dee36880d	PolicePro	2024-07-28T18:51:55	page_2		Mercedes-Benz	GLC	58	CO82 6UT
+1f77389e-858b-44f5-ba32-8b722ec713a6	13f8143f-40d0-4519-8e3b-cd54da0c1f3a	PolicePro	2024-08-04T11:43:27	page_2		Ford	Kuga	42	LX56 2FK
+dc86eed5-76c3-42eb-af99-7ecb6dd25e52	cecd1ae7-ae23-442d-bc3f-525e2192599c	SwiftCover	2024-11-14T16:54:58	page_4		Audi	Q3	78	B90 9NU
+03ef4e86-f995-4b93-ae5d-8fc5be63ee08	22785455-2160-477e-98ca-eea63fcb5fca	ShieldDirect	2024-02-01T18:40:04	page_4		Kia	Niro	81	H47 7SP
+029ec9a4-f750-4996-8967-3045a6f3ee1b	30dcf9a7-8e73-488d-bf66-ba3030189e39	ShieldDirect	2024-01-07T15:20:46	page_2		Toyota	C-HR	33	I9 9GK
+0ccaa9bb-dcbe-4252-a0f3-12629dcc65d1	20af675e-05f7-4594-851a-d146a9b494ba	PolicePro	2024-07-26T17:13:48	completed_form	2024-07-26T17:27:48	Audi	e-tron	69	YY62 7VQ
+70d5a20e-27f7-4a06-9502-e74f4f94ac8e	37a08faa-ce92-4143-9ad8-318d6551fb7e	PolicePro	2024-03-04T16:35:56	completed_form	2024-03-04T16:39:56	Tesla	Model Y	49	FA53 2GC
+c95c59d4-3560-4ec5-9bfa-ac750b4ae329	7d2d0557-6e4e-4601-a99b-2d5d5b0cacab	SwiftCover	2024-07-04T00:11:41	page_3		Hyundai	i30	75	SW48 3HH
+5d04a3e6-3499-4a53-a8e3-491f9332b43b	93cea3bf-ea65-4e79-8d5b-d3ebffa1d699	PolicePro	2024-04-24T18:31:55	completed_form	2024-04-24T18:46:55	Hyundai	Kona	56	ZT32 3SK
+b48fb8de-235a-4480-9c94-43bcae3d916d	6ad864e3-bf4d-4fce-8051-6baed20f5faf	ShieldDirect	2024-02-16T07:28:49	completed_form	2024-02-16T07:35:49	Tesla	Model 3	61	E62 4MQ
+f7b72af4-0014-471f-99cd-58e5ac2a5c5b	bf656d5c-a79a-4c42-9355-84ff952d71b4	PolicePro	2024-01-05T00:04:32	completed_form	2024-01-05T00:12:32	BMW	5 Series	49	L21 1TM
+8c3f5fa9-d308-4d81-b2c8-69ddb576ad1f	127a3323-c832-4485-a687-5f8c920352e8	PolicePro	2024-07-18T22:38:51	page_3		Audi	A3	38	R94 2JV
+99afc7de-156a-47dd-b414-b0b07c44a180	b0b8a559-6cd9-4f84-9cb2-e1fc7307056f	ShieldDirect	2024-11-29T16:56:23	completed_form	2024-11-29T17:03:23	Kia	EV6	30	J17 9TV
+1e5ec1bd-7fc0-46f0-9651-9341f10219d0	8949fc28-4827-4fad-aba8-0ed5dc49fcc3	PolicePro	2024-06-24T19:30:01	completed_form	2024-06-24T19:40:01	Hyundai	Ioniq 5	48	US17 2GB
+415ef601-39ea-46b9-be4e-9dcc2a909ad7	e361fbef-9f41-4d50-bf4b-be32bb7973e6	PolicePro	2024-10-31T15:03:13	completed_form	2024-10-31T15:15:13	Hyundai	Ioniq 5	57	NH31 6AE
+64bfdbf1-c999-4cd5-bace-af445ed88b1b	e73a5c05-3896-4f65-b882-6842a1c95330	ShieldDirect	2024-02-15T15:17:30	completed_form	2024-02-15T15:21:30	Kia	Picanto	77	BJ62 8JN
+163414b3-48e2-4fe2-8645-64245fc07f35	637d0ca6-1fb0-4f99-aea5-548c6557e6b3	ShieldDirect	2024-06-29T12:42:28	completed_form	2024-06-29T12:53:28	Ford	Kuga	19	NB92 2NP
+5098125f-1999-4fce-ac61-a8a705576587	7d37ae84-b4d6-4a0c-b7f1-1f359e2d68d3	ShieldDirect	2024-12-01T16:46:58	page_3		Kia	Ceed	67	MP43 8US
+ce9e1df7-664c-4b9e-8cc6-53c9aa57b023	82509c6b-3163-4d62-ad70-1321bfe01b44	PolicePro	2024-03-13T17:39:16	page_3		Hyundai	i10	81	C58 4JH
+92c46f64-1c3c-41a0-b096-4af53cedf493	28783b49-7b55-4f44-ad71-f478d3822271	SwiftCover	2024-05-07T20:17:43	completed_form	2024-05-07T20:26:43	Vauxhall	Crossland	68	OP67 1HY
+52e4dbd9-4541-4aef-8d3d-155e8d356bc5	8ff8293f-543f-4c6e-98b8-2d3aae4b2b79	SwiftCover	2024-10-12T14:08:51	completed_form	2024-10-12T14:13:51	Kia	Ceed	24	Y9 9WA
+40bbbd03-064a-425a-a0a3-d30bdabe4e41	513b8c11-4782-4312-ba80-73fd6b82eb27	ShieldDirect	2024-12-04T06:51:45	completed_form	2024-12-04T07:02:45	Hyundai	i30	71	O29 8EG
+b2a6383a-d8b0-4aaa-ab4c-10c9f551c928	f23d9302-14b3-49b0-83f9-16f9523a45cd	PolicePro	2024-02-24T10:12:27	completed_form	2024-02-24T10:18:27	Volkswagen	Golf	76	KX65 2JB
+1385fd1d-0834-4c6c-872e-d04e7921a3c1	16d2e03d-345b-4b04-b9f3-b7cd9f2a9176	PolicePro	2024-06-21T16:43:26	completed_form	2024-06-21T16:57:26	Tesla	Model Y	53	JZ89 4TQ
+f01cfbc4-f35a-4b67-bc6d-246eca709dac	7aba7f64-7eaa-407e-b944-87a6aecbb0c0	ShieldDirect	2024-09-17T15:23:18	completed_form	2024-09-17T15:28:18	Ford	Kuga	65	RO31 4YJ
+0881bd5a-0b64-45bb-aa6f-ba078ba4f3af	f5b212c2-4e7c-428f-8e9d-d1cd0515ffcc	PolicePro	2024-11-09T05:44:55	completed_form	2024-11-09T05:46:55	Audi	A3	77	K98 5VK
+1309cc4f-cf89-4fab-af5d-1bb0f6f61bda	6463e753-c7da-4f54-ab02-c39fdfe505c8	PolicePro	2024-09-03T14:04:58	completed_form	2024-09-03T14:06:58	Toyota	Yaris	20	YB87 7XW
+dcaf7c29-6e56-4bff-9450-aa7438080e2b	11c0aaf4-c79a-4f9a-9541-565ded3f8143	SwiftCover	2024-11-11T21:34:19	completed_form	2024-11-11T21:45:19	BMW	5 Series	23	BF10 1TQ
+46387194-841a-4207-b6c4-1579425f2432	d86882cd-b8e0-43dd-b020-758912fefea8	PolicePro	2024-05-23T17:08:11	page_2		Tesla	Model 3	76	RX33 2QH
+c317c90f-ca35-4c33-8298-ce0d7358152b	faddb14d-72d9-4005-99e7-f6d57c72a9ed	PolicePro	2024-03-10T14:37:42	completed_form	2024-03-10T14:51:42	Audi	e-tron	34	L43 5QD
+b2fa6151-5f04-4a11-bb22-fb4178364d87	8c761728-2ea4-47a2-9350-155e88704707	SwiftCover	2024-01-20T14:03:16	completed_form	2024-01-20T14:09:16	Audi	Q3	30	UG69 4BX
+b75c0562-a7bb-433d-a3e2-32673f205fbc	7cd3778f-9ec3-471d-b7b4-de3962f7b9b1	PolicePro	2024-10-01T06:08:42	completed_form	2024-10-01T06:18:42	BMW	1 Series	40	HX97 8RV
+a05605eb-bc87-46ce-80cb-17e0f61bcb9f	6d133a12-1ee6-4698-9e36-f4d6ce7a6e75	ShieldDirect	2024-11-20T06:22:34	page_4		Vauxhall	Mokka	30	MO24 9EA
+aed91d4c-5fa7-4de7-bcce-2aa6095e0de7	a7be47e1-331a-4c9b-a9f0-977e974a7861	SwiftCover	2024-11-12T07:53:30	page_1		Ford	Fiesta	45	CZ70 9TE
+2657265d-48c2-4722-ab66-b14e7302f9f8	5de01439-5ebc-496a-9951-7af00792b138	SwiftCover	2024-04-26T22:47:31	completed_form	2024-04-26T23:02:31	Audi	e-tron	38	WY52 4YJ
+e727272c-dc1b-4988-a5fe-7ca389e42cbb	5b53b520-bd36-4cef-a7c9-3b2104419c5f	PolicePro	2024-07-08T01:00:29	completed_form	2024-07-08T01:07:29	Hyundai	Ioniq 5	83	PK85 6LL
+ec33e72a-40a5-4759-a270-ad80b43ba7c0	791585d8-30f7-4e5f-99a2-93053d0c22ee	ShieldDirect	2024-06-30T17:40:39	completed_form	2024-06-30T17:51:39	Hyundai	Ioniq 5	43	XO97 6BQ
+4255c390-31bb-43be-a883-beb1a0f6db79	7988c74f-b360-42df-97e5-0a5f23e7b7da	SwiftCover	2024-05-27T00:18:40	completed_form	2024-05-27T00:33:40	Kia	Niro	42	TE47 8JH
+77076edc-d4c4-4b76-8b0f-6d523dbb721a	51dd8d14-c06c-4331-8bc3-4758839a9ab8	ShieldDirect	2024-03-18T12:34:52	completed_form	2024-03-18T12:38:52	Hyundai	i10	28	M34 5RA
+2710aba1-00df-42a0-997d-954ad5d8a5f5	c30b9cfc-cc14-4088-84ce-54d372d4c7b6	PolicePro	2024-10-04T19:51:57	page_1		Vauxhall	Astra	82	QZ57 6HP
+4fca77c8-8cbf-4315-965a-231b68634d08	f3e2121d-7be6-43f5-a379-71e1360660dc	PolicePro	2024-09-25T03:04:42	completed_form	2024-09-25T03:06:42	Mercedes-Benz	A-Class	41	Z12 8RE
+52e0af05-ac4f-472c-a97c-33129dffc47b	6e50a020-97d2-46c1-be3e-94e1ac1ad881	ShieldDirect	2024-11-13T00:10:36	page_3		Vauxhall	Crossland	69	RX81 9PN
+9dc7abc7-f452-41b3-a9cc-c8f5b59122d8	eeabfee1-18ca-4ea2-a710-e832eb636e11	SwiftCover	2024-08-14T06:06:17	page_2		Volkswagen	ID.4	27	B43 2QX
+2563a23a-95e7-4323-839b-633c1da3b8ac	ff7ce0f1-0d9f-486f-b1ea-7384e31841e9	SwiftCover	2024-10-12T17:08:58	page_3		Audi	Q3	65	P61 8MF
+833dd15e-34be-43f5-8bd7-30d47839386b	5101c6eb-af9c-4d3d-9c90-f1ee6ccec21c	PolicePro	2024-07-11T08:13:33	page_4		Mercedes-Benz	EQA	40	H93 9SE
+89ff06a0-3dcd-4324-8044-38122d6462e7	06be9976-1e3e-492e-98cf-12a5f4de2479	SwiftCover	2024-01-26T04:56:55	completed_form	2024-01-26T05:08:55	Audi	Q3	48	BQ69 1AN
+d7512714-e4ba-464d-849b-3dd0983f0388	57350240-945e-4e24-81f0-a1ae4f7b6c55	SwiftCover	2024-06-14T00:26:51	page_1		Hyundai	i10	55	N27 9XQ
+3e17af0e-f367-42a8-a636-d3acc739a714	ad11b6ad-ad19-4a30-8d48-fa19519d9554	SwiftCover	2024-06-15T11:35:33	completed_form	2024-06-15T11:49:33	Volkswagen	Golf	31	M95 4GY
+00047068-62f5-4cec-ba23-960325ed66eb	fe0ecf14-ddb2-46d6-9387-3203a56df46e	SwiftCover	2024-01-19T21:15:08	page_2		Tesla	Model Y	45	A70 3VN
+d2339986-0ce6-4024-9c46-f03eed31c1b4	9e535b0e-bfdf-4e62-ae7e-d8755111d050	ShieldDirect	2024-05-10T18:08:46	completed_form	2024-05-10T18:22:46	Tesla	Model Y	37	Z36 4MF
+8973540b-0eac-4461-a21f-b965fbe47ade	f2e46a53-a06f-4dba-bc40-898b3369a4fd	ShieldDirect	2024-04-20T22:02:06	page_2		Toyota	Auris	18	A16 9FK
+6708d711-1e1f-4b58-8f60-4819c49b2b77	97b0d3e1-b438-40b2-b42f-245c17c627c1	PolicePro	2024-01-06T13:38:16	page_1		Toyota	Corolla	82	KV19 3HA
+d6028517-9771-45c7-a890-a7944e5c3cb0	41780c6b-ec78-435b-920a-133a3663d763	SwiftCover	2024-02-26T02:21:55	completed_form	2024-02-26T02:25:55	Ford	Mustang Mach-E	50	P19 1BX
+353686f6-1386-49cc-a641-e6fb09b55dba	2711381c-ee91-459b-83f3-c640a1b2915a	SwiftCover	2024-04-19T02:21:53	completed_form	2024-04-19T02:26:53	Hyundai	Tucson	73	GM64 9HQ
+088a47c2-d37e-47a7-b96e-7b7eaea6e4c7	a88cb004-e849-48f3-8b86-cb185ad76ae9	ShieldDirect	2024-12-07T18:37:29	completed_form	2024-12-07T18:48:29	Kia	Picanto	33	P26 2KA
+5b8298b3-7430-4e8a-98c6-a62117e697f4	9a12d9ac-cb33-4d33-8af6-b9cea2602e3f	SwiftCover	2024-09-10T08:02:13	completed_form	2024-09-10T08:13:13	Kia	Sportage	22	EH60 8RG
+073c7806-b53d-475e-ab8a-c801f3ea318c	749dfce1-9918-4e5f-8b17-60af3c69b1f6	SwiftCover	2024-03-29T20:36:29	page_3		Ford	Puma	19	O67 9GX
+dd506187-327f-4900-b2d8-6f12645ac42f	1538aeab-c6fe-4977-a46d-c00fa09ef4f6	SwiftCover	2024-01-24T11:48:06	completed_form	2024-01-24T11:59:06	Hyundai	Tucson	51	YH44 2PQ
+622e2f80-95cc-45e1-8663-abb7b0514045	c2b18a82-6000-4166-bed9-45a47d573e27	ShieldDirect	2024-12-25T00:15:34	completed_form	2024-12-25T00:17:34	Vauxhall	Crossland	22	O36 9XH
+33da6f0c-4379-4cf5-9251-df26e4934489	d23e3168-10e9-4e93-b222-f701ddbc2645	SwiftCover	2024-03-30T17:28:18	completed_form	2024-03-30T17:40:18	Ford	Mustang Mach-E	21	GG99 4KE
+432ab5a7-5658-4898-9e31-f64807fdbff7	abc4dc38-787f-45da-a768-02aaf29d615e	SwiftCover	2024-06-24T16:32:14	page_3		Mercedes-Benz	E-Class	43	XL24 6TH
+ea74835d-aac9-4caa-b6ea-2962fb0b8a47	68812b4a-732b-4504-b837-b986ec50038a	PolicePro	2024-04-30T21:01:36	completed_form	2024-04-30T21:13:36	Mercedes-Benz	A-Class	62	EW68 8CU
+6bce4d69-6f29-4be3-94f4-dd418e15c086	fadbf381-3e44-4bd4-9db6-a59bc311197b	ShieldDirect	2024-12-13T08:34:40	completed_form	2024-12-13T08:45:40	Ford	Puma	85	F35 6VB
+00c078c3-b5be-4dc5-ac31-26aa0d785462	b05e0b34-c1a2-4a95-bd6b-562f160af99d	PolicePro	2024-06-13T19:33:59	page_1		Audi	A3	46	AC56 6UA
+11b98f55-4f6b-4057-8d8c-e804041f38f1	c3da2a0d-a8fb-4cc4-8902-5e3dddaefc1f	SwiftCover	2024-08-26T03:59:54	completed_form	2024-08-26T04:02:54	Mercedes-Benz	A-Class	83	XK14 4TM
+0a2f21d3-12a6-490b-bf1f-870cd97d75f9	f9e8764b-5a36-436b-bf4a-00235175d1cf	SwiftCover	2024-03-24T14:03:17	completed_form	2024-03-24T14:07:17	Vauxhall	Crossland	66	C54 2EK
+a3d94b54-8091-4e3a-a4ab-11d0f4137a27	ad0c3b83-08e4-4855-8d3c-deadedb2f2fb	PolicePro	2024-06-29T15:48:52	page_3		Volkswagen	Tiguan	76	A73 3UN
+9288a135-d62a-42a9-816d-81f069f5dfd3	2aa4c0dc-7464-4979-b5df-53fcae4e1058	SwiftCover	2024-10-03T20:51:19	page_2		Vauxhall	Crossland	61	K28 6HG
+54f6cd96-c992-4f00-a69f-41cf34220e38	68935ad7-830c-49af-b505-a41bdc2a8a90	SwiftCover	2024-02-23T21:39:02	completed_form	2024-02-23T21:46:02	Hyundai	i30	85	J59 7DV
+c52e3d46-5bca-4202-9f6a-66b65a5790c1	098ab426-d9f8-408c-83a7-731c4817c06d	PolicePro	2024-04-01T17:29:15	page_1		Vauxhall	Corsa	19	NJ13 9CG
+393aa326-32de-4c45-9f22-bee6895e114c	0084d0ae-4a3a-419c-8c00-cd838d7a810f	ShieldDirect	2024-01-09T19:16:53	completed_form	2024-01-09T19:23:53	Tesla	Model X	42	Z14 6AJ
+dfe77e4f-cb1f-41cf-b12e-fc670062423f	d9955657-a6d8-4971-94ae-3e91d6ca7191	ShieldDirect	2024-08-03T15:33:27	page_3		Kia	Sportage	19	Z98 3TY
+19ce8219-e2b2-4984-b2a0-7b92c3b81e38	8c504c82-d9cd-4312-9dd7-e26ae05ffc99	PolicePro	2024-01-18T14:09:36	completed_form	2024-01-18T14:20:36	BMW	i4	25	C91 2PS
+f09ac4ce-7fe3-4da7-9566-a421f19ada07	65625648-97d0-46e8-b7e2-13de0adb7f4c	ShieldDirect	2024-08-25T03:17:20	completed_form	2024-08-25T03:27:20	Toyota	C-HR	22	V86 2BL
+382f5824-1e37-439d-a382-22d93c5d0115	1ccd51ef-e4ea-4b3b-96eb-f97abf216b58	SwiftCover	2024-12-18T03:26:11	completed_form	2024-12-18T03:38:11	BMW	i4	33	FY90 2FM
+3aee85d6-6916-4188-938e-d0d858c81f8a	85b69c98-dd0f-46a4-9d27-6171ab248d5f	PolicePro	2024-06-15T22:00:29	completed_form	2024-06-15T22:08:29	Mercedes-Benz	C-Class	77	EJ72 8FN
+85439fba-2e6e-4079-b441-9c2b3b76ec7f	1c2b3c57-625d-4eff-823a-2f4938cff383	ShieldDirect	2024-04-29T11:03:14	page_3		Vauxhall	Crossland	71	JE23 9CG
+0931da1d-b38e-431c-bb9a-3153b163eb35	cbc14e9b-8cb2-4abc-affc-520bdbedecc1	SwiftCover	2024-10-09T20:17:09	completed_form	2024-10-09T20:20:09	Vauxhall	Astra	17	OZ55 1CC
+9051b81f-00cf-4efb-ae4f-f031898007e9	5c2c2a49-bc68-42bf-b5ea-54fc6f96eb3a	PolicePro	2024-11-27T15:55:22	page_3		Hyundai	Tucson	35	ZS6 5TC
+6ecc7673-e09c-4da2-bdb3-78cc66657f8b	a02d46d1-3e6f-4c9f-87bc-359869b98eb0	SwiftCover	2024-01-26T00:21:37	completed_form	2024-01-26T00:36:37	Toyota	Corolla	47	QA96 6TC
+4583f0db-033a-481d-8672-3ce9da2eaabc	9090cae4-33e8-4cc0-959c-51fd1bfed927	ShieldDirect	2024-03-04T19:53:48	completed_form	2024-03-04T20:04:48	Mercedes-Benz	C-Class	33	O71 9UW
+9f78a87b-214c-4509-994d-093900e1940f	2c64996d-a408-4d2b-8a59-6610e59bfe33	ShieldDirect	2024-10-13T06:28:28	page_2		Vauxhall	Mokka	47	FF85 9RV
+d89879b5-8af9-4c81-a226-ed196523f918	407ca92a-293d-417e-a670-c75367b488c7	ShieldDirect	2024-12-22T22:09:35	page_2		Hyundai	Ioniq 5	57	W10 4FW
+25f61c7e-0e44-47e4-936a-fe17a03b873c	367997b3-cc6f-46ae-9428-3aff5fea80f7	ShieldDirect	2024-07-28T10:38:29	completed_form	2024-07-28T10:47:29	Ford	Puma	31	S3 4JL
+f2283acb-74b5-4c4b-b956-f42e9b05d736	c23fdba4-ea66-4e50-b44e-81bc1c2626b7	ShieldDirect	2024-05-24T10:51:12	page_2		Hyundai	i30	79	K44 5DE
+2b1a1fb4-23dd-49ce-9819-d7d362f2a26f	fac86785-d258-4fe2-b3b4-bdf365d4eebc	PolicePro	2024-03-18T19:12:02	page_4		Tesla	Model S	70	H10 3JB
+363f950e-22c6-4218-862a-de3bd38411d2	057df212-35db-41e7-8370-91aba33e077c	PolicePro	2024-07-15T08:13:19	page_3		Tesla	Model 3	82	OJ17 3DH
+def46633-bf47-4154-9a88-3a17e1791ddb	e2adc9fc-71f4-4fff-8eed-454ff47ef4d2	PolicePro	2024-06-15T03:43:55	page_3		Volkswagen	Golf	81	AV79 6VF
+37973d36-3901-49dd-891d-cbb2ffb890b9	0421b23b-85ad-4c82-bb8c-572f1b44bb8b	PolicePro	2024-06-13T07:08:17	page_1		Kia	EV6	50	X70 2AY
+3f447177-b4f8-4b0f-812e-4e2e4ee26b14	8a080274-1b36-4f2e-b708-d5bc9facdc59	PolicePro	2024-05-14T05:20:28	completed_form	2024-05-14T05:32:28	Kia	Picanto	41	KX32 5DV
+94db016e-ee85-4e8a-a05d-7e0f76bb1353	b8b499b7-f1e6-4188-930c-152041173e58	ShieldDirect	2024-07-28T08:19:52	page_4		Toyota	RAV4	24	DB63 6JR
+f4f6d469-ef8a-4217-a79d-b601ce0fab25	36d2c293-cb58-438d-88bb-d76543e2e594	ShieldDirect	2024-03-05T19:29:05	page_4		Vauxhall	Mokka	65	OS16 8NU
+c2fcc365-b82d-4103-a0f2-c70ada2c4129	dea45fda-560b-4360-b15d-56ab3bfecdd1	SwiftCover	2024-01-30T12:42:58	page_2		BMW	5 Series	54	O74 7ED
+2570073d-61d6-4592-a3d4-0bef33d8bb3d	752498dd-016d-43a7-915c-c6ba81549310	PolicePro	2024-05-01T12:54:55	completed_form	2024-05-01T13:06:55	Kia	EV6	70	L39 4JS
+40db231d-07b7-4549-a609-92c86dd63f96	6510cc31-4bc8-4a66-8f43-6c2c8068165a	PolicePro	2024-10-30T08:20:31	completed_form	2024-10-30T08:34:31	Volkswagen	Tiguan	24	LH67 4JC
+0064205f-0a88-497f-b02c-d16104ca531f	1244a4a9-b34a-4f5c-90aa-9670adf92934	SwiftCover	2024-05-08T10:38:07	completed_form	2024-05-08T10:42:07	Toyota	RAV4	73	T43 5JL
+a3af0ac3-de60-4f1f-8f7a-ba427b597ef0	8636975b-e953-47f1-bfa1-ed23c1415666	PolicePro	2024-01-15T06:55:31	completed_form	2024-01-15T07:09:31	Vauxhall	Mokka	52	EI15 3RB
+5d3fbfda-8150-42a1-bd55-b3ec1ea19ede	8394dfe3-1612-4533-9fce-f9da03c4be0f	SwiftCover	2024-12-15T18:49:07	page_2		Tesla	Model Y	76	YQ57 2QL
+60ea3d18-0dfd-4b55-a8ea-ba5ee00205cb	bb00b049-5ac7-4967-b683-13c5f3c8b033	SwiftCover	2024-08-11T11:08:53	completed_form	2024-08-11T11:10:53	Ford	Mustang Mach-E	66	S71 9PJ
+772ff9b7-9b28-454f-8b38-cbcbc5ded444	8e4deb4f-1a9f-451d-9c7e-fab26a27e23a	SwiftCover	2024-04-07T05:00:06	completed_form	2024-04-07T05:11:06	Mercedes-Benz	A-Class	18	WQ51 8SQ
+c4f93ad3-790a-43dd-94c2-f3499dedd047	ce93dbf3-2991-41b2-bacc-aa4c1cc2dfa7	ShieldDirect	2024-08-10T07:38:15	page_3		Vauxhall	Corsa	67	I70 9SY
+f4356e0b-9ece-4790-8a80-f61cce91dda6	fefa2067-bfbc-4797-973d-f1fe3a577c5f	PolicePro	2024-05-12T14:13:43	page_3		Kia	Sportage	80	TH21 9TE
+59c4c12c-16b4-4ac9-a239-9aac5add5b32	1d75d8d5-05fe-4897-88aa-3266f823e959	ShieldDirect	2024-02-06T15:29:15	page_1		Hyundai	Kona	35	L26 2NX
+eb8f4cd5-7a82-443a-84c0-b7c42a328753	6e95e69e-6205-474b-acb0-0e25e6f8d5fc	PolicePro	2024-08-06T13:34:22	completed_form	2024-08-06T13:40:22	Kia	EV6	47	V30 4DV
+ee1c85e3-c399-41f2-9255-0cc3829a8967	9ff12779-8795-4e7d-a3e0-4b5d8a63466d	PolicePro	2024-03-19T02:38:52	completed_form	2024-03-19T02:43:52	Vauxhall	Mokka	76	M64 9QS
+68fb6e31-31b4-4b4e-aa09-4f351f375144	864d2ca8-64ff-48aa-a314-7e6a6b79e33a	SwiftCover	2024-07-09T20:08:57	page_4		BMW	i4	73	V20 7XG
+94682d61-3d72-461f-80f9-f24474cb92b6	4f3e68cb-18b2-4651-8a1a-02b5345b8a7d	ShieldDirect	2024-09-25T03:48:43	completed_form	2024-09-25T04:02:43	Mercedes-Benz	C-Class	72	JJ70 6VK
+e45d083f-68f2-4ffe-98b9-00b407d0b47e	ee66803b-8dc6-4a39-85eb-08a387e75363	PolicePro	2024-02-11T04:22:10	page_1		Vauxhall	Crossland	38	OS8 2ME
+a549225f-1d21-4b5a-9e45-017f1d475da5	0a5609ce-244b-4883-89b6-6612a6a8cc5d	PolicePro	2024-08-09T17:53:03	completed_form	2024-08-09T18:05:03	Toyota	RAV4	81	O92 3YN
+a39a8c40-f1b9-47e5-b76d-6999d9fd7623	97ea0236-33ee-4ea3-81f4-923f17ce036f	ShieldDirect	2024-06-23T15:29:04	page_1		Audi	e-tron	19	I22 1QN
+ad01a43e-bcec-4c62-abef-8083b7e9db81	e84871b1-317a-4e0a-8d97-fa7587fb6ff9	PolicePro	2024-11-30T09:13:10	page_3		Vauxhall	Crossland	47	M31 2CM
+dbe63f75-986a-44db-bf43-d6a270cbe7e4	e3faa3cd-393f-40d0-aaa2-bbf34e81f7eb	PolicePro	2024-08-16T07:15:56	completed_form	2024-08-16T07:23:56	Volkswagen	Tiguan	38	C81 4NC
+1308c72d-be67-486f-99b9-4c8f44ab4f17	728ede74-ed90-403f-82c1-95d1f03fa2c4	PolicePro	2024-09-18T04:39:56	page_3		Tesla	Model 3	77	UA71 3TS
+dc90cb82-0923-42c0-ab3d-a93066ac1e4d	778ac550-b84e-420d-a993-59e056179e9b	ShieldDirect	2024-04-30T19:42:56	completed_form	2024-04-30T19:49:56	Hyundai	Ioniq 5	75	Z36 6RE
+ac398a81-070c-4ff8-9955-c16ddff041c9	1105209e-608f-4004-9ffb-e764b24b5435	SwiftCover	2024-08-15T10:45:58	completed_form	2024-08-15T10:56:58	Ford	Fiesta	83	OX55 9VF
+18afb146-69e6-4e5a-a8e2-3d792a578b46	1584bee9-b877-44f5-b4da-63596a063ea0	PolicePro	2024-11-08T12:51:35	page_2		Mercedes-Benz	C-Class	61	N19 8JR
+830bc78b-3c11-4774-83ac-d795669a3c1d	a9b89ea4-2bd1-41b7-8dd9-e764fb9c40ae	PolicePro	2024-03-23T15:59:52	page_3		Audi	e-tron	48	F4 6VD
+c00c9d0b-6382-4185-a393-60c1694de2aa	9777b06e-53a5-4afc-a0c6-e280352caeb8	ShieldDirect	2024-07-18T12:41:04	page_2		BMW	5 Series	21	OH39 3NF
+761745cb-3441-4092-8174-c394ede50363	7a622126-ac5d-43d5-b040-42c3aeaa272a	SwiftCover	2024-07-20T18:33:14	completed_form	2024-07-20T18:42:14	Mercedes-Benz	EQA	37	U22 6WK
+589606a7-0838-494f-bb57-306cb3d52f1e	ec933d74-2d8b-41c0-8f48-53f0e8d6f238	SwiftCover	2024-01-14T03:46:21	completed_form	2024-01-14T03:57:21	Kia	Picanto	19	L61 2AF
+f0fdca8f-10e1-4232-9a88-1391a766304e	203f0640-acd4-4f46-a846-1bf5d968aeba	SwiftCover	2024-12-19T13:00:27	completed_form	2024-12-19T13:15:27	Ford	Fiesta	28	LQ56 1FH
+d271c929-7afc-4cf7-ac4f-4e55d2976612	2f4f8d32-8b62-46c7-9f20-0053976dc150	PolicePro	2024-03-28T09:46:56	page_3		Mercedes-Benz	A-Class	32	FW19 2YD
+821b29b1-9533-4eeb-a8f1-f1b3ec1435f4	3a9b9900-919d-4065-bc1d-5901ec1370d1	ShieldDirect	2024-11-11T11:31:18	completed_form	2024-11-11T11:37:18	Toyota	Yaris	48	YZ32 3TG
+d76f2e4f-6dd1-4e17-b806-3a714cc0dd17	0a51ad52-7dba-47a6-99c3-2e30aae4ae23	PolicePro	2024-05-28T03:18:45	page_3		Hyundai	Ioniq 5	63	OJ8 7KM
+3e1b08f2-f65c-4f26-bf4a-06b41355f824	8be7d6ff-fa61-4153-beed-5108089e4080	ShieldDirect	2024-08-15T07:13:57	page_3		Mercedes-Benz	C-Class	45	S79 2XE
+9f0f214b-25d6-4479-9fd4-96c45cd0de58	60faf36c-ca68-431e-9dbb-e482dd122d11	ShieldDirect	2024-09-07T20:35:17	page_2		Kia	Picanto	57	O87 8JK
+563f20b0-525f-4c46-b161-832f4fb44f44	b5dcfc44-d140-47ab-9eeb-c26619b70db2	PolicePro	2024-08-24T11:27:43	completed_form	2024-08-24T11:29:43	Toyota	Auris	35	CH68 4SK
+13abad54-cbab-450b-9cf3-ab4a1f6c7948	efc2aea9-28f8-4750-92f0-e6d9dff16174	ShieldDirect	2024-04-06T09:20:47	completed_form	2024-04-06T09:28:47	Kia	Sportage	20	YN17 7UT
+24be09a2-3345-46fb-bed4-63f0b9cd54ba	2caffb5b-bc23-459c-9ed7-8ff2d0372827	PolicePro	2024-06-05T03:06:10	page_1		Kia	Niro	37	KH50 9TR
+a46a4a2b-e88e-4148-be92-af6bdce67507	0619f388-f871-4587-b57f-bdc8ffcaa8ee	SwiftCover	2024-11-15T06:49:00	completed_form	2024-11-15T06:52:00	Volkswagen	ID.3	31	QR12 5WJ
+7f9ab226-8dd4-4f9a-bf76-ce7b58c6221e	dd341246-ff37-46f2-9a4e-7e501be6f429	SwiftCover	2024-11-16T00:59:15	page_4		Toyota	C-HR	31	P55 3FC
+4fc32f03-e4a5-49ea-82dd-27fc9d1faa72	ed199f7b-5eb3-4b9b-97ec-1a6e41057788	SwiftCover	2024-06-12T21:09:37	completed_form	2024-06-12T21:20:37	Toyota	Yaris	78	T83 4YP
+3529c457-f165-44b9-b828-5b11a6ad3999	8d5b69d8-c01a-4255-a7da-2a5bdb31c49b	ShieldDirect	2024-05-28T20:49:19	completed_form	2024-05-28T20:52:19	Vauxhall	Astra	78	WI69 2AC
+801f045a-c176-44d6-b68c-090ae536f3b8	a3fb805f-5b03-4f0b-acb1-fff78b380cb4	PolicePro	2024-04-02T01:24:37	completed_form	2024-04-02T01:33:37	Tesla	Model 3	46	FC27 6FU
+4002c314-0098-4117-adb0-f8c0f92860d8	9d01a738-7bb6-43f5-8ed9-97ebd832cba2	PolicePro	2024-12-16T03:55:15	page_3		Kia	Niro	49	W65 9LY
+37b0395d-0c93-499b-85dc-ff8560d92892	fe958afe-491b-48ff-ab35-999714224690	SwiftCover	2024-08-04T01:28:02	page_4		Mercedes-Benz	A-Class	30	YA15 8QL
+0e7e1323-4d47-4ddf-b41b-beddfff5e1b6	54f4dabf-df7c-4751-ac2a-241c5aa651e8	SwiftCover	2024-12-04T23:40:56	page_3		Toyota	C-HR	26	HQ92 9WV
+67c7dbd7-a0d3-4fa3-ab7b-c5b9c8aed8d2	7b87200e-a007-4e61-9fcd-48b6c1cc0e3f	PolicePro	2024-03-03T12:41:33	completed_form	2024-03-03T12:55:33	Vauxhall	Astra	63	XL15 4NQ
+adb65387-9f95-4822-9154-3af0350f9e34	8d36fd05-dec0-485c-b7be-22c1bbe58dcf	ShieldDirect	2024-10-24T15:44:24	page_1		Ford	Mustang Mach-E	49	Z95 5YT
+5c67d827-cf78-4d2b-a147-ac1351cbae29	9c7454ec-0aa5-4c7a-861a-dcf141cfc977	SwiftCover	2024-01-12T06:17:15	completed_form	2024-01-12T06:30:15	Audi	Q5	30	Q32 9DJ
+beff368b-8d10-41e2-821a-21f678eb71fa	56a3a800-61e4-4fef-8fe8-d8ea04ce593a	SwiftCover	2024-01-23T13:33:15	completed_form	2024-01-23T13:46:15	Ford	Kuga	21	R75 1NY
+7086cf21-9603-4265-b44a-b9cda28e3f11	a20dd807-0010-475c-86e4-0544e6046847	SwiftCover	2024-07-14T19:36:34	completed_form	2024-07-14T19:46:34	Kia	Niro	84	X12 3LM
+256b6d74-a6e4-4b91-9449-bf7aea5ed7c8	b0eaf2a3-f327-4d73-be99-9b968735433d	SwiftCover	2024-04-26T00:18:59	completed_form	2024-04-26T00:31:59	Volkswagen	Polo	58	TJ72 2JS
+cd776447-7d96-4983-8a16-b1748ef9f1f1	6e9678b5-c542-4608-b609-e89351deb55e	ShieldDirect	2024-12-12T22:08:43	completed_form	2024-12-12T22:14:43	Hyundai	Kona	46	S95 9CR
+dac8b5d2-2598-4f64-8cd8-0c5f15a901b6	55334106-2114-4bdd-b376-b34eb945ccfb	ShieldDirect	2024-11-04T08:01:35	completed_form	2024-11-04T08:14:35	Tesla	Model Y	74	VP21 4UJ
+81e238c2-90f4-48da-904a-bf1938a7d8f3	f3070688-e7eb-4a22-bc12-22b9b4e8bd2d	PolicePro	2024-03-05T15:00:47	page_1		Audi	A1	28	W26 1TP
+a7797750-7376-4d1f-a0d1-1f6b33f150be	f66c7611-ee1c-4749-b111-d49ff4ab9afa	ShieldDirect	2024-11-02T08:09:35	page_4		Tesla	Model Y	68	UW88 1PE
+6a2c827e-38ba-4920-aaea-d32cb4db7e86	15a57285-51c1-4ee8-869d-4959da3d6465	PolicePro	2024-11-23T01:56:43	completed_form	2024-11-23T02:03:43	Kia	Niro	63	TE31 9GJ
+b3e8daf7-3609-4eda-a01e-1dbe29f56490	78059c87-4419-4a48-8b7f-b6a1d74f6852	PolicePro	2024-07-04T03:33:39	page_4		Tesla	Model S	32	OB65 5HC
+9033fe4e-1514-429c-aa59-67a11beb1b17	f0a92f8d-438c-46e2-9efe-70e31131897b	ShieldDirect	2024-06-10T02:43:46	completed_form	2024-06-10T02:57:46	Toyota	Yaris	83	XJ68 8UC
+fac47feb-580a-4d07-8942-8b134eb7b023	62c81405-dd91-40f0-807d-c4a46cfe4d44	ShieldDirect	2024-05-29T06:38:35	page_2		Volkswagen	ID.3	41	O31 8DS
+4530a1a2-06aa-4497-b4dd-d8588e98e5d6	8b14c16d-3ee3-4a1e-8e60-ba987f735298	ShieldDirect	2024-07-12T17:35:19	completed_form	2024-07-12T17:46:19	Ford	Mustang Mach-E	40	Y14 7XE
+5052d440-9f51-4d0b-ba84-34f4b147230f	d1e90d16-9f5c-45de-8f3e-9ea7d29d7e80	PolicePro	2024-10-13T08:10:13	completed_form	2024-10-13T08:25:13	BMW	5 Series	29	A6 6GK
+5e5bc8f6-8f8c-4929-a902-4f58851b7751	9049b76c-f7d8-4894-a225-605d3d029941	SwiftCover	2024-08-16T19:58:41	page_3		Tesla	Model 3	83	SG84 4DT
+4256027e-c4fa-4bf6-addd-f6b4c53a2011	146ec6d4-4086-4b6a-8bc2-4b1064dc7e1e	ShieldDirect	2024-03-30T02:50:39	completed_form	2024-03-30T03:01:39	Audi	A3	23	I25 7VW
+aa5c748d-d80f-4e29-b5b8-68a3b90651af	bd968580-e3ee-4335-9d0a-fbf49be0f078	SwiftCover	2024-02-03T19:19:12	completed_form	2024-02-03T19:32:12	Volkswagen	ID.3	73	RV5 5PD
+6e781ad2-72f6-45e4-b5a7-55553cd2fc5d	9f0c8387-2f51-4871-960c-aec0af98fa2b	SwiftCover	2024-07-07T10:41:53	completed_form	2024-07-07T10:44:53	Vauxhall	Crossland	56	R48 1TH
+56c3ae64-02b6-4ddf-aa62-8a82febbba9b	58d8011d-436b-4f53-b4b4-119f606db78b	ShieldDirect	2024-03-11T02:22:36	page_4		Vauxhall	Crossland	74	W14 6HS
+ad01658f-2768-4028-9793-c4002acb269a	bf954167-8c3f-4acb-9b04-cc6e813c13f2	SwiftCover	2024-04-06T09:43:28	page_1		Ford	Fiesta	67	UN17 1PD
+eae1f511-9ced-4c27-8a27-52d1bd7266f0	2a76906c-6aa8-4527-84a8-f4d20ee99c1d	ShieldDirect	2024-12-13T17:28:44	completed_form	2024-12-13T17:38:44	Hyundai	Kona	30	S91 6MC
+e2d28c34-4fcc-4b03-bf1a-d0e779e3fa67	49e4dc3e-dd34-462a-b031-61bb49ae4c26	SwiftCover	2024-07-02T02:01:05	page_1		Mercedes-Benz	C-Class	54	K65 5CP
+5b63d6cf-8a61-43b3-8af6-342a5cf7fb97	27bf08db-25a2-41ce-89d2-9201f51a5f4f	SwiftCover	2024-05-03T13:58:07	completed_form	2024-05-03T14:04:07	Ford	Fiesta	71	F66 6EK
+78344681-6a77-41af-bcb2-bd934bc892c4	40cbf04a-2b9c-42dc-8d58-7ad6c208d346	ShieldDirect	2024-01-06T01:56:15	page_2		Ford	Kuga	67	BB93 9BH
+a642a08e-a559-484b-8a4b-ed9792ec44e8	1d4d28be-113a-479e-9d17-27e406ac26a5	SwiftCover	2024-01-16T05:00:55	completed_form	2024-01-16T05:09:55	Audi	A1	60	S93 8FK
+2c11f097-f0d4-41a9-b298-eabdad5e646a	58f7bd46-1807-46ff-8209-3dddc4feec6e	PolicePro	2024-09-11T14:29:02	page_4		Volkswagen	ID.3	34	KU35 2RP
+cb29505b-224a-45e7-aad1-aa257a7c1a72	dde7f76a-5d6f-4258-a58c-4385de2b9179	PolicePro	2024-01-06T22:03:27	completed_form	2024-01-06T22:17:27	Toyota	Auris	27	Q64 8TT
+0f70a242-d4f9-4455-b764-071d9ef85f01	87f9fc18-daaa-4265-8071-6c1173dc0c59	ShieldDirect	2024-04-18T17:05:42	completed_form	2024-04-18T17:18:42	Kia	Picanto	40	P62 2VH
+5ddb9914-3d9c-4f79-b9d2-c1c7c6032a89	3eb1a995-57b0-40c6-9bc2-5fe87b705a0b	PolicePro	2024-09-30T17:32:40	page_1		Vauxhall	Astra	17	M65 8CN
+528eb2a4-97f1-4d78-9aff-21b4d8838398	e96648bb-81c1-4dbf-a1b9-157f3189ae28	PolicePro	2024-07-10T12:34:14	completed_form	2024-07-10T12:48:14	Kia	EV6	23	C21 9SG
+8497c864-f919-4107-9984-57a86fd60d7c	578e6ee7-7d97-45c2-8269-6f8f6158490f	PolicePro	2024-02-11T00:16:26	completed_form	2024-02-11T00:30:26	Volkswagen	Tiguan	76	WU7 9QF
+90bf1d8c-54ae-4690-b688-e544a918ba51	4865f448-cd08-44c9-9b35-4e72fcca963b	ShieldDirect	2024-01-20T16:59:21	page_1		Ford	Fiesta	76	PP12 9FG
+3fdcb813-92b3-47a8-b1b2-c2d0c30db974	5ccac3d3-e5c7-46eb-965d-0063d428d40f	PolicePro	2024-10-02T01:44:37	page_4		Toyota	Yaris	17	Q6 9GW
+72a85c94-227a-472c-b6b9-3590ea978520	3e0d8425-735e-42b6-b057-7c5a306a2c48	ShieldDirect	2024-10-27T16:57:51	page_4		Ford	Fiesta	22	A93 8XX
+4c3f27b5-ae3b-4587-bec8-e67770970d3e	4a2f6fa3-7374-4d02-b8db-3f268ca92607	ShieldDirect	2024-02-10T11:28:56	page_4		BMW	5 Series	27	J19 4GB
+9e0f3ca0-a0c7-456d-ba4b-6147c350002f	54675b10-0468-4729-b479-3fd1cfbe5530	SwiftCover	2024-11-11T02:17:49	completed_form	2024-11-11T02:21:49	Audi	e-tron	52	OJ22 1GH
+6baf6bfb-abbd-4114-81c2-9d9021ce6dda	b455bf63-3fa2-4f18-a973-2acd32d697c7	PolicePro	2024-04-27T06:34:52	page_2		Vauxhall	Corsa	48	KO50 7VQ
+bdeb96d7-cf3e-4d24-a044-c3ab1ad576ef	d2ebf60d-2a01-4f51-85fc-f4673e3b4173	SwiftCover	2024-03-24T22:16:42	completed_form	2024-03-24T22:31:42	Audi	A3	51	I98 4QH
+d566d37c-0571-4a0d-bb9b-a7769125c90c	24db7030-7ac0-44fe-8608-85fda9cd027f	ShieldDirect	2024-08-25T07:49:17	page_3		Toyota	C-HR	28	FM3 4HS
+9b88682a-0ebf-4509-872c-6f724da5ab1b	bafb7060-1a7b-46d8-8cd0-772568a7bba3	ShieldDirect	2024-12-10T03:18:59	page_3		BMW	1 Series	44	S23 9KY
+0fab5aa3-2498-4e48-9350-33f879953ab4	a2cfb8f8-869e-4a74-ba8f-186ec647727c	SwiftCover	2024-11-07T09:59:34	page_4		Mercedes-Benz	C-Class	38	L52 7QQ
+85d4c46c-9366-40a0-9ba0-087a3c586621	4047271b-84a8-4bfd-adcb-f3c7776fe9ac	SwiftCover	2024-10-10T15:01:17	page_1		Vauxhall	Astra	78	FS32 7KE
