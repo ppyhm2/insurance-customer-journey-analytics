@@ -16,13 +16,15 @@ Measures end-to-end effectiveness across three stages: proposal started, policy 
 | Component | Definition |
 |---|---|
 | Journey stage 1 | Proposal started — `proposal_id` exists in proposals table |
-| Journey stage 2 | Policy purchased — `is_purchased = True` in quotes table |
-| Journey stage 3 | First payment succeeded — earliest transaction per `quote_id` has `status = 'Success'` |
+| Journey stage 2 | Policy purchased — `was_purchased = True` in `fct_proposals` |
+| Journey stage 3 | First payment succeeded — earliest transaction per `quote_id` has `payment_status = 'Success'` |
 | Numerator | `COUNT(DISTINCT proposal_id)` where all three stages completed |
 | Denominator | `COUNT(DISTINCT proposal_id)` |
 | Source mart | `fct_proposals` |
 
-First payment identified via `ROW_NUMBER() OVER (PARTITION BY quote_id ORDER BY payment_date ASC)` where `rn = 1 AND status = 'Success'`.
+First payment identified via `ROW_NUMBER() OVER (PARTITION BY quote_id ORDER BY payment_date ASC)` where `rn = 1 AND payment_status = 'Success'`.
+
+> **Note on journey stage 3:** this definition checks whether the *first* payment attempt succeeded. A proposal where the first payment failed but a subsequent retry succeeded would not satisfy stage 3. This is a deliberate boundary — it reflects whether the customer converted cleanly, not whether revenue was eventually realised after failure.
 
 ---
 
@@ -35,8 +37,10 @@ Measures how often quotes are declined and why. Answers: are we losing potential
 
 | Metric | Definition | Source mart |
 |---|---|---|
-| Decline Rate | `COUNT(DISTINCT quote_id WHERE status = 'Declined') / COUNT(DISTINCT quote_id)` | `fct_quotes` |
-| Reason Distribution | `COUNT(reason_code) / COUNT(all reason_codes)` | `fct_decline_reasons` |
+| Decline Rate | `COUNT(DISTINCT quote_id WHERE quote_status = 'Declined') / COUNT(DISTINCT quote_id)` | `fct_quotes` |
+| Reason Distribution | `COUNT(DISTINCT quote_id WHERE reason_code = 'X') / COUNT(DISTINCT quote_id WHERE quote_status = 'Declined')` | `fct_decline_reasons` |
+
+> **Note on Reason Distribution:** percentages may sum to more than 100% because a single quote can have multiple decline reasons. This is intentional — the metric measures the proportion of declined customers affected by each reason, not the frequency of each reason code as a share of all recorded decline events.
 
 ---
 
