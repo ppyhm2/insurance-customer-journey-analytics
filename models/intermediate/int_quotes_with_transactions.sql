@@ -13,7 +13,7 @@ WITH transaction_ranked AS (
 transaction_summary AS (
     SELECT
         quote_id,
-        COUNT(*)                                                    AS total_payments,
+        COUNT(*)                                                    AS total_payments, -- counts all payment attempts, including failed ones
         SUM(CASE WHEN payment_status = 'Failed' THEN 1 ELSE 0 END) AS failed_payment_count,
         MIN(payment_date)                                           AS first_payment_date,
         MAX(payment_date)                                           AS latest_payment_date,
