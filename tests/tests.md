@@ -23,6 +23,7 @@ The tests below are non-exhaustive but representative of what should be implemen
 |---|---|---|
 | Referential integrity | `int_proposals_with_quotes.proposal_id` | Every `proposal_id` must exist in `stg_proposals` |
 | Row count parity | `int_proposals_with_quotes` vs `stg_proposals` | Row counts must match — guards against join fan-out; each proposal should appear exactly once |
+| Row count parity | `int_decline_reasons_enriched` vs `stg_decline_reasons` | Row counts must match — guards against fan-out from the `stg_quotes` join; each decline reason row should appear exactly once |
 
 ---
 
@@ -32,6 +33,7 @@ The tests below are non-exhaustive but representative of what should be implemen
 |---|---|---|
 | Not null when condition | `fct_proposals.purchased_premium` | Must never be null when `was_purchased = True` |
 | Null when condition | `fct_quotes.first_payment_status` | Must never be populated for unpurchased quotes |
+| Null when condition | `fct_proposals.first_payment_status` | Must never be populated for proposals where `was_purchased = False` |
 | Always positive | `fct_quotes.monthly_premium` | Monthly premium must always be positive |
 
 ---
