@@ -68,4 +68,4 @@ All IDs are UUID. Data covers the 2024 calendar year. A small number of transact
 
 - **Modelling:** dbt-style layered architecture (staging → intermediate → marts)
 - **SQL:** written as portable pseudo-SQL; adaptable to Redshift, BigQuery, Snowflake, or PostgreSQL
-- **Visualisation:** dashboard design only; wireframes produced in Excalidraw
+- **Visualisation:** dashboard design described only as the back-end was the focus of this exercise
