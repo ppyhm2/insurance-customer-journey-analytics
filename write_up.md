@@ -71,17 +71,19 @@ Measures the average monthly premium and commission per purchased policy, segmen
 
 ### Decline Rate by Reason
 
-- **Decline Rate:** `COUNT(DISTINCT quote_id WHERE status = 'Declined') / COUNT(DISTINCT quote_id)` — at quote grain in `fct_quotes`
+- **Decline Rate:** `COUNT(DISTINCT quote_id WHERE quote_status = 'Declined') / COUNT(DISTINCT quote_id)` — at quote grain in `fct_quotes`
 - **Reason Distribution:** `COUNT(reason_code) / COUNT(all reason_codes)` — at reason grain in `fct_decline_reasons`
 
 ### Complete Funnel Conversion Rate (Landing to First Payment)
 
 - Journey stage 1 — Proposal started: `proposal_id` exists in proposals table
-- Journey stage 2 — Policy purchased: `is_purchased = True` in quotes table
-- Journey stage 3 — First payment succeeded: earliest transaction per `quote_id` has `status = 'Success'`
+- Journey stage 2 — Policy purchased: `was_purchased = True` in `fct_proposals`
+- Journey stage 3 — First payment succeeded: earliest transaction per `quote_id` has `payment_status = 'Success'`
 - **Numerator:** `COUNT(DISTINCT proposal_id)` where all three stages completed
 - **Denominator:** `COUNT(DISTINCT proposal_id)`
-- First payment identified via `ROW_NUMBER() OVER (PARTITION BY quote_id ORDER BY payment_date ASC)` where `rn = 1 AND status = 'Success'`
+- First payment identified via `ROW_NUMBER() OVER (PARTITION BY quote_id ORDER BY payment_date ASC)` where `rn = 1 AND payment_status = 'Success'`
+
+> **Note on journey stage 3:** this definition checks whether the *first* payment attempt succeeded. A proposal where the first payment failed but a subsequent retry succeeded would not satisfy stage 3. This is a deliberate boundary — it reflects whether the customer converted cleanly, not whether revenue was eventually realised after failure.
 
 ### Quote-to-Purchase Rate
 
@@ -121,7 +123,7 @@ One row per proposal. The primary mart for understanding the end-to-end customer
 
 Full transaction history and individual quote details are intentionally excluded — these live in `fct_quotes`. Collapsing multiple transactions or multiple quotes to proposal grain would either lose information or require arbitrary choices about which quote or payment to surface.
 
-**Columns:** `proposal_id`, `user_id`, `brand`, `car_make`, `car_model`, `user_age`, `postcode`, `drop_out_status`, `landing_at`, `form_completed_at`, `time_to_complete`, `quote_count`, `was_quoted`, `was_purchased`, `purchased_insurer_name`, `purchased_premium`, `first_quoted_at`, `first_payment_status`, `data_refreshed_on`
+**Columns:** `proposal_id`, `user_id`, `brand`, `car_make`, `car_model`, `user_age`, `user_age_category`, `postcode`, `drop_out_status`, `landing_at`, `form_completed_at`, `time_to_complete`, `quote_count`, `was_quoted`, `was_purchased`, `purchased_insurer_name`, `purchased_premium`, `first_quoted_at`, `first_payment_status`, `data_refreshed_on`
 
 **Answers:** complete funnel conversion rate, drop-out rate by page, quote-to-purchase rate (partial), average premium at proposal level
 
@@ -129,7 +131,7 @@ Full transaction history and individual quote details are intentionally excluded
 
 One row per quote. The primary mart for insurer and pricing analysis. Demographic context from proposals is deliberately joined down to quote grain so segmentation analysis does not require additional joins. Full transaction detail is collapsed to quote grain because transactions join at `quote_id`.
 
-**Columns:** `quote_id`, `proposal_id`, `brand`, `car_make`, `car_model`, `user_age`, `user_age_category`, `postcode`, `insurer_name`, `quote_status`, `monthly_premium`, `monthly_commission`, `quoted_at`, `is_purchased`, `total_payments`, `failed_payment_count`, `first_payment_status`, `first_payment_date`, `latest_payment_status`, `latest_payment_date`, `data_refreshed_on`
+**Columns:** `quote_id`, `proposal_id`, `brand`, `car_make`, `car_model`, `user_age`, `user_age_category`, `postcode`, `insurer_name`, `quote_status`, `monthly_premium`, `monthly_commission`, `quoted_at`, `is_purchased`, `total_payments` (all payment attempts including failed), `failed_payment_count`, `first_payment_status`, `first_payment_date`, `latest_payment_status`, `latest_payment_date`, `data_refreshed_on`
 
 **Answers:** insurer performance, pricing analysis, decline rates by insurer, average premium and commission by segment, quote-to-purchase rate, payment success rate
 
@@ -233,23 +235,23 @@ WITH quote_summary AS (
     SELECT
         proposal_id,
         COUNT(quote_id)                                                  AS quote_count,
-        BOOL_OR(is_purchased)                                            AS was_purchased,
-        MAX(CASE WHEN is_purchased IS TRUE THEN insurer_name END)        AS purchased_insurer_name,
-        MAX(CASE WHEN is_purchased IS TRUE THEN monthly_premium END)     AS purchased_premium,
-        MAX(CASE WHEN quote_status = 'Quoted' THEN TRUE END)             AS was_quoted,
-        MIN(quoted_at)                                                   AS first_quoted_at,
-        MAX(CASE WHEN is_purchased IS TRUE THEN quote_id END)            AS purchased_quote_id
+        COALESCE(BOOL_OR(is_purchased), FALSE)                                AS was_purchased,
+        MAX(CASE WHEN is_purchased IS TRUE THEN insurer_name END)             AS purchased_insurer_name,
+        MAX(CASE WHEN is_purchased IS TRUE THEN monthly_premium END)          AS purchased_premium,
+        COALESCE(MAX(CASE WHEN quote_status = 'Quoted' THEN TRUE END), FALSE) AS was_quoted,
+        MIN(quoted_at)                                                        AS first_quoted_at,
+        MAX(CASE WHEN is_purchased IS TRUE THEN quote_id END)                 AS purchased_quote_id
     FROM stg_quotes
     GROUP BY proposal_id
 ),
 first_payment AS (
     SELECT
         quote_id,
-        status AS first_payment_status
+        payment_status AS first_payment_status
     FROM (
         SELECT
             quote_id,
-            status,
+            payment_status,
             ROW_NUMBER() OVER (PARTITION BY quote_id ORDER BY payment_date ASC) AS rn
         FROM stg_transactions
     ) ranked
@@ -266,6 +268,13 @@ SELECT
     p.car_make,
     p.car_model,
     p.user_age,
+    CASE
+        WHEN p.user_age BETWEEN 17 AND 25 THEN '17-25'
+        WHEN p.user_age BETWEEN 26 AND 35 THEN '26-35'
+        WHEN p.user_age BETWEEN 36 AND 50 THEN '36-50'
+        WHEN p.user_age BETWEEN 51 AND 65 THEN '51-65'
+        ELSE '65+'
+    END                                AS user_age_category,
     p.postcode,
     q.quote_count,
     q.was_quoted,
@@ -294,7 +303,7 @@ WITH transaction_ranked AS (
 transaction_summary AS (
     SELECT
         quote_id,
-        COUNT(*)                                                        AS total_payments,
+        COUNT(*)                                                        AS total_payments, -- counts all payment attempts, including failed ones
         SUM(CASE WHEN payment_status = 'Failed' THEN 1 ELSE 0 END)     AS failed_payment_count,
         MIN(payment_date)                                               AS first_payment_date,
         MAX(payment_date)                                               AS latest_payment_date,
@@ -372,10 +381,11 @@ SELECT
     landing_at,
     drop_out_status,
     form_completed_at,
-    form_completed_at - landing_at  AS time_to_complete,  -- null for non-completions
+    time_to_complete,              -- null for non-completions; calculated in int_proposals_with_quotes
     car_make,
     car_model,
     user_age,
+    user_age_category,
     postcode,
     quote_count,
     was_quoted,
@@ -504,7 +514,7 @@ Wireframes for the front page and KPI pages were produced in Excalidraw to illus
 
 #### Drop-out Rate by Page
 - **Headlines:** Overall drop-out rate and per-page drop-out rate
-- **Primary visual:** Bar chart showing drop-out rate at each of the five pages
+- **Primary visual:** Bar chart showing drop-out rate at each of the four pages (pages 1–4; users who reach `completed_form` did not drop out and are not represented as a drop-out bar)
 - **Supporting visual:** Drop-out rates over time — allows the Product team to measure the impact of form changes directly
 - **Filters:** Date, brand, age category
 
