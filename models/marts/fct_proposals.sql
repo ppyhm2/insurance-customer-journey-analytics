@@ -8,10 +8,11 @@ SELECT
     landing_at,
     drop_out_status,
     form_completed_at,
-    form_completed_at - landing_at AS time_to_complete, -- null for non-completions
+    time_to_complete,              -- null for non-completions; calculated in int_proposals_with_quotes
     car_make,
     car_model,
     user_age,
+    user_age_category,
     postcode,
     quote_count,
     was_quoted,
