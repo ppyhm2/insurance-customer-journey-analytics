@@ -507,7 +507,7 @@ Additional design considerations:
 #### Decline Rate by Reason
 - **Headline:** Overall decline rate percentage
 - **Primary visual:** Decline rate over time
-- **Supporting visuals:** Distribution of declines by reason code (bar chart preferred over pie chart given five reasons and potentially uneven distribution); sparklines per reason code showing individual trends without the visual clutter of five lines on one chart; breakdown by insurer
+- **Supporting visuals:** Distribution of declines by reason code (bar chart preferred over pie chart given five reasons in the dataset and potentially uneven distribution); sparklines per reason code showing individual trends without the visual clutter of five lines on one chart; breakdown by insurer
 - **Filters:** Date, age category
 
 #### Drop-out Rate by Page
