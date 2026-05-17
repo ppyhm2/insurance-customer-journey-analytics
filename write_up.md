@@ -496,8 +496,6 @@ Additional design considerations:
 - **Colour-blindness awareness** — affects approximately 8% of males and 0.5% of females; chart palette should be tested accordingly
 - Consistent branding, sizing, and chart choice across all pages
 
-Wireframes for the front page and KPI pages were produced in Excalidraw to illustrate page structure and chart placement.
-
 ### KPI Page Descriptions
 
 #### Funnel Conversion Rate
